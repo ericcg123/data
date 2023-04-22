@@ -17,7 +17,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9432050.0,anchorage,1,2020-01-01 03:28:04,2020-01-02 00:29:47,149999.0,Crude Oil Tanker,anchorage41,Suezmax,0 days 21:01:43,
 9318149.0,SPM,3,2020-01-01 05:27:28,2020-01-01 05:28:39,167282.0,Crude Oil Tanker,SPM3,Suezmax,0 days 00:01:11,1.0
 9318149.0,anchorage,1,2020-01-01 05:52:29,2020-01-01 07:30:25,167282.0,Crude Oil Tanker,anchorage23,Suezmax,0 days 01:37:56,
-9294252.0,anchorage,1,2020-01-01 06:43:05,2020-01-01 07:54:26,302477.0,Crude Oil Tanker,anchorage49,VLCC,0 days 01:11:21,1.0
+9294252.0,anchorage,1,2020-01-01 06:43:05,2020-01-01 07:54:26,302477.0,Crude Oil Tanker,anchorage49,VLCC,0 days 01:11:21,
 9127693.0,anchorage,1,2020-01-01 06:57:27,2020-01-02 12:37:29,46432.0,Asphalt/Bitumen Tanker,anchorage24,Handysize,1 days 05:40:02,
 9253478.0,anchorage,1,2020-01-01 07:03:13,2020-01-02 14:49:12,47149.0,Products Tanker,anchorage10,Handysize,1 days 07:45:59,
 9432036.0,anchorage,1,2020-01-01 09:14:59,2020-01-02 07:05:27,162342.0,Crude Oil Tanker,anchorage16,Suezmax,0 days 21:50:28,1.0
@@ -31,22 +31,19 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9290397.0,berth,1,2020-01-02 14:29:56,2020-01-03 07:54:43,159156.0,Crude Oil Tanker,berth1,Suezmax,0 days 17:24:47,1.0
 9501162.0,anchorage,1,2020-01-02 16:13:59,2020-01-03 00:13:52,316373.0,Crude Oil Tanker,anchorage48,VLCC,0 days 07:59:53,
 9233650.0,SPM,4,2020-01-02 16:56:55,2020-01-04 12:55:42,305795.0,Crude Oil Tanker,SPM4,VLCC,1 days 19:58:47,1.0
-9829643.0,berth,2,2020-01-02 18:40:16,2020-01-02 18:40:16,320596.0,Crude Oil Tanker,berth2,ULCC,0 days 00:00:00,1.0
-9779379.0,anchorage,1,2020-01-03 01:23:30,2020-01-03 13:38:07,156458.0,Crude Oil Tanker,anchorage66,Suezmax,0 days 12:14:37,1.0
+9779379.0,anchorage,1,2020-01-03 01:23:30,2020-01-03 13:38:07,156458.0,Crude Oil Tanker,anchorage66,Suezmax,0 days 12:14:37,
 9010802.0,anchorage,1,2020-01-03 05:33:39,2020-01-07 05:22:03,23400.0,Products Tanker,anchorage5,Handysize,3 days 23:48:24,
 9419618.0,anchorage,1,2020-01-03 06:21:03,2020-01-04 13:50:05,313525.0,Crude Oil Tanker,anchorage22,VLCC,1 days 07:29:02,1.0
 9266762.0,anchorage,1,2020-01-03 07:57:30,2020-01-06 01:51:45,70426.0,Crude/Oil Products Tanker,anchorage62,Panamax,2 days 17:54:15,
 9215103.0,anchorage,1,2020-01-03 09:17:16,2020-01-04 06:50:14,45999.0,Chemical/Products Tanker,anchorage15,Handysize,0 days 21:32:58,
 9008811.0,anchorage,1,2020-01-03 11:29:13,2020-01-03 19:02:13,10006.0,Products Tanker,anchorage5,Sub Handysize,0 days 07:33:00,
 9532757.0,anchorage,1,2020-01-03 14:17:24,2020-01-03 21:34:40,320780.0,Crude Oil Tanker,anchorage32,ULCC,0 days 07:17:16,1.0
-9779379.0,berth,2,2020-01-03 16:18:46,2020-01-03 16:18:46,156458.0,Crude Oil Tanker,berth2,Suezmax,0 days 00:00:00,1.0
 9352559.0,anchorage,1,2020-01-03 21:21:30,2020-01-04 00:08:08,306506.0,Crude Oil Tanker,anchorage52,VLCC,0 days 02:46:38,1.0
 9532757.0,berth,4,2020-01-03 23:35:00,2020-01-07 00:51:15,320780.0,Crude Oil Tanker,berth4,ULCC,3 days 01:16:15,1.0
 9432036.0,anchorage,1,2020-01-04 00:14:21,2020-01-04 10:52:24,162342.0,Crude Oil Tanker,anchorage54,Suezmax,0 days 10:38:03,
 9352559.0,SPM,2,2020-01-04 01:30:40,2020-01-05 15:06:57,306506.0,Crude Oil Tanker,SPM2,VLCC,1 days 13:36:17,1.0
 9345221.0,anchorage,1,2020-01-04 11:53:04,2020-01-06 04:16:30,13060.0,Products Tanker,anchorage63,Sub Handysize,1 days 16:23:26,
 9233650.0,anchorage,1,2020-01-04 13:22:58,2020-01-04 18:16:07,305795.0,Crude Oil Tanker,anchorage54,VLCC,0 days 04:53:09,
-9294252.0,berth,3,2020-01-04 13:49:04,2020-01-04 13:49:04,302477.0,Crude Oil Tanker,berth3,VLCC,0 days 00:00:00,1.0
 9294252.0,anchorage,1,2020-01-04 16:28:04,2020-01-05 07:30:47,302477.0,Crude Oil Tanker,anchorage52,VLCC,0 days 15:02:43,
 9294068.0,anchorage,1,2020-01-04 17:41:23,2020-01-04 21:27:30,297376.0,Crude Oil Tanker,anchorage49,VLCC,0 days 03:46:07,1.0
 9337157.0,SPM,3,2020-01-04 19:16:48,2020-01-06 07:28:44,297538.0,Crude Oil Tanker,SPM3,VLCC,1 days 12:11:56,1.0
@@ -230,7 +227,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9772333.0,SPM,3,2020-01-24 21:17:47,2020-01-26 16:59:55,149999.0,Crude Oil Tanker,SPM3,Suezmax,1 days 19:42:08,1.0
 9765366.0,berth,2,2020-01-24 23:28:41,2020-01-26 23:46:41,159962.0,Crude Oil Tanker,berth2,Suezmax,2 days 00:18:00,1.0
 9187435.0,anchorage,1,2020-01-25 16:38:33,2020-01-25 19:49:25,107181.0,Crude Oil Tanker,anchorage2,Aframax,0 days 03:10:52,
-9771743.0,anchorage,1,2020-01-25 19:56:36,2020-01-25 21:16:37,307664.0,Crude Oil Tanker,anchorage48,VLCC,0 days 01:20:01,1.0
+9771743.0,anchorage,1,2020-01-25 19:56:36,2020-01-25 21:16:37,307664.0,Crude Oil Tanker,anchorage48,VLCC,0 days 01:20:01,
 9261396.0,anchorage,1,2020-01-25 20:49:18,2020-01-29 19:48:35,37248.0,Chemical/Products Tanker,anchorage5,Handysize,3 days 22:59:17,
 9772333.0,anchorage,1,2020-01-26 21:47:57,2020-01-27 13:11:56,149999.0,Crude Oil Tanker,anchorage17,Suezmax,0 days 15:23:59,
 9159660.0,anchorage,1,2020-01-27 01:43:31,2020-02-02 05:56:27,159211.0,Crude Oil Tanker,anchorage39,Suezmax,6 days 04:12:56,
@@ -255,7 +252,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9318084.0,anchorage,1,2020-01-28 19:56:12,2020-02-06 06:37:29,159233.0,Crude Oil Tanker,anchorage33,Suezmax,8 days 10:41:17,
 9750062.0,anchorage,1,2020-01-28 20:19:26,2020-01-28 22:01:39,149992.0,Crude Oil Tanker,anchorage2,Suezmax,0 days 01:42:13,1.0
 9404924.0,anchorage,1,2020-01-28 20:51:41,2020-01-29 08:31:01,313405.0,Crude Oil Tanker,anchorage52,VLCC,0 days 11:39:20,
-9771743.0,berth,1,2020-01-28 22:49:47,2020-01-28 22:49:47,307664.0,Crude Oil Tanker,berth1,VLCC,0 days 00:00:00,1.0
 9750062.0,SPM,1,2020-01-28 23:05:10,2020-01-29 03:20:00,149992.0,Crude Oil Tanker,SPM1,Suezmax,0 days 04:14:50,1.0
 9771743.0,anchorage,1,2020-01-28 23:11:08,2020-01-29 07:55:26,307664.0,Crude Oil Tanker,anchorage32,VLCC,0 days 08:44:18,
 9733806.0,berth,1,2020-01-29 02:12:49,2020-02-01 18:46:24,299999.0,Crude Oil Tanker,berth1,VLCC,3 days 16:33:35,1.0
@@ -1227,7 +1223,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9182306.0,anchorage,1,2020-05-14 13:52:19,2020-05-20 04:55:20,298677.0,Crude Oil Tanker,anchorage17,VLCC,5 days 15:03:01,
 7916686.0,anchorage,1,2020-05-14 14:11:00,2020-05-15 00:49:52,2254.0,Products Tanker,anchorage11,Sub Handysize,0 days 10:38:52,
 9804277.0,anchorage,1,2020-05-14 16:19:56,2020-05-14 22:53:16,318737.0,Crude Oil Tanker,anchorage49,VLCC,0 days 06:33:20,1.0
-9791004.0,berth,3,2020-05-14 22:14:41,2020-05-14 22:14:41,109898.0,Crude/Oil Products Tanker,berth3,Aframax,0 days 00:00:00,1
 9804277.0,SPM,3,2020-05-14 23:41:14,2020-05-17 08:15:43,318737.0,Crude Oil Tanker,SPM3,VLCC,2 days 08:34:29,1.0
 9779161.0,anchorage,1,2020-05-15 02:35:26,2020-05-16 07:18:53,2500.0,Products Tanker,anchorage11,Sub Handysize,1 days 04:43:27,
 9841627.0,anchorage,1,2020-05-15 09:22:43,2020-05-15 22:03:59,156574.0,Crude Oil Tanker,anchorage2,Suezmax,0 days 12:41:16,1
@@ -1248,7 +1243,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9804277.0,anchorage,1,2020-05-17 09:27:03,2020-05-17 10:40:02,318737.0,Crude Oil Tanker,anchorage22,VLCC,0 days 01:12:59,
 9008811.0,anchorage,1,2020-05-17 10:20:09,2020-05-25 17:06:02,10006.0,Products Tanker,anchorage8,Sub Handysize,8 days 06:45:53,
 9410181.0,anchorage,1,2020-05-17 11:21:46,2020-05-17 19:41:40,166092.0,Crude Oil Tanker,anchorage2,Suezmax,0 days 08:19:54,1.0
-9791004.0,berth,3,2020-05-17 13:44:56,2020-05-17 14:26:53,109898.0,Crude/Oil Products Tanker,berth3,Aframax,0 days 00:41:57,2
+9791004.0,berth,3,2020-05-17 13:44:56,2020-05-17 14:26:53,109898.0,Crude/Oil Products Tanker,berth3,Aframax,0 days 00:41:57,1
 9398943.0,anchorage,1,2020-05-17 18:04:09,2020-05-18 12:06:17,297305.0,Crude Oil Tanker,anchorage22,VLCC,0 days 18:02:08,1.0
 9410181.0,berth,2,2020-05-17 20:12:21,2020-05-20 20:45:07,166092.0,Crude Oil Tanker,berth2,Suezmax,3 days 00:32:46,1.0
 9395496.0,anchorage,1,2020-05-17 20:29:05,2020-05-18 02:26:54,297274.0,Crude Oil Tanker,anchorage2,VLCC,0 days 05:57:49,
@@ -1719,12 +1714,12 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9230892.0,berth,4,2020-07-14 21:26:58,2020-07-16 22:29:50,149921.0,Crude Oil Tanker,berth4,Suezmax,2 days 01:02:52,4.0
 9309423.0,anchorage,1,2020-07-14 21:55:37,2020-07-17 02:40:50,114850.0,Crude Oil Tanker,anchorage39,Aframax,2 days 04:45:13,
 9362877.0,anchorage,1,2020-07-15 07:40:09,2020-07-17 13:20:27,302165.0,Crude Oil Tanker,anchorage32,VLCC,2 days 05:40:18,1
-9294252.0,anchorage,1,2020-07-15 07:58:34,2020-07-15 16:39:42,302477.0,Crude Oil Tanker,anchorage48,VLCC,0 days 08:41:08,2.0
+9294252.0,anchorage,1,2020-07-15 07:58:34,2020-07-15 16:39:42,302477.0,Crude Oil Tanker,anchorage48,VLCC,0 days 08:41:08,1.0
 9137648.0,anchorage,1,2020-07-15 10:59:31,2020-07-16 14:28:03,146645.0,Crude Oil Tanker,anchorage59,Suezmax,1 days 03:28:32,3.0
 9575096.0,anchorage,1,2020-07-15 11:54:50,2020-07-16 03:27:38,297052.0,Crude Oil Tanker,anchorage52,VLCC,0 days 15:32:48,
 9326067.0,SPM,4,2020-07-15 12:43:21,2020-07-18 00:42:47,298495.0,Crude Oil Tanker,SPM4,VLCC,2 days 11:59:26,1.0
 9215103.0,anchorage,1,2020-07-15 14:56:09,2020-07-16 05:59:09,45999.0,Chemical/Products Tanker,anchorage15,Handysize,0 days 15:03:00,
-9294252.0,berth,2,2020-07-15 17:43:32,2020-07-17 05:33:43,302477.0,Crude Oil Tanker,berth2,VLCC,1 days 11:50:11,2.0
+9294252.0,berth,2,2020-07-15 17:43:32,2020-07-17 05:33:43,302477.0,Crude Oil Tanker,berth2,VLCC,1 days 11:50:11,1.0
 9266762.0,anchorage,1,2020-07-15 21:52:21,2020-07-22 04:59:27,70426.0,Crude/Oil Products Tanker,anchorage12,Panamax,6 days 07:07:06,
 9234654.0,anchorage,1,2020-07-16 11:13:17,2020-07-17 00:41:07,306999.0,Crude Oil Tanker,anchorage23,VLCC,0 days 13:27:50,
 9345221.0,anchorage,1,2020-07-16 13:16:38,2020-07-17 06:21:43,13060.0,Products Tanker,anchorage15,Sub Handysize,0 days 17:05:05,
@@ -1733,8 +1728,8 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9315367.0,anchorage,1,2020-07-16 14:16:42,2020-07-17 14:30:35,319247.0,Crude Oil Tanker,anchorage31,VLCC,1 days 00:13:53,1.0
 9137648.0,berth,3,2020-07-16 15:34:05,2020-07-18 15:23:02,146645.0,Crude Oil Tanker,berth3,Suezmax,1 days 23:48:57,3.0
 9159660.0,anchorage,1,2020-07-17 03:03:50,2020-07-23 05:09:34,159211.0,Crude Oil Tanker,anchorage39,Suezmax,6 days 02:05:44,
-9294252.0,anchorage,1,2020-07-17 06:22:30,2020-07-17 06:43:00,302477.0,Crude Oil Tanker,anchorage23,VLCC,0 days 00:20:30,3.0
-9294252.0,SPM,3,2020-07-17 07:25:10,2020-07-18 15:39:39,302477.0,Crude Oil Tanker,SPM3,VLCC,1 days 08:14:29,3.0
+9294252.0,anchorage,1,2020-07-17 06:22:30,2020-07-17 06:43:00,302477.0,Crude Oil Tanker,anchorage23,VLCC,0 days 00:20:30,2.0
+9294252.0,SPM,3,2020-07-17 07:25:10,2020-07-18 15:39:39,302477.0,Crude Oil Tanker,SPM3,VLCC,1 days 08:14:29,2.0
 9371749.0,anchorage,1,2020-07-17 12:39:37,2020-07-19 17:08:27,321137.0,Crude Oil Tanker,anchorage49,ULCC,2 days 04:28:50,10.0
 9424285.0,anchorage,1,2020-07-17 13:54:39,2020-07-18 14:53:20,13451.0,Products Tanker,anchorage15,Sub Handysize,1 days 00:58:41,
 9362877.0,berth,4,2020-07-17 14:13:46,2020-07-20 01:21:57,302165.0,Crude Oil Tanker,berth4,VLCC,2 days 11:08:11,1
@@ -3075,7 +3070,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9288887.0,anchorage,1,2020-12-29 10:47:59,2021-01-04 22:26:50,159331.0,Crude Oil Tanker,anchorage41,Suezmax,6 days 11:38:51,
 9459046.0,anchorage,1,2020-12-29 14:22:59,2020-12-29 19:28:25,158034.0,Crude Oil Tanker,anchorage22,Suezmax,0 days 05:05:26,6.0
 9424285.0,anchorage,1,2020-12-29 16:34:07,2020-12-30 18:01:20,13451.0,Products Tanker,anchorage38,Sub Handysize,1 days 01:27:13,
-9509023.0,anchorage,1,2020-12-29 18:28:42,2020-12-29 21:38:20,149998.0,Crude Oil Tanker,anchorage52,Suezmax,0 days 03:09:38,1.0
+9509023.0,anchorage,1,2020-12-29 18:28:42,2020-12-29 21:38:20,149998.0,Crude Oil Tanker,anchorage52,Suezmax,0 days 03:09:38,
 9212412.0,anchorage,1,2020-12-29 18:51:13,2021-01-03 09:00:16,35752.0,Chemical/Products Tanker,anchorage38,Handysize,4 days 14:09:03,
 9390264.0,anchorage,1,2020-12-29 19:18:43,2020-12-31 07:15:34,8883.0,Products Tanker,anchorage66,Sub Handysize,1 days 11:56:51,
 9459046.0,SPM,4,2020-12-29 20:30:45,2020-12-31 11:54:46,158034.0,Crude Oil Tanker,SPM4,Suezmax,1 days 15:24:01,6.0
@@ -3096,7 +3091,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9242118.0,anchorage,1,2020-12-31 14:26:13,2021-01-05 18:07:52,113013.0,Crude Oil Tanker,anchorage66,Aframax,5 days 03:41:39,
 9266762.0,anchorage,1,2020-12-31 15:41:29,2021-01-02 05:53:39,70426.0,Crude/Oil Products Tanker,anchorage15,Panamax,1 days 14:12:10,
 9794812.0,SPM,4,2020-12-31 18:28:35,2021-01-03 11:28:36,301123.0,Crude Oil Tanker,SPM4,VLCC,2 days 17:00:01,1.0
-9509023.0,berth,2,2020-12-31 20:42:00,2020-12-31 20:42:00,149998.0,Crude Oil Tanker,berth2,Suezmax,0 days 00:00:00,1.0
 9324100.0,anchorage,1,2020-12-31 21:28:07,2020-12-31 22:46:14,302478.0,Crude Oil Tanker,anchorage23,VLCC,0 days 01:18:07,
 9397145.0,anchorage,1,2020-12-31 23:23:33,2021-01-01 21:06:01,302303.0,Crude Oil Tanker,anchorage42,VLCC,0 days 21:42:28,6.0
 9229386.0,anchorage,1,2021-01-01 13:19:15,2021-01-01 19:03:43,164274.0,Crude Oil Tanker,anchorage48,Suezmax,0 days 05:44:28,
@@ -3205,9 +3199,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9804289.0,anchorage,1,2021-01-13 18:59:13,2021-01-14 07:01:56,318803.0,Crude Oil Tanker,anchorage49,VLCC,0 days 12:02:43,
 9708526.0,anchorage,1,2021-01-13 22:17:39,2021-01-14 06:45:12,318866.0,Crude Oil Tanker,anchorage52,VLCC,0 days 08:27:33,
 9375238.0,berth,1,2021-01-13 23:32:58,2021-01-15 22:56:38,299991.0,Crude Oil Tanker,berth1,VLCC,1 days 23:23:40,4.0
-9293129.0,berth,4,2021-01-14 18:13:24,2021-01-14 18:13:24,159155.0,Crude Oil Tanker,berth4,Suezmax,0 days 00:00:00,2.0
 9845221.0,anchorage,1,2021-01-15 18:10:51,2021-01-16 07:46:49,299682.0,Crude Oil Tanker,anchorage48,VLCC,0 days 13:35:58,
-9814430.0,berth,3,2021-01-15 20:36:38,2021-01-15 20:36:38,157115.0,Crude/Oil Products Tanker,berth3,Suezmax,0 days 00:00:00,1.0
 9294329.0,anchorage,1,2021-01-15 20:58:03,2021-01-15 23:43:03,311389.0,Crude Oil Tanker,anchorage2,VLCC,0 days 02:45:00,1.0
 9398058.0,anchorage,1,2021-01-16 03:50:52,2021-01-16 22:51:29,297934.0,Crude Oil Tanker,anchorage2,VLCC,0 days 19:00:37,
 9225330.0,anchorage,1,2021-01-16 17:36:53,2021-01-18 19:57:22,36032.0,Products Tanker,anchorage13,Handysize,2 days 02:20:29,
@@ -3219,7 +3211,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9397145.0,anchorage,1,2021-01-18 02:15:32,2021-01-18 05:45:38,302303.0,Crude Oil Tanker,anchorage49,VLCC,0 days 03:30:06,9.0
 9565950.0,anchorage,1,2021-01-18 04:25:41,2021-01-19 16:13:42,157740.0,Crude Oil Tanker,anchorage38,Suezmax,1 days 11:48:01,
 9397145.0,SPM,1,2021-01-18 15:24:30,2021-01-20 02:48:33,302303.0,Crude Oil Tanker,SPM1,VLCC,1 days 11:24:03,9.0
-9406685.0,berth,2,2021-01-18 15:45:54,2021-01-18 15:45:54,157484.0,Crude Oil Tanker,berth2,Suezmax,0 days 00:00:00,2.0
 9236731.0,anchorage,1,2021-01-18 19:08:44,2021-01-19 19:53:57,37345.0,Chemical/Products Tanker,anchorage25,Handysize,1 days 00:45:13,
 9192753.0,anchorage,1,2021-01-18 21:20:25,2021-01-19 06:11:12,35930.0,Products Tanker,anchorage19,Handysize,0 days 08:50:47,
 9588158.0,anchorage,1,2021-01-19 12:23:29,2021-01-19 13:17:28,160152.0,Crude Oil Tanker,anchorage2,Suezmax,0 days 00:53:59,
@@ -3273,7 +3264,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9708497.0,anchorage,1,2021-01-28 17:04:18,2021-01-29 15:31:37,318445.0,Crude Oil Tanker,anchorage52,VLCC,0 days 22:27:19,
 9320714.0,anchorage,1,2021-01-28 17:22:51,2021-01-28 19:59:42,166468.0,Crude Oil Tanker,anchorage52,Suezmax,0 days 02:36:51,1.0
 9162916.0,anchorage,1,2021-01-28 18:41:04,2021-01-29 03:08:05,47198.0,Products Tanker,anchorage43,Handysize,0 days 08:27:01,
-9320714.0,berth,1,2021-01-28 21:39:18,2021-01-28 21:39:18,166468.0,Crude Oil Tanker,berth1,Suezmax,0 days 00:00:00,1.0
 9329758.0,anchorage,1,2021-01-29 13:35:09,2021-01-29 13:35:51,74065.0,Crude/Oil Products Tanker,anchorage35,Panamax,0 days 00:00:42,
 8801084.0,anchorage,1,2021-01-29 18:03:21,2021-01-31 05:24:31,3848.0,Chemical/Products Tanker,anchorage24,Sub Handysize,1 days 11:21:10,
 9339997.0,anchorage,1,2021-01-30 17:41:48,2021-01-31 06:20:48,310984.0,Crude Oil Tanker,anchorage54,VLCC,0 days 12:39:00,
@@ -3592,7 +3582,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9389849.0,anchorage,1,2021-03-07 09:07:03,2021-03-13 18:13:41,74999.0,Crude/Oil Products Tanker,anchorage43,Panamax,6 days 09:06:38,
 9415404.0,berth,3,2021-03-07 09:21:18,2021-03-09 08:11:00,164787.0,Crude Oil Tanker,berth3,Suezmax,1 days 22:49:42,3.0
 9328716.0,anchorage,1,2021-03-07 18:36:20,2021-03-07 22:41:00,302481.0,Crude Oil Tanker,anchorage48,VLCC,0 days 04:04:40,1.0
-9406685.0,anchorage,1,2021-03-07 20:20:52,2021-03-08 10:54:43,157484.0,Crude Oil Tanker,anchorage3,Suezmax,0 days 14:33:51,3.0
+9406685.0,anchorage,1,2021-03-07 20:20:52,2021-03-08 10:54:43,157484.0,Crude Oil Tanker,anchorage3,Suezmax,0 days 14:33:51,2.0
 9418133.0,anchorage,1,2021-03-07 21:48:47,2021-03-09 18:03:18,50571.0,Chemical/Products Tanker,anchorage36,Handysize,1 days 20:14:31,
 9508859.0,anchorage,1,2021-03-07 22:50:42,2021-03-08 11:41:50,296659.0,Crude Oil Tanker,anchorage65,VLCC,0 days 12:51:08,
 9233650.0,SPM,3,2021-03-07 23:08:34,2021-03-09 03:16:35,305795.0,Crude Oil Tanker,SPM3,VLCC,1 days 04:08:01,3.0
@@ -3601,7 +3591,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9799197.0,anchorage,1,2021-03-08 01:19:42,2021-03-08 17:14:19,307569.0,Crude Oil Tanker,anchorage52,VLCC,0 days 15:54:37,1.0
 9254850.0,anchorage,1,2021-03-08 07:15:40,2021-03-09 08:44:42,70142.0,Products Tanker,anchorage13,Panamax,1 days 01:29:02,
 9297486.0,anchorage,1,2021-03-08 10:15:44,2021-03-08 19:00:53,316217.0,Crude Oil Tanker,anchorage2,VLCC,0 days 08:45:09,10.0
-9406685.0,SPM,4,2021-03-08 12:16:22,2021-03-10 04:36:09,157484.0,Crude Oil Tanker,SPM4,Suezmax,1 days 16:19:47,3.0
+9406685.0,SPM,4,2021-03-08 12:16:22,2021-03-10 04:36:09,157484.0,Crude Oil Tanker,SPM4,Suezmax,1 days 16:19:47,2.0
 9397145.0,anchorage,1,2021-03-08 16:19:10,2021-03-11 16:37:18,302303.0,Crude Oil Tanker,anchorage23,VLCC,3 days 00:18:08,11.0
 9222704.0,anchorage,1,2021-03-08 17:06:33,2021-03-15 04:21:53,45869.0,Products Tanker,anchorage8,Handysize,6 days 11:15:20,
 9799197.0,berth,1,2021-03-08 18:47:19,2021-03-11 11:37:55,307569.0,Crude Oil Tanker,berth1,VLCC,2 days 16:50:36,1.0
@@ -3693,11 +3683,11 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9258519.0,anchorage,1,2021-03-17 08:53:31,2021-03-17 19:23:56,298563.0,Crude Oil Tanker,anchorage52,VLCC,0 days 10:30:25,
 9290397.0,SPM,3,2021-03-17 13:43:41,2021-03-18 21:40:38,159156.0,Crude Oil Tanker,SPM3,Suezmax,1 days 07:56:57,4.0
 9236731.0,anchorage,1,2021-03-17 18:50:36,2021-03-19 21:00:54,37345.0,Chemical/Products Tanker,anchorage5,Handysize,2 days 02:10:18,
-9509023.0,anchorage,1,2021-03-17 19:41:54,2021-03-17 23:37:15,149998.0,Crude Oil Tanker,anchorage49,Suezmax,0 days 03:55:21,2.0
+9509023.0,anchorage,1,2021-03-17 19:41:54,2021-03-17 23:37:15,149998.0,Crude Oil Tanker,anchorage49,Suezmax,0 days 03:55:21,1.0
 9853591.0,anchorage,1,2021-03-17 20:36:22,2021-03-18 03:19:50,299696.0,Crude Oil Tanker,anchorage48,VLCC,0 days 06:43:28,
 9588146.0,anchorage,1,2021-03-17 22:45:22,2021-03-18 19:52:38,160095.0,Crude Oil Tanker,anchorage43,Suezmax,0 days 21:07:16,1
 9374284.0,anchorage,1,2021-03-18 00:33:48,2021-03-18 00:44:37,47128.0,Chemical/Products Tanker,anchorage8,Handysize,0 days 00:10:49,
-9509023.0,berth,1,2021-03-18 01:00:55,2021-03-20 03:05:09,149998.0,Crude Oil Tanker,berth1,Suezmax,2 days 02:04:14,2.0
+9509023.0,berth,1,2021-03-18 01:00:55,2021-03-20 03:05:09,149998.0,Crude Oil Tanker,berth1,Suezmax,2 days 02:04:14,1.0
 9735373.0,anchorage,1,2021-03-18 06:06:26,2021-03-18 11:25:48,302783.0,Crude Oil Tanker,anchorage2,VLCC,0 days 05:19:22,1.0
 9735373.0,SPM,2,2021-03-18 12:57:08,2021-03-20 00:12:26,302783.0,Crude Oil Tanker,SPM2,VLCC,1 days 11:15:18,1.0
 9256901.0,anchorage,1,2021-03-18 18:08:15,2021-03-23 07:09:06,47842.0,Chemical/Products Tanker,anchorage12,Handysize,4 days 13:00:51,
@@ -3954,7 +3944,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9459046.0,anchorage,1,2021-04-12 09:34:42,2021-04-12 14:23:54,158034.0,Crude Oil Tanker,anchorage52,Suezmax,0 days 04:49:12,
 8716007.0,anchorage,1,2021-04-12 12:12:00,2021-04-14 17:34:32,13937.0,Products Tanker,anchorage43,Sub Handysize,2 days 05:22:32,
 9419955.0,SPM,3,2021-04-12 13:07:44,2021-04-14 20:30:34,297258.0,Crude Oil Tanker,SPM3,VLCC,2 days 07:22:50,1.0
-9171357.0,anchorage,1,2021-04-12 13:57:43,2021-04-12 22:20:35,44990.0,Chemical/Products Tanker,anchorage12,Handysize,0 days 08:22:52,1.0
+9171357.0,anchorage,1,2021-04-12 13:57:43,2021-04-12 22:20:35,44990.0,Chemical/Products Tanker,anchorage12,Handysize,0 days 08:22:52,
 9847633.0,anchorage,1,2021-04-12 15:05:36,2021-04-15 19:27:26,310298.0,Crude Oil Tanker,anchorage59,VLCC,3 days 04:21:50,1.0
 9595228.0,berth,3,2021-04-12 20:01:18,2021-04-14 21:51:37,299981.0,Crude Oil Tanker,berth3,VLCC,2 days 01:50:19,2.0
 9500936.0,anchorage,1,2021-04-12 21:17:17,2021-04-12 23:49:53,319439.0,Crude Oil Tanker,anchorage52,VLCC,0 days 02:32:36,
@@ -3975,7 +3965,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9410210.0,anchorage,1,2021-04-14 20:03:12,2021-04-17 02:37:09,149992.0,Crude Oil Tanker,anchorage33,Suezmax,2 days 06:33:57,
 9251274.0,berth,4,2021-04-14 20:29:48,2021-04-17 04:19:06,97160.0,Crude/Oil Products Tanker,berth4,Aframax,2 days 07:49:18,1
 9597006.0,anchorage,1,2021-04-14 20:30:53,2021-04-17 09:54:19,158517.0,Crude Oil Tanker,anchorage33,Suezmax,2 days 13:23:26,
-9171357.0,berth,4,2021-04-14 20:33:35,2021-04-14 20:33:35,44990.0,Chemical/Products Tanker,berth4,Handysize,0 days 00:00:00,1.0
 9419955.0,anchorage,1,2021-04-14 21:44:13,2021-04-15 08:08:09,297258.0,Crude Oil Tanker,anchorage17,VLCC,0 days 10:23:56,
 9345221.0,anchorage,1,2021-04-15 00:52:20,2021-04-19 17:42:14,13060.0,Products Tanker,anchorage8,Sub Handysize,4 days 16:49:54,
 9527295.0,anchorage,1,2021-04-15 02:43:33,2021-04-15 06:35:15,321225.0,Crude Oil Tanker,anchorage49,ULCC,0 days 03:51:42,
@@ -4111,10 +4100,10 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9516105.0,anchorage,1,2021-04-28 07:31:56,2021-04-30 00:19:51,157672.0,Crude Oil Tanker,anchorage22,Suezmax,1 days 16:47:55,3.0
 9229386.0,anchorage,1,2021-04-28 13:07:11,2021-04-29 04:57:49,164274.0,Crude Oil Tanker,anchorage30,Suezmax,0 days 15:50:38,
 9508859.0,anchorage,1,2021-04-28 19:43:22,2021-04-29 05:21:34,296659.0,Crude Oil Tanker,anchorage48,VLCC,0 days 09:38:12,
-9814430.0,anchorage,1,2021-04-28 22:43:51,2021-04-29 06:48:35,157115.0,Crude/Oil Products Tanker,anchorage26,Suezmax,0 days 08:04:44,2.0
+9814430.0,anchorage,1,2021-04-28 22:43:51,2021-04-29 06:48:35,157115.0,Crude/Oil Products Tanker,anchorage26,Suezmax,0 days 08:04:44,1.0
 9827700.0,anchorage,1,2021-04-29 05:01:13,2021-04-29 11:28:16,318608.0,Crude Oil Tanker,anchorage2,VLCC,0 days 06:27:03,1.0
 9856361.0,SPM,4,2021-04-29 05:10:25,2021-04-30 14:29:36,149990.0,Crude Oil Tanker,SPM4,Suezmax,1 days 09:19:11,2.0
-9814430.0,SPM,1,2021-04-29 07:19:34,2021-04-30 18:12:53,157115.0,Crude/Oil Products Tanker,SPM1,Suezmax,1 days 10:53:19,2.0
+9814430.0,SPM,1,2021-04-29 07:19:34,2021-04-30 18:12:53,157115.0,Crude/Oil Products Tanker,SPM1,Suezmax,1 days 10:53:19,1.0
 9216559.0,anchorage,1,2021-04-29 07:53:25,2021-05-01 18:30:56,68467.0,Products Tanker,anchorage59,Panamax,2 days 10:37:31,
 9224465.0,anchorage,1,2021-04-29 12:08:36,2021-05-01 23:36:35,159184.0,Crude Oil Tanker,anchorage50,Suezmax,2 days 11:27:59,
 9827700.0,berth,2,2021-04-29 13:22:16,2021-05-01 13:26:42,318608.0,Crude Oil Tanker,berth2,VLCC,2 days 00:04:26,1.0
@@ -4227,7 +4216,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9686352.0,berth,1,2021-05-09 22:26:58,2021-05-11 21:23:17,313992.0,Crude Oil Tanker,berth1,VLCC,1 days 22:56:19,3.0
 9322140.0,anchorage,1,2021-05-10 03:04:36,2021-05-10 18:15:14,13050.0,Products Tanker,anchorage45,Sub Handysize,0 days 15:10:38,
 9360233.0,anchorage,1,2021-05-10 05:10:56,2021-05-10 18:05:28,302403.0,Crude Oil Tanker,anchorage52,VLCC,0 days 12:54:32,
-9293129.0,anchorage,1,2021-05-10 07:19:24,2021-05-12 02:25:11,159155.0,Crude Oil Tanker,anchorage48,Suezmax,1 days 19:05:47,3.0
+9293129.0,anchorage,1,2021-05-10 07:19:24,2021-05-12 02:25:11,159155.0,Crude Oil Tanker,anchorage48,Suezmax,1 days 19:05:47,2.0
 9817119.0,SPM,1,2021-05-10 08:03:27,2021-05-11 07:39:58,156002.0,Crude Oil Tanker,SPM1,Suezmax,0 days 23:36:31,1.0
 9233650.0,anchorage,1,2021-05-10 15:28:35,2021-05-11 06:08:09,305795.0,Crude Oil Tanker,anchorage66,VLCC,0 days 14:39:34,
 9424285.0,anchorage,1,2021-05-10 16:30:20,2021-05-11 17:57:11,13451.0,Products Tanker,anchorage19,Sub Handysize,1 days 01:26:51,
@@ -4243,7 +4232,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9486506.0,anchorage,1,2021-05-12 01:26:31,2021-05-12 07:52:13,317960.0,Crude Oil Tanker,anchorage52,VLCC,0 days 06:25:42,
 9194139.0,anchorage,1,2021-05-12 03:15:42,2021-05-19 16:49:37,99123.0,Crude Oil Tanker,anchorage63,Aframax,7 days 13:33:55,
 9345221.0,anchorage,1,2021-05-12 03:50:53,2021-05-12 19:50:06,13060.0,Products Tanker,anchorage19,Sub Handysize,0 days 15:59:13,
-9293129.0,berth,3,2021-05-12 04:00:12,2021-05-14 06:21:53,159155.0,Crude Oil Tanker,berth3,Suezmax,2 days 02:21:41,3.0
+9293129.0,berth,3,2021-05-12 04:00:12,2021-05-14 06:21:53,159155.0,Crude Oil Tanker,berth3,Suezmax,2 days 02:21:41,2.0
 9172727.0,anchorage,1,2021-05-12 10:10:57,2021-05-14 17:35:52,30957.0,Chemical/Products Tanker,anchorage12,Handysize,2 days 07:24:55,
 9297905.0,anchorage,1,2021-05-12 13:13:04,2021-05-13 20:03:13,158344.0,Crude Oil Tanker,anchorage57,Suezmax,1 days 06:50:09,1.0
 9832262.0,anchorage,1,2021-05-12 17:20:51,2021-05-13 07:23:55,149999.0,Crude Oil Tanker,anchorage2,Suezmax,0 days 14:03:04,2.0
@@ -4449,9 +4438,9 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9294329.0,anchorage,1,2021-06-02 11:05:49,2021-06-04 09:28:20,311389.0,Crude Oil Tanker,anchorage49,VLCC,1 days 22:22:31,2.0
 9379703.0,anchorage,1,2021-06-02 17:02:57,2021-06-03 01:03:40,296068.0,Crude Oil Tanker,anchorage59,VLCC,0 days 08:00:43,
 9254850.0,anchorage,1,2021-06-02 18:24:29,2021-06-05 08:31:42,70142.0,Products Tanker,anchorage45,Panamax,2 days 14:07:13,
-9406685.0,anchorage,1,2021-06-02 20:01:02,2021-06-03 07:12:28,157484.0,Crude Oil Tanker,anchorage49,Suezmax,0 days 11:11:26,4.0
+9406685.0,anchorage,1,2021-06-02 20:01:02,2021-06-03 07:12:28,157484.0,Crude Oil Tanker,anchorage49,Suezmax,0 days 11:11:26,3.0
 9293131.0,anchorage,1,2021-06-03 02:09:15,2021-06-03 09:06:59,159152.0,Crude Oil Tanker,anchorage48,Suezmax,0 days 06:57:44,
-9406685.0,SPM,2,2021-06-03 08:36:07,2021-06-05 00:20:19,157484.0,Crude Oil Tanker,SPM2,Suezmax,1 days 15:44:12,4.0
+9406685.0,SPM,2,2021-06-03 08:36:07,2021-06-05 00:20:19,157484.0,Crude Oil Tanker,SPM2,Suezmax,1 days 15:44:12,3.0
 9212369.0,anchorage,1,2021-06-03 13:35:43,2021-06-05 03:50:49,46271.0,Chemical/Products Tanker,anchorage38,Handysize,1 days 14:15:06,
 9700691.0,SPM,1,2021-06-03 14:19:57,2021-06-05 02:37:59,157031.0,Crude Oil Tanker,SPM1,Suezmax,1 days 12:18:02,2.0
 9800271.0,anchorage,1,2021-06-03 18:26:25,2021-06-03 23:32:00,149999.0,Crude Oil Tanker,anchorage52,Suezmax,0 days 05:05:35,
@@ -4578,7 +4567,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9727003.0,SPM,2,2021-06-17 07:36:02,2021-06-18 08:09:02,300932.0,Crude Oil Tanker,SPM2,VLCC,1 days 00:33:00,4.0
 9434620.0,anchorage,1,2021-06-17 14:32:22,2021-06-19 05:58:10,297101.0,Crude Oil Tanker,anchorage2,VLCC,1 days 15:25:48,2.0
 9254850.0,anchorage,1,2021-06-17 16:08:52,2021-06-20 19:19:11,70142.0,Products Tanker,anchorage29,Panamax,3 days 03:10:19,
-9486532.0,anchorage,1,2021-06-17 17:49:03,2021-06-18 08:15:37,297058.0,Crude Oil Tanker,anchorage2,VLCC,0 days 14:26:34,1.0
+9486532.0,anchorage,1,2021-06-17 17:49:03,2021-06-18 08:15:37,297058.0,Crude Oil Tanker,anchorage2,VLCC,0 days 14:26:34,
 9296406.0,anchorage,1,2021-06-17 17:49:15,2021-06-21 06:39:35,146270.0,Crude Oil Tanker,anchorage41,Suezmax,3 days 12:50:20,
 9794824.0,anchorage,1,2021-06-17 21:13:40,2021-06-21 08:01:29,301123.0,Crude Oil Tanker,anchorage54,VLCC,3 days 10:47:49,7.0
 9343390.0,anchorage,1,2021-06-18 05:05:11,2021-06-20 12:19:06,302107.0,Crude Oil Tanker,anchorage2,VLCC,2 days 07:13:55,4.0
@@ -4611,7 +4600,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9453846.0,berth,2,2021-06-21 06:24:25,2021-06-23 09:51:53,156520.0,Crude Oil Tanker,berth2,Suezmax,2 days 03:27:28,1
 9794824.0,SPM,3,2021-06-21 08:21:39,2021-06-22 06:13:56,301123.0,Crude Oil Tanker,SPM3,VLCC,0 days 21:52:17,7.0
 8521244.0,anchorage,1,2021-06-21 10:18:23,2021-06-28 09:52:05,3682.0,Products Tanker,anchorage55,Sub Handysize,6 days 23:33:42,
-9486532.0,berth,4,2021-06-21 12:07:55,2021-06-21 12:07:55,297058.0,Crude Oil Tanker,berth4,VLCC,0 days 00:00:00,1.0
 9486532.0,anchorage,1,2021-06-21 15:05:54,2021-06-21 15:25:55,297058.0,Crude Oil Tanker,anchorage64,VLCC,0 days 00:20:01,
 9434620.0,anchorage,1,2021-06-21 15:57:20,2021-06-22 04:12:59,297101.0,Crude Oil Tanker,anchorage30,VLCC,0 days 12:15:39,
 9822994.0,anchorage,1,2021-06-21 20:44:13,2021-06-22 12:07:32,317975.0,Crude Oil Tanker,anchorage22,VLCC,0 days 15:23:19,1.0
@@ -4763,11 +4751,11 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9881691.0,anchorage,1,2021-07-06 14:28:45,2021-07-07 00:07:41,157947.0,Crude Oil Tanker,anchorage57,Suezmax,0 days 09:38:56,1
 9829629.0,anchorage,1,2021-07-06 16:14:00,2021-07-07 05:13:27,320596.0,Crude Oil Tanker,anchorage30,ULCC,0 days 12:59:27,
 9831804.0,anchorage,1,2021-07-06 21:12:52,2021-07-07 05:31:29,318676.0,Crude Oil Tanker,anchorage53,VLCC,0 days 08:18:37,
-9293129.0,anchorage,1,2021-07-06 21:17:07,2021-07-07 05:39:23,159155.0,Crude Oil Tanker,anchorage23,Suezmax,0 days 08:22:16,4.0
+9293129.0,anchorage,1,2021-07-06 21:17:07,2021-07-07 05:39:23,159155.0,Crude Oil Tanker,anchorage23,Suezmax,0 days 08:22:16,3.0
 9594872.0,anchorage,1,2021-07-06 23:11:38,2021-07-07 20:56:52,74986.0,Products Tanker,anchorage45,Panamax,0 days 21:45:14,
 9881691.0,berth,3,2021-07-07 00:58:33,2021-07-09 18:09:57,157947.0,Crude Oil Tanker,berth3,Suezmax,2 days 17:11:24,1
 9322140.0,anchorage,1,2021-07-07 04:54:52,2021-07-09 06:27:12,13050.0,Products Tanker,anchorage63,Sub Handysize,2 days 01:32:20,
-9293129.0,SPM,3,2021-07-07 05:59:01,2021-07-08 14:02:03,159155.0,Crude Oil Tanker,SPM3,Suezmax,1 days 08:03:02,4.0
+9293129.0,SPM,3,2021-07-07 05:59:01,2021-07-08 14:02:03,159155.0,Crude Oil Tanker,SPM3,Suezmax,1 days 08:03:02,3.0
 9389760.0,anchorage,1,2021-07-07 16:24:12,2021-07-08 06:15:16,297244.0,Crude Oil Tanker,anchorage52,VLCC,0 days 13:51:04,3.0
 9187435.0,anchorage,1,2021-07-07 19:42:40,2021-07-07 20:23:38,107181.0,Crude Oil Tanker,anchorage5,Aframax,0 days 00:40:58,
 9239484.0,anchorage,1,2021-07-07 20:42:36,2021-07-08 01:46:15,165209.0,Crude Oil Tanker,anchorage48,Suezmax,0 days 05:03:39,
@@ -4981,7 +4969,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9610298.0,berth,2,2021-07-30 05:04:45,2021-07-30 05:49:06,316635.0,Crude Oil Tanker,berth2,VLCC,0 days 00:44:21,4.0
 9330563.0,anchorage,1,2021-07-30 09:30:26,2021-07-31 13:14:23,320475.0,Crude Oil Tanker,anchorage23,ULCC,1 days 03:43:57,2.0
 9610298.0,anchorage,1,2021-07-30 10:36:06,2021-07-30 10:48:36,316635.0,Crude Oil Tanker,anchorage30,VLCC,0 days 00:12:30,
-9814430.0,anchorage,1,2021-07-30 13:59:54,2021-08-01 11:09:10,157115.0,Crude/Oil Products Tanker,anchorage49,Suezmax,1 days 21:09:16,3.0
+9814430.0,anchorage,1,2021-07-30 13:59:54,2021-08-01 11:09:10,157115.0,Crude/Oil Products Tanker,anchorage49,Suezmax,1 days 21:09:16,2.0
 9256468.0,anchorage,1,2021-07-30 14:00:09,2021-08-18 14:46:16,104864.0,Crude Oil Tanker,anchorage45,Aframax,19 days 00:46:07,
 9828962.0,anchorage,1,2021-07-30 14:20:14,2021-07-30 19:56:00,311798.0,Crude Oil Tanker,anchorage52,VLCC,0 days 05:35:46,
 9759757.0,SPM,1,2021-07-30 16:27:35,2021-07-31 23:03:58,157460.0,Crude Oil Tanker,SPM1,Suezmax,1 days 06:36:23,2.0
@@ -5005,7 +4993,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9534858.0,anchorage,1,2021-08-01 07:12:43,2021-08-01 23:17:50,297136.0,Crude Oil Tanker,anchorage49,VLCC,0 days 16:05:07,2.0
 9597240.0,anchorage,1,2021-08-01 10:42:01,2021-08-05 07:14:13,299989.0,Crude Oil Tanker,anchorage49,VLCC,3 days 20:32:12,3.0
 9830812.0,anchorage,1,2021-08-01 10:57:04,2021-08-02 01:34:40,298998.0,Crude Oil Tanker,anchorage48,VLCC,0 days 14:37:36,
-9814430.0,SPM,4,2021-08-01 11:26:14,2021-08-03 00:35:21,157115.0,Crude/Oil Products Tanker,SPM4,Suezmax,1 days 13:09:07,3.0
+9814430.0,SPM,4,2021-08-01 11:26:14,2021-08-03 00:35:21,157115.0,Crude/Oil Products Tanker,SPM4,Suezmax,1 days 13:09:07,2.0
 9410208.0,anchorage,1,2021-08-01 18:09:34,2021-08-02 08:59:48,149991.0,Crude Oil Tanker,anchorage52,Suezmax,0 days 14:50:14,3.0
 9182045.0,anchorage,1,2021-08-01 23:16:45,2021-08-04 21:08:53,45874.0,Products Tanker,anchorage52,Handysize,2 days 21:52:08,
 9595618.0,anchorage,1,2021-08-01 23:50:48,2021-08-02 14:25:04,313999.0,Crude Oil Tanker,anchorage30,VLCC,0 days 14:34:16,
@@ -5020,7 +5008,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9178068.0,anchorage,1,2021-08-02 14:18:13,2021-08-02 18:09:43,47106.0,Products Tanker,anchorage36,Handysize,0 days 03:51:30,
 9254862.0,anchorage,1,2021-08-02 15:39:41,2021-08-05 09:40:28,70146.0,Products Tanker,anchorage38,Panamax,2 days 18:00:47,
 9322140.0,anchorage,1,2021-08-02 16:00:10,2021-08-03 07:21:39,13050.0,Products Tanker,anchorage14,Sub Handysize,0 days 15:21:29,
-9231901.0,berth,4,2021-08-02 16:58:46,2021-08-02 16:58:46,112668.0,Crude Oil Tanker,berth4,Aframax,0 days 00:00:00,1.0
 9519494.0,anchorage,1,2021-08-02 17:53:17,2021-08-03 16:01:16,321052.0,Crude Oil Tanker,anchorage49,ULCC,0 days 22:07:59,3.0
 9779161.0,anchorage,1,2021-08-02 19:37:56,2021-08-06 10:27:04,2500.0,Products Tanker,anchorage8,Sub Handysize,3 days 14:49:08,
 9254939.0,anchorage,1,2021-08-02 19:39:25,2021-08-04 06:44:53,45987.0,Products Tanker,anchorage39,Handysize,1 days 11:05:28,
@@ -5078,7 +5065,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 8801084.0,anchorage,1,2021-08-08 21:14:39,2021-08-18 07:54:14,3848.0,Chemical/Products Tanker,anchorage5,Sub Handysize,9 days 10:39:35,
 9412309.0,berth,1,2021-08-08 23:48:18,2021-08-11 15:23:08,161653.0,Crude Oil Tanker,berth1,Suezmax,2 days 15:34:50,2.0
 9297498.0,anchorage,1,2021-08-09 12:19:11,2021-08-09 23:01:43,316409.0,Crude Oil Tanker,anchorage22,VLCC,0 days 10:42:32,10.0
-9320714.0,SPM,3,2021-08-09 16:08:55,2021-08-10 16:42:49,166468.0,Crude Oil Tanker,SPM3,Suezmax,1 days 00:33:54,2.0
+9320714.0,SPM,3,2021-08-09 16:08:55,2021-08-10 16:42:49,166468.0,Crude Oil Tanker,SPM3,Suezmax,1 days 00:33:54,1.0
 9307932.0,anchorage,1,2021-08-09 17:19:29,2021-08-12 14:12:15,73980.0,Crude/Oil Products Tanker,anchorage61,Panamax,2 days 20:52:46,
 9779161.0,anchorage,1,2021-08-09 19:19:02,2021-08-24 17:15:28,2500.0,Products Tanker,anchorage60,Sub Handysize,14 days 21:56:26,
 9816335.0,anchorage,1,2021-08-09 20:12:09,2021-08-09 22:17:14,315299.0,Crude Oil Tanker,anchorage49,VLCC,0 days 02:05:05,1.0
@@ -5101,7 +5088,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9534846.0,anchorage,1,2021-08-11 17:00:03,2021-08-11 21:02:35,297085.0,Crude Oil Tanker,anchorage23,VLCC,0 days 04:02:32,1
 9845221.0,anchorage,1,2021-08-11 19:19:39,2021-08-11 23:22:11,299682.0,Crude Oil Tanker,anchorage9,VLCC,0 days 04:02:32,3.0
 9772321.0,anchorage,1,2021-08-11 19:56:19,2021-08-11 23:06:19,149999.0,Crude Oil Tanker,anchorage48,Suezmax,0 days 03:10:00,
-9406685.0,anchorage,1,2021-08-11 20:42:05,2021-08-12 23:34:21,157484.0,Crude Oil Tanker,anchorage26,Suezmax,1 days 02:52:16,5.0
+9406685.0,anchorage,1,2021-08-11 20:42:05,2021-08-12 23:34:21,157484.0,Crude Oil Tanker,anchorage26,Suezmax,1 days 02:52:16,4.0
 9534846.0,berth,3,2021-08-11 21:54:54,2021-08-15 08:09:53,297085.0,Crude Oil Tanker,berth3,VLCC,3 days 10:14:59,1
 9845221.0,SPM,4,2021-08-12 02:21:52,2021-08-13 07:42:58,299682.0,Crude Oil Tanker,SPM4,VLCC,1 days 05:21:06,3.0
 9330599.0,anchorage,1,2021-08-12 02:36:38,2021-08-15 19:16:13,104866.0,Crude Oil Tanker,anchorage61,Aframax,3 days 16:39:35,
@@ -5109,7 +5096,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9297498.0,anchorage,1,2021-08-12 15:35:24,2021-08-13 06:53:07,316409.0,Crude Oil Tanker,anchorage48,VLCC,0 days 15:17:43,
 9530917.0,anchorage,1,2021-08-12 17:23:21,2021-08-12 23:53:19,157258.0,Crude Oil Tanker,anchorage2,Suezmax,0 days 06:29:58,1
 9429302.0,SPM,2,2021-08-12 21:39:11,2021-08-14 19:26:24,298996.0,Crude Oil Tanker,SPM2,VLCC,1 days 21:47:13,3.0
-9406685.0,SPM,1,2021-08-12 23:55:36,2021-08-14 05:07:26,157484.0,Crude Oil Tanker,SPM1,Suezmax,1 days 05:11:50,5.0
+9406685.0,SPM,1,2021-08-12 23:55:36,2021-08-14 05:07:26,157484.0,Crude Oil Tanker,SPM1,Suezmax,1 days 05:11:50,4.0
 9530917.0,berth,1,2021-08-13 01:38:09,2021-08-16 02:09:19,157258.0,Crude Oil Tanker,berth1,Suezmax,3 days 00:31:10,1
 9761475.0,anchorage,1,2021-08-13 03:03:41,2021-08-13 22:26:01,308313.0,Crude Oil Tanker,anchorage66,VLCC,0 days 19:22:20,
 9845221.0,anchorage,1,2021-08-13 08:11:19,2021-08-13 13:27:14,299682.0,Crude Oil Tanker,anchorage54,VLCC,0 days 05:15:55,
@@ -5198,8 +5185,8 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9486491.0,SPM,1,2021-08-23 03:40:15,2021-08-24 06:31:14,318218.0,Crude Oil Tanker,SPM1,VLCC,1 days 02:50:59,3.0
 9230505.0,berth,3,2021-08-23 04:20:33,2021-08-25 17:26:18,159435.0,Crude/Oil Products Tanker,berth3,Suezmax,2 days 13:05:45,2
 9597276.0,anchorage,1,2021-08-23 10:55:45,2021-08-24 06:28:39,299984.0,Crude Oil Tanker,anchorage49,VLCC,0 days 19:32:54,
-9509023.0,anchorage,1,2021-08-23 12:59:49,2021-08-23 16:11:30,149998.0,Crude Oil Tanker,anchorage48,Suezmax,0 days 03:11:41,3.0
-9509023.0,SPM,2,2021-08-23 17:24:20,2021-08-25 01:14:13,149998.0,Crude Oil Tanker,SPM2,Suezmax,1 days 07:49:53,3.0
+9509023.0,anchorage,1,2021-08-23 12:59:49,2021-08-23 16:11:30,149998.0,Crude Oil Tanker,anchorage48,Suezmax,0 days 03:11:41,2.0
+9509023.0,SPM,2,2021-08-23 17:24:20,2021-08-25 01:14:13,149998.0,Crude Oil Tanker,SPM2,Suezmax,1 days 07:49:53,2.0
 9391141.0,anchorage,1,2021-08-23 19:26:40,2021-08-25 11:59:50,19998.0,Chemical/Products Tanker,anchorage5,Sub Handysize,1 days 16:33:10,
 9229386.0,anchorage,1,2021-08-23 22:35:39,2021-08-24 03:01:52,164274.0,Crude Oil Tanker,anchorage49,Suezmax,0 days 04:26:13,8.0
 9229386.0,SPM,4,2021-08-24 03:48:41,2021-08-25 07:36:42,164274.0,Crude Oil Tanker,SPM4,Suezmax,1 days 03:48:01,8.0
@@ -5367,12 +5354,12 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9295593.0,anchorage,1,2021-09-11 11:35:18,2021-09-11 16:52:26,306206.0,Crude Oil Tanker,anchorage49,VLCC,0 days 05:17:08,2.0
 8801084.0,anchorage,1,2021-09-11 12:09:14,2021-09-11 12:14:07,3848.0,Chemical/Products Tanker,anchorage50,Sub Handysize,0 days 00:04:53,
 9389760.0,anchorage,1,2021-09-11 12:18:54,2021-09-12 21:30:18,297244.0,Crude Oil Tanker,anchorage23,VLCC,1 days 09:11:24,4.0
-9293129.0,anchorage,1,2021-09-11 13:07:38,2021-09-11 19:22:03,159155.0,Crude Oil Tanker,anchorage57,Suezmax,0 days 06:14:25,5.0
+9293129.0,anchorage,1,2021-09-11 13:07:38,2021-09-11 19:22:03,159155.0,Crude Oil Tanker,anchorage57,Suezmax,0 days 06:14:25,4.0
 9788899.0,berth,1,2021-09-11 15:49:28,2021-09-15 09:09:36,301187.0,Crude Oil Tanker,berth1,VLCC,3 days 17:20:08,3.0
 9295593.0,SPM,2,2021-09-11 18:03:35,2021-09-12 13:12:50,306206.0,Crude Oil Tanker,SPM2,VLCC,0 days 19:09:15,2.0
 9209300.0,anchorage,1,2021-09-11 18:48:13,2021-09-14 15:20:51,69999.0,Crude Oil Tanker,anchorage52,Panamax,2 days 20:32:38,
 9216559.0,anchorage,1,2021-09-11 19:25:31,2021-09-15 01:22:23,68467.0,Products Tanker,anchorage59,Panamax,3 days 05:56:52,
-9293129.0,SPM,3,2021-09-11 21:46:09,2021-09-13 04:43:06,159155.0,Crude Oil Tanker,SPM3,Suezmax,1 days 06:56:57,5.0
+9293129.0,SPM,3,2021-09-11 21:46:09,2021-09-13 04:43:06,159155.0,Crude Oil Tanker,SPM3,Suezmax,1 days 06:56:57,4.0
 9328716.0,anchorage,1,2021-09-12 02:35:21,2021-09-12 09:11:20,302481.0,Crude Oil Tanker,anchorage48,VLCC,0 days 06:35:59,
 9371749.0,anchorage,1,2021-09-12 04:39:14,2021-09-12 19:25:12,321137.0,Crude Oil Tanker,anchorage52,ULCC,0 days 14:45:58,
 9424211.0,anchorage,1,2021-09-12 06:10:18,2021-09-14 11:57:30,319106.0,Crude Oil Tanker,anchorage2,VLCC,2 days 05:47:12,4.0
@@ -5661,11 +5648,11 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9708497.0,SPM,1,2021-10-13 04:59:30,2021-10-15 00:25:58,318445.0,Crude Oil Tanker,SPM1,VLCC,1 days 19:26:28,3.0
 9529956.0,SPM,2,2021-10-13 06:47:27,2021-10-13 06:48:28,314000.0,Crude Oil Tanker,SPM2,VLCC,0 days 00:01:01,2.0
 9529956.0,anchorage,1,2021-10-13 07:07:29,2021-10-13 11:09:47,314000.0,Crude Oil Tanker,anchorage30,VLCC,0 days 04:02:18,
-9293129.0,anchorage,1,2021-10-13 08:06:10,2021-10-13 16:39:11,159155.0,Crude Oil Tanker,anchorage2,Suezmax,0 days 08:33:01,6.0
+9293129.0,anchorage,1,2021-10-13 08:06:10,2021-10-13 16:39:11,159155.0,Crude Oil Tanker,anchorage2,Suezmax,0 days 08:33:01,5.0
 9902811.0,anchorage,1,2021-10-13 11:41:38,2021-10-13 16:40:08,157632.0,Crude Oil Tanker,anchorage2,Suezmax,0 days 04:58:30,
 9708552.0,anchorage,1,2021-10-13 16:22:00,2021-10-17 03:57:57,109999.0,Crude/Oil Products Tanker,anchorage25,Aframax,3 days 11:35:57,
 9395496.0,anchorage,1,2021-10-13 16:53:43,2021-10-15 12:35:16,297274.0,Crude Oil Tanker,anchorage52,VLCC,1 days 19:41:33,5.0
-9293129.0,berth,2,2021-10-13 17:45:44,2021-10-16 06:29:58,159155.0,Crude Oil Tanker,berth2,Suezmax,2 days 12:44:14,6.0
+9293129.0,berth,2,2021-10-13 17:45:44,2021-10-16 06:29:58,159155.0,Crude Oil Tanker,berth2,Suezmax,2 days 12:44:14,5.0
 9297486.0,anchorage,1,2021-10-14 02:34:21,2021-10-14 23:00:24,316217.0,Crude Oil Tanker,anchorage43,VLCC,0 days 20:26:03,17.0
 9394507.0,anchorage,1,2021-10-14 08:03:14,2021-10-15 00:27:01,296908.0,Crude Oil Tanker,anchorage30,VLCC,0 days 16:23:47,
 9410208.0,anchorage,1,2021-10-14 10:41:00,2021-10-16 07:58:52,149991.0,Crude Oil Tanker,anchorage52,Suezmax,1 days 21:17:52,
@@ -5688,8 +5675,8 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9318096.0,anchorage,1,2021-10-16 15:06:43,2021-10-19 08:35:57,159233.0,Crude Oil Tanker,anchorage35,Suezmax,2 days 17:29:14,
 9766322.0,SPM,1,2021-10-16 21:38:05,2021-10-18 14:44:22,156935.0,Crude Oil Tanker,SPM1,Suezmax,1 days 17:06:17,1.0
 9213222.0,anchorage,1,2021-10-17 03:35:05,2021-10-21 12:15:34,7849.0,Chemical/Products Tanker,anchorage24,Sub Handysize,4 days 08:40:29,
-9779379.0,anchorage,1,2021-10-17 03:41:53,2021-10-17 06:01:36,156458.0,Crude Oil Tanker,anchorage31,Suezmax,0 days 02:19:43,2.0
-9779379.0,SPM,2,2021-10-17 07:07:09,2021-10-18 08:02:24,156458.0,Crude Oil Tanker,SPM2,Suezmax,1 days 00:55:15,2.0
+9779379.0,anchorage,1,2021-10-17 03:41:53,2021-10-17 06:01:36,156458.0,Crude Oil Tanker,anchorage31,Suezmax,0 days 02:19:43,1.0
+9779379.0,SPM,2,2021-10-17 07:07:09,2021-10-18 08:02:24,156458.0,Crude Oil Tanker,SPM2,Suezmax,1 days 00:55:15,1.0
 9297486.0,anchorage,1,2021-10-17 10:21:39,2021-10-18 05:51:15,316217.0,Crude Oil Tanker,anchorage30,VLCC,0 days 19:29:36,
 9437177.0,anchorage,1,2021-10-17 10:37:54,2021-10-17 19:24:48,319616.0,Crude Oil Tanker,anchorage49,VLCC,0 days 08:46:54,5.0
 9753545.0,anchorage,1,2021-10-17 11:29:32,2021-10-17 22:05:48,149992.0,Crude Oil Tanker,anchorage23,Suezmax,0 days 10:36:16,
@@ -5727,7 +5714,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9339648.0,anchorage,1,2021-10-20 05:56:00,2021-10-22 11:16:32,34671.0,Chemical/Products Tanker,anchorage37,Handysize,2 days 05:20:32,
 9297436.0,anchorage,1,2021-10-20 09:09:52,2021-10-21 11:06:29,71029.0,Crude Oil Tanker,anchorage5,Panamax,1 days 01:56:37,
 9410210.0,anchorage,1,2021-10-20 16:04:05,2021-10-20 20:50:10,149992.0,Crude Oil Tanker,anchorage48,Suezmax,0 days 04:46:05,
-9257010.0,anchorage,1,2021-10-20 16:22:32,2021-10-23 12:44:24,105672.0,Crude Oil Tanker,anchorage37,Aframax,2 days 20:21:52,1
+9257010.0,anchorage,1,2021-10-20 16:22:32,2021-10-23 12:44:24,105672.0,Crude Oil Tanker,anchorage37,Aframax,2 days 20:21:52,
 9790971.0,anchorage,1,2021-10-20 16:31:56,2021-10-21 05:22:44,158167.0,Crude Oil Tanker,anchorage2,Suezmax,0 days 12:50:48,3.0
 9160530.0,anchorage,1,2021-10-20 18:48:23,2021-10-21 19:01:13,47358.0,Chemical/Products Tanker,anchorage14,Handysize,1 days 00:12:50,
 9790971.0,SPM,4,2021-10-21 06:35:33,2021-10-23 00:32:37,158167.0,Crude Oil Tanker,SPM4,Suezmax,1 days 17:57:04,3.0
@@ -5804,10 +5791,10 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9868168.0,SPM,2,2021-10-27 04:43:01,2021-10-28 23:09:39,157946.0,Crude Oil Tanker,SPM2,Suezmax,1 days 18:26:38,1.0
 9256901.0,anchorage,1,2021-10-27 07:37:42,2021-10-28 05:13:31,47842.0,Chemical/Products Tanker,anchorage19,Handysize,0 days 21:35:49,
 9389760.0,anchorage,1,2021-10-27 07:42:33,2021-10-27 10:12:02,297244.0,Crude Oil Tanker,anchorage54,VLCC,0 days 02:29:29,
-9486532.0,anchorage,1,2021-10-27 08:56:22,2021-10-27 19:13:53,297058.0,Crude Oil Tanker,anchorage2,VLCC,0 days 10:17:31,2.0
+9486532.0,anchorage,1,2021-10-27 08:56:22,2021-10-27 19:13:53,297058.0,Crude Oil Tanker,anchorage2,VLCC,0 days 10:17:31,1.0
 9389849.0,anchorage,1,2021-10-27 16:29:26,2021-10-30 13:26:50,74999.0,Crude/Oil Products Tanker,anchorage39,Panamax,2 days 20:57:24,
 9297498.0,anchorage,1,2021-10-27 16:54:52,2021-10-28 23:14:57,316409.0,Crude Oil Tanker,anchorage46,VLCC,1 days 06:20:05,16.0
-9486532.0,SPM,1,2021-10-27 20:21:34,2021-10-28 04:03:34,297058.0,Crude Oil Tanker,SPM1,VLCC,0 days 07:42:00,2.0
+9486532.0,SPM,1,2021-10-27 20:21:34,2021-10-28 04:03:34,297058.0,Crude Oil Tanker,SPM1,VLCC,0 days 07:42:00,1.0
 9772345.0,anchorage,1,2021-10-28 01:08:11,2021-10-28 07:32:20,149988.0,Crude Oil Tanker,anchorage49,Suezmax,0 days 06:24:09,
 9424285.0,anchorage,1,2021-10-28 01:57:19,2021-10-29 04:03:32,13451.0,Products Tanker,anchorage24,Sub Handysize,1 days 02:06:13,
 9887308.0,berth,2,2021-10-28 02:54:02,2021-10-30 18:05:06,158005.0,Crude Oil Tanker,berth2,Suezmax,2 days 15:11:04,2.0
@@ -5825,11 +5812,11 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 8007195.0,anchorage,1,2021-10-29 07:07:35,2021-10-31 09:42:47,10556.0,Chemical Tanker,anchorage63,Sub Handysize,2 days 02:35:12,
 9280586.0,anchorage,1,2021-10-29 08:48:41,2021-10-30 09:15:37,72664.0,Products Tanker,anchorage11,Panamax,1 days 00:26:56,
 9486532.0,anchorage,1,2021-10-29 10:08:35,2021-10-30 03:20:35,297058.0,Crude Oil Tanker,anchorage49,VLCC,0 days 17:12:00,
-9509023.0,anchorage,1,2021-10-29 15:04:50,2021-10-30 00:51:08,149998.0,Crude Oil Tanker,anchorage2,Suezmax,0 days 09:46:18,4.0
+9509023.0,anchorage,1,2021-10-29 15:04:50,2021-10-30 00:51:08,149998.0,Crude Oil Tanker,anchorage2,Suezmax,0 days 09:46:18,3.0
 9374284.0,anchorage,1,2021-10-29 15:58:34,2021-10-30 05:44:32,47128.0,Chemical/Products Tanker,anchorage8,Handysize,0 days 13:45:58,
 9328716.0,anchorage,1,2021-10-29 17:07:09,2021-10-30 05:59:09,302481.0,Crude Oil Tanker,anchorage49,VLCC,0 days 12:52:00,9.0
 9166417.0,anchorage,1,2021-10-29 23:12:45,2021-11-05 10:29:26,106474.0,Crude Oil Tanker,anchorage48,Aframax,6 days 11:16:41,1.0
-9509023.0,SPM,1,2021-10-30 02:21:51,2021-10-31 05:21:59,149998.0,Crude Oil Tanker,SPM1,Suezmax,1 days 03:00:08,4.0
+9509023.0,SPM,1,2021-10-30 02:21:51,2021-10-31 05:21:59,149998.0,Crude Oil Tanker,SPM1,Suezmax,1 days 03:00:08,3.0
 9421960.0,anchorage,1,2021-10-30 04:53:09,2021-10-30 10:34:16,158070.0,Crude Oil Tanker,anchorage48,Suezmax,0 days 05:41:07,
 9328716.0,berth,1,2021-10-30 08:07:37,2021-11-02 10:57:10,302481.0,Crude Oil Tanker,berth1,VLCC,3 days 02:49:33,9.0
 9160530.0,anchorage,1,2021-10-30 09:11:51,2021-11-01 12:37:09,47358.0,Chemical/Products Tanker,anchorage14,Handysize,2 days 03:25:18,
@@ -5948,13 +5935,12 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9689988.0,anchorage,1,2021-11-10 19:12:19,2021-11-10 20:22:40,318607.0,Crude Oil Tanker,anchorage2,VLCC,0 days 01:10:21,
 9294329.0,SPM,2,2021-11-10 20:23:26,2021-11-12 23:20:16,311389.0,Crude Oil Tanker,SPM2,VLCC,2 days 02:56:50,4.0
 9389899.0,SPM,4,2021-11-11 05:07:41,2021-11-13 23:07:39,321300.0,Crude Oil Tanker,SPM4,ULCC,2 days 17:59:58,2.0
-9250737.0,anchorage,1,2021-11-11 06:08:57,2021-11-11 12:22:14,151736.0,Crude Oil Tanker,anchorage58,Suezmax,0 days 06:13:17,1.0
+9250737.0,anchorage,1,2021-11-11 06:08:57,2021-11-11 12:22:14,151736.0,Crude Oil Tanker,anchorage58,Suezmax,0 days 06:13:17,
 9297486.0,anchorage,1,2021-11-11 13:19:14,2021-11-13 07:31:37,316217.0,Crude Oil Tanker,anchorage22,VLCC,1 days 18:12:23,18.0
 9722900.0,anchorage,1,2021-11-11 13:51:19,2021-11-11 14:53:29,299629.0,Crude Oil Tanker,anchorage32,VLCC,0 days 01:02:10,
 9222704.0,anchorage,1,2021-11-11 16:04:33,2021-11-16 03:20:45,45869.0,Products Tanker,anchorage19,Handysize,4 days 11:16:12,
 9297890.0,anchorage,1,2021-11-12 00:57:44,2021-11-12 06:18:40,163292.0,Crude Oil Tanker,anchorage57,Suezmax,0 days 05:20:56,
 9416654.0,berth,4,2021-11-12 02:13:21,2021-11-14 01:51:55,309189.0,Crude Oil Tanker,berth4,VLCC,1 days 23:38:34,2.0
-9250737.0,berth,1,2021-11-12 02:20:29,2021-11-12 02:20:29,151736.0,Crude Oil Tanker,berth1,Suezmax,0 days 00:00:00,1.0
 9297498.0,berth,2,2021-11-12 17:47:32,2021-11-15 07:49:39,316409.0,Crude Oil Tanker,berth2,VLCC,2 days 14:02:07,16.0
 9432048.0,anchorage,1,2021-11-12 18:31:36,2021-11-13 19:51:20,149999.0,Crude Oil Tanker,anchorage57,Suezmax,1 days 01:19:44,6.0
 9790983.0,anchorage,1,2021-11-12 19:00:51,2021-11-14 00:21:52,158218.0,Crude Oil Tanker,anchorage32,Suezmax,1 days 05:21:01,6.0
@@ -6017,14 +6003,14 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9534054.0,SPM,1,2021-11-18 14:42:57,2021-11-19 01:19:35,318510.0,Crude Oil Tanker,SPM1,VLCC,0 days 10:36:38,4.0
 9633446.0,berth,3,2021-11-18 16:17:24,2021-11-21 15:33:30,149999.0,Crude Oil Tanker,berth3,Suezmax,2 days 23:16:06,2.0
 9604079.0,SPM,3,2021-11-18 16:53:14,2021-11-19 22:02:21,296887.0,Crude Oil Tanker,SPM3,VLCC,1 days 05:09:07,3.0
-9509023.0,anchorage,1,2021-11-18 16:58:23,2021-11-19 07:41:45,149998.0,Crude Oil Tanker,anchorage49,Suezmax,0 days 14:43:22,5.0
+9509023.0,anchorage,1,2021-11-18 16:58:23,2021-11-19 07:41:45,149998.0,Crude Oil Tanker,anchorage49,Suezmax,0 days 14:43:22,4.0
 9328716.0,anchorage,1,2021-11-18 17:55:51,2021-11-20 09:29:14,302481.0,Crude Oil Tanker,anchorage2,VLCC,1 days 15:33:23,
 9829899.0,anchorage,1,2021-11-18 18:11:56,2021-11-21 06:16:51,109991.0,Crude/Oil Products Tanker,anchorage19,Aframax,2 days 12:04:55,
 9534054.0,anchorage,1,2021-11-19 02:01:24,2021-11-19 18:08:23,318510.0,Crude Oil Tanker,anchorage53,VLCC,0 days 16:06:59,
 9500132.0,anchorage,1,2021-11-19 02:08:46,2021-11-21 17:59:24,17475.0,Chemical/Products Tanker,anchorage8,Sub Handysize,2 days 15:50:38,
 9779161.0,anchorage,1,2021-11-19 05:18:34,2021-11-19 21:00:42,2500.0,Products Tanker,anchorage35,Sub Handysize,0 days 15:42:08,
 9435428.0,anchorage,1,2021-11-19 08:08:07,2021-11-20 04:02:09,13440.0,Products Tanker,anchorage63,Sub Handysize,0 days 19:54:02,
-9509023.0,SPM,4,2021-11-19 08:37:25,2021-11-21 14:09:05,149998.0,Crude Oil Tanker,SPM4,Suezmax,2 days 05:31:40,5.0
+9509023.0,SPM,4,2021-11-19 08:37:25,2021-11-21 14:09:05,149998.0,Crude Oil Tanker,SPM4,Suezmax,2 days 05:31:40,4.0
 9737515.0,anchorage,1,2021-11-19 11:46:08,2021-11-22 06:17:52,74074.0,Crude/Oil Products Tanker,anchorage25,Panamax,2 days 18:31:44,
 9410210.0,anchorage,1,2021-11-19 15:54:39,2021-11-20 06:07:35,149992.0,Crude Oil Tanker,anchorage49,Suezmax,0 days 14:12:56,7.0
 9629378.0,anchorage,1,2021-11-19 16:34:30,2021-11-19 20:27:31,318448.0,Crude Oil Tanker,anchorage2,VLCC,0 days 03:53:01,2.0
@@ -6055,7 +6041,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9337183.0,SPM,1,2021-11-22 21:16:21,2021-11-23 17:07:46,298216.0,Crude Oil Tanker,SPM1,VLCC,0 days 19:51:25,3.0
 9629378.0,anchorage,1,2021-11-23 00:24:42,2021-11-23 08:53:02,318448.0,Crude Oil Tanker,anchorage49,VLCC,0 days 08:28:20,3.0
 9290385.0,anchorage,1,2021-11-23 01:07:22,2021-11-23 07:42:35,159062.0,Crude Oil Tanker,anchorage2,Suezmax,0 days 06:35:13,
-9827683.0,berth,1,2021-11-23 02:25:32,2021-11-23 02:25:32,318608.0,Crude Oil Tanker,berth1,VLCC,0 days 00:00:00,3.0
 9605190.0,anchorage,1,2021-11-23 05:29:26,2021-11-23 23:24:55,313990.0,Crude Oil Tanker,anchorage32,VLCC,0 days 17:55:29,2.0
 9629378.0,SPM,2,2021-11-23 09:49:50,2021-11-24 14:33:01,318448.0,Crude Oil Tanker,SPM2,VLCC,1 days 04:43:11,3.0
 9579030.0,anchorage,1,2021-11-23 11:58:21,2021-11-24 14:58:05,159236.0,Crude Oil Tanker,anchorage49,Suezmax,1 days 02:59:44,2.0
@@ -6072,15 +6057,15 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9579030.0,SPM,3,2021-11-24 15:21:15,2021-11-26 06:42:59,159236.0,Crude Oil Tanker,SPM3,Suezmax,1 days 15:21:44,2.0
 9629378.0,anchorage,1,2021-11-24 15:23:41,2021-11-24 19:14:24,318448.0,Crude Oil Tanker,anchorage54,VLCC,0 days 03:50:43,
 9320831.0,anchorage,1,2021-11-24 15:25:53,2021-11-25 06:00:31,300390.0,Crude Oil Tanker,anchorage48,VLCC,0 days 14:34:38,2.0
-9293129.0,anchorage,1,2021-11-24 17:29:45,2021-11-25 18:02:32,159155.0,Crude Oil Tanker,anchorage49,Suezmax,1 days 00:32:47,7.0
+9293129.0,anchorage,1,2021-11-24 17:29:45,2021-11-25 18:02:32,159155.0,Crude Oil Tanker,anchorage49,Suezmax,1 days 00:32:47,6.0
 9500132.0,anchorage,1,2021-11-24 21:28:18,2021-11-25 11:22:51,17475.0,Chemical/Products Tanker,anchorage5,Sub Handysize,0 days 13:54:33,
-9827683.0,berth,1,2021-11-25 03:09:20,2021-11-25 13:32:07,318608.0,Crude Oil Tanker,berth1,VLCC,0 days 10:22:47,4.0
+9827683.0,berth,1,2021-11-25 03:09:20,2021-11-25 13:32:07,318608.0,Crude Oil Tanker,berth1,VLCC,0 days 10:22:47,3.0
 9320831.0,berth,3,2021-11-25 07:38:01,2021-11-27 21:50:48,300390.0,Crude Oil Tanker,berth3,VLCC,2 days 14:12:47,2.0
 9605190.0,anchorage,1,2021-11-25 11:59:18,2021-11-25 19:11:17,313990.0,Crude Oil Tanker,anchorage52,VLCC,0 days 07:11:59,
 9013426.0,anchorage,1,2021-11-25 13:07:45,2021-11-27 07:25:03,16755.0,Chemical/Products Tanker,anchorage43,Sub Handysize,1 days 18:17:18,
 9398058.0,anchorage,1,2021-11-25 17:38:39,2021-11-25 18:08:49,297934.0,Crude Oil Tanker,anchorage49,VLCC,0 days 00:30:10,6.0
 9290373.0,anchorage,1,2021-11-25 19:10:11,2021-11-27 17:39:51,163750.0,Crude Oil Tanker,anchorage16,Suezmax,1 days 22:29:40,3.0
-9293129.0,SPM,1,2021-11-25 19:14:51,2021-11-27 06:00:06,159155.0,Crude Oil Tanker,SPM1,Suezmax,1 days 10:45:15,7.0
+9293129.0,SPM,1,2021-11-25 19:14:51,2021-11-27 06:00:06,159155.0,Crude Oil Tanker,SPM1,Suezmax,1 days 10:45:15,6.0
 9237228.0,anchorage,1,2021-11-25 19:32:43,2021-11-30 13:06:07,105579.0,Crude/Oil Products Tanker,anchorage22,Aframax,4 days 17:33:24,2.0
 9772321.0,anchorage,1,2021-11-25 19:36:37,2021-11-30 07:53:02,149999.0,Crude Oil Tanker,anchorage52,Suezmax,4 days 12:16:25,4.0
 9398058.0,SPM,2,2021-11-25 21:53:59,2021-11-27 22:11:59,297934.0,Crude Oil Tanker,SPM2,VLCC,2 days 00:18:00,6.0
@@ -6094,7 +6079,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9831828.0,berth,4,2021-11-26 21:51:34,2021-11-29 14:19:37,149999.0,Crude Oil Tanker,berth4,Suezmax,2 days 16:28:03,3.0
 9142320.0,anchorage,1,2021-11-27 04:48:16,2021-11-27 18:22:57,8758.0,Chemical/Products Tanker,anchorage43,Sub Handysize,0 days 13:34:41,
 9424285.0,anchorage,1,2021-11-27 05:45:02,2021-11-28 03:08:56,13451.0,Products Tanker,anchorage19,Sub Handysize,0 days 21:23:54,
-9293129.0,anchorage,1,2021-11-27 06:30:28,2021-11-27 11:14:01,159155.0,Crude Oil Tanker,anchorage48,Suezmax,0 days 04:43:33,8.0
+9293129.0,anchorage,1,2021-11-27 06:30:28,2021-11-27 11:14:01,159155.0,Crude Oil Tanker,anchorage48,Suezmax,0 days 04:43:33,7.0
 9844851.0,anchorage,1,2021-11-27 08:08:32,2021-11-27 12:56:01,299990.0,Crude Oil Tanker,anchorage53,VLCC,0 days 04:47:29,
 9419618.0,anchorage,1,2021-11-27 09:56:12,2021-11-29 12:55:58,313525.0,Crude Oil Tanker,anchorage22,VLCC,2 days 02:59:46,3.0
 9194139.0,anchorage,1,2021-11-27 12:56:14,2021-12-01 00:38:13,99123.0,Crude Oil Tanker,anchorage61,Aframax,3 days 11:41:59,
@@ -6105,7 +6090,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9852119.0,anchorage,1,2021-11-27 18:27:59,2021-11-28 00:27:32,300636.0,Crude Oil Tanker,anchorage2,VLCC,0 days 05:59:33,1.0
 9559406.0,anchorage,1,2021-11-27 19:42:14,2021-11-28 13:57:11,317924.0,Crude Oil Tanker,anchorage32,VLCC,0 days 18:14:57,2.0
 9389784.0,SPM,3,2021-11-27 21:30:46,2021-11-27 21:40:56,297293.0,Crude Oil Tanker,SPM3,VLCC,0 days 00:10:10,2.0
-9852119.0,berth,1,2021-11-28 01:56:43,2021-11-28 01:56:43,300636.0,Crude Oil Tanker,berth1,VLCC,0 days 00:00:00,1.0
 9737515.0,anchorage,1,2021-11-28 03:11:44,2021-11-28 22:37:48,74074.0,Crude/Oil Products Tanker,anchorage61,Panamax,0 days 19:26:04,
 9389760.0,anchorage,1,2021-11-28 04:43:55,2021-11-29 18:42:57,297244.0,Crude Oil Tanker,anchorage59,VLCC,1 days 13:59:02,6.0
 9845130.0,anchorage,1,2021-11-28 06:32:52,2021-11-28 07:05:10,149999.0,Crude Oil Tanker,anchorage52,Suezmax,0 days 00:32:18,
@@ -6138,7 +6122,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9081825.0,anchorage,1,2021-11-30 21:04:02,2021-12-06 20:15:51,46699.0,Crude/Oil Products Tanker,anchorage59,Handysize,5 days 23:11:49,
 9345221.0,anchorage,1,2021-11-30 22:24:45,2021-12-02 11:48:40,13060.0,Products Tanker,anchorage45,Sub Handysize,1 days 13:23:55,
 9429297.0,berth,3,2021-12-01 01:01:44,2021-12-02 11:39:41,164758.0,Crude Oil Tanker,berth3,Suezmax,1 days 10:37:57,3
-9852119.0,berth,1,2021-12-01 01:52:30,2021-12-01 09:58:30,300636.0,Crude Oil Tanker,berth1,VLCC,0 days 08:06:00,2.0
+9852119.0,berth,1,2021-12-01 01:52:30,2021-12-01 09:58:30,300636.0,Crude Oil Tanker,berth1,VLCC,0 days 08:06:00,1.0
 9272395.0,anchorage,1,2021-12-01 02:23:06,2021-12-28 19:27:29,45975.0,Products Tanker,anchorage39,Handysize,27 days 17:04:23,
 9753545.0,anchorage,1,2021-12-01 02:34:51,2021-12-01 21:17:51,149992.0,Crude Oil Tanker,anchorage23,Suezmax,0 days 18:43:00,5.0
 9213222.0,anchorage,1,2021-12-01 04:58:37,2021-12-05 12:16:30,7849.0,Chemical/Products Tanker,anchorage25,Sub Handysize,4 days 07:17:53,
@@ -6234,10 +6218,10 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9187435.0,anchorage,1,2021-12-10 08:27:51,2021-12-13 09:32:37,107181.0,Crude Oil Tanker,anchorage5,Aframax,3 days 01:04:46,
 9290385.0,anchorage,1,2021-12-10 14:07:15,2021-12-10 14:47:55,159062.0,Crude Oil Tanker,anchorage52,Suezmax,0 days 00:40:40,
 9591284.0,SPM,4,2021-12-10 14:21:33,2021-12-13 03:51:51,297388.0,Crude Oil Tanker,SPM4,VLCC,2 days 13:30:18,1.0
-9250737.0,anchorage,1,2021-12-10 18:45:48,2021-12-11 00:05:18,151736.0,Crude Oil Tanker,anchorage49,Suezmax,0 days 05:19:30,2.0
+9250737.0,anchorage,1,2021-12-10 18:45:48,2021-12-11 00:05:18,151736.0,Crude Oil Tanker,anchorage49,Suezmax,0 days 05:19:30,1.0
 9887803.0,anchorage,1,2021-12-10 19:25:30,2021-12-10 19:42:01,109899.0,Crude/Oil Products Tanker,anchorage11,Aframax,0 days 00:16:31,
 9297486.0,SPM,1,2021-12-10 21:34:25,2021-12-12 07:29:03,316217.0,Crude Oil Tanker,SPM1,VLCC,1 days 09:54:38,21.0
-9250737.0,berth,2,2021-12-11 01:53:14,2021-12-17 12:35:22,151736.0,Crude Oil Tanker,berth2,Suezmax,6 days 10:42:08,2.0
+9250737.0,berth,2,2021-12-11 01:53:14,2021-12-17 12:35:22,151736.0,Crude Oil Tanker,berth2,Suezmax,6 days 10:42:08,1.0
 9459046.0,anchorage,1,2021-12-11 04:00:23,2021-12-12 08:13:22,158034.0,Crude Oil Tanker,anchorage11,Suezmax,1 days 04:12:59,
 9324100.0,anchorage,1,2021-12-11 11:29:23,2021-12-11 18:56:08,302478.0,Crude Oil Tanker,anchorage48,VLCC,0 days 07:26:45,
 9013426.0,anchorage,1,2021-12-11 12:26:14,2021-12-30 15:54:23,16755.0,Chemical/Products Tanker,anchorage59,Sub Handysize,19 days 03:28:09,
@@ -6302,7 +6286,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9293131.0,SPM,3,2021-12-17 20:34:34,2021-12-20 14:40:28,159152.0,Crude Oil Tanker,SPM3,Suezmax,2 days 18:05:54,9.0
 9516923.0,anchorage,1,2021-12-17 21:15:35,2021-12-19 16:54:58,319725.0,Crude Oil Tanker,anchorage48,VLCC,1 days 19:39:23,3.0
 9784013.0,anchorage,1,2021-12-18 11:26:03,2021-12-24 22:05:54,157162.0,Crude/Oil Products Tanker,anchorage45,Suezmax,6 days 10:39:51,
-9320714.0,anchorage,1,2021-12-18 14:09:36,2021-12-20 09:47:25,166468.0,Crude Oil Tanker,anchorage57,Suezmax,1 days 19:37:49,3.0
+9320714.0,anchorage,1,2021-12-18 14:09:36,2021-12-20 09:47:25,166468.0,Crude Oil Tanker,anchorage57,Suezmax,1 days 19:37:49,2.0
 9216559.0,anchorage,1,2021-12-18 16:48:42,2021-12-21 17:20:04,68467.0,Products Tanker,anchorage59,Panamax,3 days 00:31:22,
 9515436.0,anchorage,1,2021-12-18 17:46:54,2021-12-21 12:36:27,313798.0,Crude Oil Tanker,anchorage9,VLCC,2 days 18:49:33,3.0
 9772345.0,anchorage,1,2021-12-19 00:02:14,2021-12-19 05:26:12,149988.0,Crude Oil Tanker,anchorage31,Suezmax,0 days 05:23:58,
@@ -6318,7 +6302,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9290086.0,SPM,4,2021-12-20 01:46:57,2021-12-22 16:55:57,319254.0,Crude Oil Tanker,SPM4,VLCC,2 days 15:09:00,3.0
 9222704.0,anchorage,1,2021-12-20 01:50:48,2021-12-28 19:09:19,45869.0,Products Tanker,anchorage14,Handysize,8 days 17:18:31,
 9416654.0,anchorage,1,2021-12-20 10:15:57,2021-12-20 17:51:46,309189.0,Crude Oil Tanker,anchorage60,VLCC,0 days 07:35:49,
-9320714.0,SPM,2,2021-12-20 10:21:14,2021-12-21 16:02:46,166468.0,Crude Oil Tanker,SPM2,Suezmax,1 days 05:41:32,3.0
+9320714.0,SPM,2,2021-12-20 10:21:14,2021-12-21 16:02:46,166468.0,Crude Oil Tanker,SPM2,Suezmax,1 days 05:41:32,2.0
 9280885.0,anchorage,1,2021-12-20 14:30:52,2021-12-20 15:10:32,159055.0,Crude Oil Tanker,anchorage52,Suezmax,0 days 00:39:40,1
 9339648.0,anchorage,1,2021-12-20 14:38:34,2021-12-20 23:14:24,34671.0,Chemical/Products Tanker,anchorage21,Handysize,0 days 08:35:50,
 9293131.0,anchorage,1,2021-12-20 14:51:25,2021-12-20 19:35:45,159152.0,Crude Oil Tanker,anchorage23,Suezmax,0 days 04:44:20,
@@ -6401,7 +6385,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9412309.0,anchorage,1,2021-12-30 16:14:30,2021-12-30 21:45:23,161653.0,Crude Oil Tanker,anchorage48,Suezmax,0 days 05:30:53,3.0
 9408463.0,anchorage,1,2021-12-30 17:14:50,2022-01-01 06:13:30,157410.0,Crude Oil Tanker,anchorage53,Suezmax,1 days 12:58:40,5.0
 9257137.0,anchorage,1,2021-12-30 19:28:18,2022-01-03 17:36:37,158553.0,Crude Oil Tanker,anchorage25,Suezmax,3 days 22:08:19,
-9532757.0,berth,3,2021-12-31 01:02:18,2021-12-31 01:02:18,320780.0,Crude Oil Tanker,berth3,ULCC,0 days 00:00:00,3.0
 9256901.0,anchorage,1,2021-12-31 02:52:24,2022-01-01 04:25:06,47842.0,Chemical/Products Tanker,anchorage19,Handysize,1 days 01:32:42,
 9412309.0,SPM,1,2021-12-31 05:42:39,2022-01-01 11:04:50,161653.0,Crude Oil Tanker,SPM1,Suezmax,1 days 05:22:11,3.0
 9289740.0,anchorage,1,2021-12-31 18:37:58,2021-12-31 19:19:44,46992.0,Chemical/Products Tanker,anchorage1,Handysize,0 days 00:41:46,
@@ -6432,16 +6415,15 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9410210.0,anchorage,1,2022-01-03 07:15:02,2022-01-03 09:34:25,149992.0,Crude Oil Tanker,anchorage52,Suezmax,0 days 02:19:23,
 9415404.0,anchorage,1,2022-01-03 11:55:01,2022-01-04 06:02:10,164787.0,Crude Oil Tanker,anchorage11,Suezmax,0 days 18:07:09,
 9792266.0,anchorage,1,2022-01-03 14:36:12,2022-01-04 08:06:57,300852.0,Crude Oil Tanker,anchorage9,VLCC,0 days 17:30:45,3.0
-9745237.0,anchorage,1,2022-01-03 17:07:24,2022-01-04 00:07:42,158932.0,Crude Oil Tanker,anchorage48,Suezmax,0 days 07:00:18,1.0
+9745237.0,anchorage,1,2022-01-03 17:07:24,2022-01-04 00:07:42,158932.0,Crude Oil Tanker,anchorage48,Suezmax,0 days 07:00:18,
 9717125.0,anchorage,1,2022-01-03 18:37:42,2022-01-08 07:54:54,109999.0,Crude/Oil Products Tanker,anchorage38,Aframax,4 days 13:17:12,
 9256468.0,SPM,1,2022-01-03 20:26:02,2022-01-05 00:23:30,104864.0,Crude Oil Tanker,SPM1,Aframax,1 days 03:57:28,2.0
 9222704.0,anchorage,1,2022-01-03 23:59:46,2022-01-06 23:17:19,45869.0,Products Tanker,anchorage12,Handysize,2 days 23:17:33,
 9013426.0,anchorage,1,2022-01-04 01:37:49,2022-01-04 04:35:59,16755.0,Chemical/Products Tanker,anchorage11,Sub Handysize,0 days 02:58:10,
-9745237.0,berth,4,2022-01-04 07:06:15,2022-01-04 07:06:15,158932.0,Crude Oil Tanker,berth4,Suezmax,0 days 00:00:00,1.0
 9602631.0,SPM,1,2022-01-04 08:52:15,2022-01-06 10:20:27,319743.0,Crude Oil Tanker,SPM1,VLCC,2 days 01:28:12,1.0
 9081825.0,anchorage,1,2022-01-04 21:20:12,2022-01-10 10:34:59,46699.0,Crude/Oil Products Tanker,anchorage66,Handysize,5 days 13:14:47,
 9194139.0,anchorage,1,2022-01-04 22:29:49,2022-01-22 07:00:19,99123.0,Crude Oil Tanker,anchorage38,Aframax,17 days 08:30:30,
-9406673.0,anchorage,1,2022-01-05 02:36:10,2022-01-05 17:23:59,157583.0,Crude Oil Tanker,anchorage2,Suezmax,0 days 14:47:49,5.0
+9406673.0,anchorage,1,2022-01-05 02:36:10,2022-01-05 17:23:59,157583.0,Crude Oil Tanker,anchorage2,Suezmax,0 days 14:47:49,
 9233650.0,anchorage,1,2022-01-05 02:37:15,2022-01-05 14:11:30,305795.0,Crude Oil Tanker,anchorage49,VLCC,0 days 11:34:15,6.0
 9162916.0,anchorage,1,2022-01-05 06:12:40,2022-01-23 06:40:45,47198.0,Products Tanker,anchorage14,Handysize,18 days 00:28:05,
 9435428.0,anchorage,1,2022-01-05 06:14:36,2022-01-06 08:02:39,13440.0,Products Tanker,anchorage24,Sub Handysize,1 days 01:48:03,
@@ -6449,13 +6431,11 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9727209.0,anchorage,1,2022-01-05 08:59:00,2022-01-05 17:22:10,308085.0,Crude Oil Tanker,anchorage52,VLCC,0 days 08:23:10,
 9233650.0,SPM,2,2022-01-05 15:53:20,2022-01-07 09:18:22,305795.0,Crude Oil Tanker,SPM2,VLCC,1 days 17:25:02,6.0
 9473389.0,anchorage,1,2022-01-05 16:56:10,2022-01-06 10:56:11,297491.0,Crude Oil Tanker,anchorage52,VLCC,0 days 18:00:01,5.0
-9406673.0,berth,3,2022-01-05 19:03:39,2022-01-05 19:03:39,157583.0,Crude Oil Tanker,berth3,Suezmax,0 days 00:00:00,5.0
 9322140.0,anchorage,1,2022-01-05 19:04:53,2022-01-06 13:31:41,13050.0,Products Tanker,anchorage14,Sub Handysize,0 days 18:26:48,
 9265873.0,anchorage,1,2022-01-06 03:45:09,2022-01-15 06:03:18,46248.0,Products Tanker,anchorage5,Handysize,9 days 02:18:09,
 9602631.0,anchorage,1,2022-01-06 11:12:36,2022-01-06 21:20:02,319743.0,Crude Oil Tanker,anchorage17,VLCC,0 days 10:07:26,
 9258595.0,anchorage,1,2022-01-06 17:10:40,2022-01-09 01:11:34,47288.0,Chemical/Products Tanker,anchorage1,Handysize,2 days 08:00:54,
 9792266.0,SPM,4,2022-01-06 17:14:01,2022-01-06 17:26:03,300852.0,Crude Oil Tanker,SPM4,VLCC,0 days 00:12:02,3.0
-9745237.0,berth,4,2022-01-06 18:05:22,2022-01-06 18:05:22,158932.0,Crude Oil Tanker,berth4,Suezmax,0 days 00:00:00,2.0
 9473389.0,SPM,3,2022-01-06 18:56:10,2022-01-08 12:04:11,297491.0,Crude Oil Tanker,SPM3,VLCC,1 days 17:08:01,5.0
 9828962.0,anchorage,1,2022-01-06 19:01:28,2022-01-07 06:45:59,311798.0,Crude Oil Tanker,anchorage49,VLCC,0 days 11:44:31,8.0
 9900667.0,berth,4,2022-01-06 19:04:04,2022-01-06 19:16:17,307620.0,Crude Oil Tanker,berth4,VLCC,0 days 00:12:13,1.0
@@ -6485,7 +6465,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9171357.0,anchorage,1,2022-01-09 13:04:42,2022-01-25 14:50:49,44990.0,Chemical/Products Tanker,anchorage4,Handysize,16 days 01:46:07,
 9828962.0,anchorage,1,2022-01-09 18:04:36,2022-01-09 22:44:01,311798.0,Crude Oil Tanker,anchorage48,VLCC,0 days 04:39:25,
 9772333.0,anchorage,1,2022-01-09 18:51:53,2022-01-10 08:13:57,149999.0,Crude Oil Tanker,anchorage3,Suezmax,0 days 13:22:04,19.0
-9900667.0,berth,4,2022-01-09 21:05:36,2022-01-09 21:05:36,307620.0,Crude Oil Tanker,berth4,VLCC,0 days 00:00:00,2.0
 9900667.0,anchorage,1,2022-01-09 21:56:16,2022-01-10 10:30:54,307620.0,Crude Oil Tanker,anchorage54,VLCC,0 days 12:34:38,
 9422548.0,berth,4,2022-01-09 22:06:29,2022-01-11 23:47:59,115382.0,Crude/Oil Products Tanker,berth4,Aframax,2 days 01:41:30,1
 9339648.0,anchorage,1,2022-01-09 23:00:17,2022-01-11 19:19:07,34671.0,Chemical/Products Tanker,anchorage12,Handysize,1 days 20:18:50,
@@ -6501,9 +6480,9 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9800257.0,anchorage,1,2022-01-11 09:37:08,2022-01-12 05:19:26,156989.0,Crude Oil Tanker,anchorage3,Suezmax,0 days 19:42:18,7.0
 9417464.0,anchorage,1,2022-01-11 11:46:54,2022-01-12 15:47:26,105188.0,Crude/Oil Products Tanker,anchorage17,Aframax,1 days 04:00:32,
 9772333.0,anchorage,1,2022-01-11 13:33:27,2022-01-11 19:18:54,149999.0,Crude Oil Tanker,anchorage32,Suezmax,0 days 05:45:27,
-9509023.0,anchorage,1,2022-01-11 14:21:52,2022-01-11 20:16:02,149998.0,Crude Oil Tanker,anchorage48,Suezmax,0 days 05:54:10,6.0
+9509023.0,anchorage,1,2022-01-11 14:21:52,2022-01-11 20:16:02,149998.0,Crude Oil Tanker,anchorage48,Suezmax,0 days 05:54:10,5.0
 9230907.0,SPM,4,2022-01-11 17:37:25,2022-01-13 20:28:29,319430.0,Crude Oil Tanker,SPM4,VLCC,2 days 02:51:04,7.0
-9509023.0,berth,2,2022-01-11 21:14:12,2022-01-13 21:24:18,149998.0,Crude Oil Tanker,berth2,Suezmax,2 days 00:10:06,6.0
+9509023.0,berth,2,2022-01-11 21:14:12,2022-01-13 21:24:18,149998.0,Crude Oil Tanker,berth2,Suezmax,2 days 00:10:06,5.0
 9209300.0,anchorage,1,2022-01-11 22:57:13,2022-01-12 14:15:54,69999.0,Crude Oil Tanker,anchorage24,Panamax,0 days 15:18:41,1.0
 9405227.0,anchorage,1,2022-01-12 04:46:22,2022-01-12 10:08:43,310444.0,Crude Oil Tanker,anchorage49,VLCC,0 days 05:22:21,
 9800257.0,SPM,2,2022-01-12 06:40:46,2022-01-13 19:22:36,156989.0,Crude Oil Tanker,SPM2,Suezmax,1 days 12:41:50,7.0
@@ -6664,7 +6643,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9215103.0,anchorage,1,2022-01-30 21:28:50,2022-01-31 22:11:35,45999.0,Chemical/Products Tanker,anchorage14,Handysize,1 days 00:42:45,
 9745263.0,SPM,1,2022-01-30 21:41:30,2022-01-31 15:22:46,158871.0,Crude Oil Tanker,SPM1,Suezmax,0 days 17:41:16,3.0
 9594872.0,anchorage,1,2022-01-30 22:31:23,2022-02-02 11:26:57,74986.0,Products Tanker,anchorage63,Panamax,2 days 12:55:34,
-9293129.0,SPM,2,2022-01-30 23:21:36,2022-01-31 08:21:34,159155.0,Crude Oil Tanker,SPM2,Suezmax,0 days 08:59:58,8.0
+9293129.0,SPM,2,2022-01-30 23:21:36,2022-01-31 08:21:34,159155.0,Crude Oil Tanker,SPM2,Suezmax,0 days 08:59:58,7.0
 9182045.0,berth,2,2022-01-30 23:22:36,2022-02-02 22:59:32,45874.0,Products Tanker,berth2,Handysize,2 days 23:36:56,4.0
 9779161.0,anchorage,1,2022-01-31 03:36:56,2022-01-31 14:31:50,2500.0,Products Tanker,anchorage51,Sub Handysize,0 days 10:54:54,
 9788887.0,berth,4,2022-01-31 05:38:48,2022-02-03 05:18:11,301528.0,Crude Oil Tanker,berth4,VLCC,2 days 23:39:23,2.0
@@ -6825,7 +6804,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9792187.0,anchorage,1,2022-02-16 16:02:11,2022-02-18 22:56:02,149999.0,Crude Oil Tanker,anchorage57,Suezmax,2 days 06:53:51,6.0
 9516105.0,anchorage,1,2022-02-16 16:11:01,2022-02-20 06:48:11,157672.0,Crude Oil Tanker,anchorage3,Suezmax,3 days 14:37:10,4.0
 9508861.0,anchorage,1,2022-02-16 16:26:23,2022-02-17 19:26:08,296919.0,Crude Oil Tanker,anchorage30,VLCC,1 days 02:59:45,
-9182045.0,berth,2,2022-02-16 17:25:39,2022-02-16 17:25:39,45874.0,Products Tanker,berth2,Handysize,0 days 00:00:00,5.0
 9298741.0,anchorage,1,2022-02-16 19:23:21,2022-02-17 09:49:49,163759.0,Crude Oil Tanker,anchorage16,Suezmax,0 days 14:26:28,4.0
 9487275.0,anchorage,1,2022-02-16 19:54:42,2022-02-18 17:04:07,74854.0,Crude/Oil Products Tanker,anchorage15,Panamax,1 days 21:09:25,
 9297486.0,anchorage,1,2022-02-16 20:02:07,2022-02-17 18:29:42,316217.0,Crude Oil Tanker,anchorage52,VLCC,0 days 22:27:35,
@@ -6876,7 +6854,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9378876.0,anchorage,1,2022-02-22 08:30:07,2022-02-25 01:12:57,149993.0,Crude Oil Tanker,anchorage63,Suezmax,2 days 16:42:50,
 9458614.0,SPM,2,2022-02-22 09:48:40,2022-02-25 00:43:57,297252.0,Crude Oil Tanker,SPM2,VLCC,2 days 14:55:17,1.0
 9293507.0,anchorage,1,2022-02-22 17:10:46,2022-02-23 13:21:52,158280.0,Crude Oil Tanker,anchorage57,Suezmax,0 days 20:11:06,5.0
-9516105.0,berth,4,2022-02-22 19:10:52,2022-02-22 19:10:52,157672.0,Crude Oil Tanker,berth4,Suezmax,0 days 00:00:00,5.0
 9371593.0,anchorage,1,2022-02-22 21:32:11,2022-02-24 00:40:00,320412.0,Crude Oil Tanker,anchorage30,ULCC,1 days 03:07:49,
 9419101.0,berth,3,2022-02-22 21:39:42,2022-02-25 12:10:45,161762.0,Crude Oil Tanker,berth3,Suezmax,2 days 14:31:03,4.0
 9194139.0,anchorage,1,2022-02-23 01:48:13,2022-03-05 13:50:40,99123.0,Crude Oil Tanker,anchorage65,Aframax,10 days 12:02:27,
@@ -7004,7 +6981,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9550709.0,anchorage,1,2022-03-08 02:18:30,2022-03-08 21:54:00,73427.0,Crude/Oil Products Tanker,anchorage63,Panamax,0 days 19:35:30,
 9588469.0,anchorage,1,2022-03-08 04:03:56,2022-03-16 18:17:26,158645.0,Crude Oil Tanker,anchorage6,Suezmax,8 days 14:13:30,
 9435428.0,anchorage,1,2022-03-08 07:05:54,2022-03-09 06:20:14,13440.0,Products Tanker,anchorage19,Sub Handysize,0 days 23:14:20,
-9745237.0,anchorage,1,2022-03-08 13:16:46,2022-03-10 19:10:22,158932.0,Crude Oil Tanker,anchorage16,Suezmax,2 days 05:53:36,3.0
+9745237.0,anchorage,1,2022-03-08 13:16:46,2022-03-10 19:10:22,158932.0,Crude Oil Tanker,anchorage16,Suezmax,2 days 05:53:36,1.0
 9220940.0,anchorage,1,2022-03-08 13:35:55,2022-03-27 05:59:35,42721.0,Chemical/Products Tanker,anchorage38,Handysize,18 days 16:23:40,
 9013426.0,anchorage,1,2022-03-08 14:39:55,2022-03-09 00:27:28,16755.0,Chemical/Products Tanker,anchorage63,Sub Handysize,0 days 09:47:33,
 9164500.0,anchorage,1,2022-03-08 14:52:09,2022-03-15 00:23:26,13864.0,Products Tanker,anchorage14,Sub Handysize,6 days 09:31:17,
@@ -7025,15 +7002,14 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9534054.0,SPM,2,2022-03-09 20:50:10,2022-03-12 14:57:56,318510.0,Crude Oil Tanker,SPM2,VLCC,2 days 18:07:46,5.0
 9254850.0,anchorage,1,2022-03-10 01:05:52,2022-03-15 10:37:22,70142.0,Products Tanker,anchorage38,Panamax,5 days 09:31:30,
 9352561.0,anchorage,1,2022-03-10 04:27:01,2022-03-11 14:45:56,321300.0,Crude Oil Tanker,anchorage2,ULCC,1 days 10:18:55,1.0
-9182045.0,berth,1,2022-03-10 09:52:06,2022-03-10 09:52:06,45874.0,Products Tanker,berth1,Handysize,0 days 00:00:00,6.0
 9597276.0,anchorage,1,2022-03-10 15:49:34,2022-03-11 11:10:43,299984.0,Crude Oil Tanker,anchorage54,VLCC,0 days 19:21:09,
-9293129.0,anchorage,1,2022-03-10 15:56:41,2022-03-11 09:28:13,159155.0,Crude Oil Tanker,anchorage58,Suezmax,0 days 17:31:32,9.0
+9293129.0,anchorage,1,2022-03-10 15:56:41,2022-03-11 09:28:13,159155.0,Crude Oil Tanker,anchorage58,Suezmax,0 days 17:31:32,8.0
 9500924.0,anchorage,1,2022-03-10 16:06:29,2022-03-10 16:24:10,319439.0,Crude Oil Tanker,anchorage46,VLCC,0 days 00:17:41,3.0
 9500924.0,SPM,1,2022-03-10 16:36:49,2022-03-10 16:57:10,319439.0,Crude Oil Tanker,SPM1,VLCC,0 days 00:20:21,3.0
 9723071.0,anchorage,1,2022-03-10 17:05:44,2022-03-11 13:05:09,299999.0,Crude Oil Tanker,anchorage32,VLCC,0 days 19:59:25,3.0
 9500924.0,anchorage,1,2022-03-10 17:07:00,2022-03-10 17:19:00,319439.0,Crude Oil Tanker,anchorage46,VLCC,0 days 00:12:00,4.0
 9500924.0,SPM,1,2022-03-10 17:50:58,2022-03-11 06:46:09,319439.0,Crude Oil Tanker,SPM1,VLCC,0 days 12:55:11,4.0
-9745237.0,SPM,3,2022-03-10 19:34:22,2022-03-12 15:13:17,158932.0,Crude Oil Tanker,SPM3,Suezmax,1 days 19:38:55,3.0
+9745237.0,SPM,3,2022-03-10 19:34:22,2022-03-12 15:13:17,158932.0,Crude Oil Tanker,SPM3,Suezmax,1 days 19:38:55,1.0
 9595228.0,anchorage,1,2022-03-10 22:38:55,2022-03-13 22:10:15,299981.0,Crude Oil Tanker,anchorage49,VLCC,2 days 23:31:20,5.0
 9435428.0,anchorage,1,2022-03-11 14:22:44,2022-03-15 17:54:18,13440.0,Products Tanker,anchorage63,Sub Handysize,4 days 03:31:34,
 9723071.0,berth,1,2022-03-11 14:47:21,2022-03-14 10:29:08,299999.0,Crude Oil Tanker,berth1,VLCC,2 days 19:41:47,3.0
@@ -7041,7 +7017,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9352561.0,SPM,1,2022-03-11 15:46:27,2022-03-13 13:13:03,321300.0,Crude Oil Tanker,SPM1,ULCC,1 days 21:26:36,1.0
 9229386.0,anchorage,1,2022-03-11 16:43:36,2022-03-11 21:32:50,164274.0,Crude Oil Tanker,anchorage16,Suezmax,0 days 04:49:14,10.0
 9500924.0,anchorage,1,2022-03-11 18:05:24,2022-03-11 22:37:30,319439.0,Crude Oil Tanker,anchorage48,VLCC,0 days 04:32:06,
-9293129.0,SPM,4,2022-03-11 19:38:34,2022-03-14 05:14:33,159155.0,Crude Oil Tanker,SPM4,Suezmax,2 days 09:35:59,9.0
+9293129.0,SPM,4,2022-03-11 19:38:34,2022-03-14 05:14:33,159155.0,Crude Oil Tanker,SPM4,Suezmax,2 days 09:35:59,8.0
 9487249.0,anchorage,1,2022-03-11 20:40:26,2022-03-14 11:16:19,74913.0,Crude/Oil Products Tanker,anchorage5,Panamax,2 days 14:35:53,
 9229386.0,berth,3,2022-03-11 23:04:12,2022-03-14 16:38:20,164274.0,Crude Oil Tanker,berth3,Suezmax,2 days 17:34:08,10.0
 9194139.0,anchorage,1,2022-03-12 02:50:56,2022-03-13 15:56:10,99123.0,Crude Oil Tanker,anchorage14,Aframax,1 days 13:05:14,
@@ -7181,7 +7157,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9734642.0,berth,1,2022-03-25 16:56:39,2022-03-29 09:39:39,300960.0,Crude Oil Tanker,berth1,VLCC,3 days 16:43:00,1.0
 9575955.0,SPM,4,2022-03-25 21:28:30,2022-03-26 22:45:35,296812.0,Crude Oil Tanker,SPM4,VLCC,1 days 01:17:05,3.0
 9315367.0,anchorage,1,2022-03-25 22:56:02,2022-03-26 11:56:09,319247.0,Crude Oil Tanker,anchorage53,VLCC,0 days 13:00:07,
-9231901.0,berth,2,2022-03-26 01:56:21,2022-03-26 01:56:21,112668.0,Crude Oil Tanker,berth2,Aframax,0 days 00:00:00,2.0
 9753002.0,SPM,2,2022-03-26 02:12:26,2022-03-26 03:41:29,319398.0,Crude Oil Tanker,SPM2,VLCC,0 days 01:29:03,2.0
 9429015.0,anchorage,1,2022-03-26 05:27:37,2022-03-26 11:57:47,157563.0,Crude Oil Tanker,anchorage49,Suezmax,0 days 06:30:10,
 9293143.0,anchorage,1,2022-03-26 07:20:14,2022-03-26 17:09:26,159195.0,Crude Oil Tanker,anchorage9,Suezmax,0 days 09:49:12,5.0
@@ -7293,7 +7268,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9290919.0,anchorage,1,2022-04-04 23:04:04,2022-04-05 00:16:44,47120.0,Chemical/Products Tanker,anchorage15,Handysize,0 days 01:12:40,
 9013426.0,anchorage,1,2022-04-05 01:17:48,2022-04-09 11:10:03,16755.0,Chemical/Products Tanker,anchorage4,Sub Handysize,4 days 09:52:15,
 9406178.0,SPM,1,2022-04-05 03:41:11,2022-04-07 19:56:26,297229.0,Crude Oil Tanker,SPM1,VLCC,2 days 16:15:15,1
-9171357.0,anchorage,1,2022-04-05 06:19:45,2022-04-08 06:59:26,44990.0,Chemical/Products Tanker,anchorage59,Handysize,3 days 00:39:41,2.0
+9171357.0,anchorage,1,2022-04-05 06:19:45,2022-04-08 06:59:26,44990.0,Chemical/Products Tanker,anchorage59,Handysize,3 days 00:39:41,
 9633458.0,anchorage,1,2022-04-05 10:23:59,2022-04-05 20:45:49,149999.0,Crude Oil Tanker,anchorage54,Suezmax,0 days 10:21:50,
 9256901.0,anchorage,1,2022-04-05 10:29:55,2022-04-09 23:24:06,47842.0,Chemical/Products Tanker,anchorage24,Handysize,4 days 12:54:11,
 9283241.0,SPM,2,2022-04-05 12:49:02,2022-04-07 02:05:38,159426.0,Crude Oil Tanker,SPM2,Suezmax,1 days 13:16:36,3.0
@@ -7357,9 +7332,9 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9838008.0,anchorage,1,2022-04-11 09:05:58,2022-04-12 05:13:02,312105.0,Crude Oil Tanker,anchorage42,VLCC,0 days 20:07:04,2.0
 9793741.0,anchorage,1,2022-04-11 09:27:17,2022-04-12 05:31:51,302650.0,Crude Oil Tanker,anchorage17,VLCC,0 days 20:04:34,
 9594731.0,SPM,3,2022-04-11 12:31:17,2022-04-12 15:56:29,158582.0,Crude Oil Tanker,SPM3,Suezmax,1 days 03:25:12,3
-9257503.0,anchorage,1,2022-04-11 15:39:02,2022-04-11 16:39:57,73004.0,Crude Oil Tanker,anchorage23,Panamax,0 days 01:00:55,1
+9257503.0,anchorage,1,2022-04-11 15:39:02,2022-04-11 16:39:57,73004.0,Crude Oil Tanker,anchorage23,Panamax,0 days 01:00:55,
 9508861.0,SPM,2,2022-04-11 15:56:43,2022-04-14 06:41:56,296919.0,Crude Oil Tanker,SPM2,VLCC,2 days 14:45:13,10.0
-9406673.0,anchorage,1,2022-04-11 15:59:36,2022-04-12 21:25:32,157583.0,Crude Oil Tanker,anchorage59,Suezmax,1 days 05:25:56,6.0
+9406673.0,anchorage,1,2022-04-11 15:59:36,2022-04-12 21:25:32,157583.0,Crude Oil Tanker,anchorage59,Suezmax,1 days 05:25:56,5.0
 9510618.0,anchorage,1,2022-04-12 03:10:50,2022-04-15 12:46:30,11479.0,Products Tanker,anchorage39,Sub Handysize,3 days 09:35:40,
 9838008.0,SPM,4,2022-04-12 05:53:52,2022-04-13 06:57:12,312105.0,Crude Oil Tanker,SPM4,VLCC,1 days 01:03:20,2.0
 9360233.0,anchorage,1,2022-04-12 07:30:30,2022-04-13 06:05:48,302403.0,Crude Oil Tanker,anchorage53,VLCC,0 days 22:35:18,
@@ -7374,7 +7349,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9338802.0,anchorage,1,2022-04-12 19:42:01,2022-04-17 10:19:52,47371.0,Products Tanker,anchorage38,Handysize,4 days 14:37:51,
 9841615.0,berth,1,2022-04-12 21:11:33,2022-04-17 23:49:34,149995.0,Crude Oil Tanker,berth1,Suezmax,5 days 02:38:01,2
 9013426.0,anchorage,1,2022-04-12 21:43:05,2022-04-15 15:29:22,16755.0,Chemical/Products Tanker,anchorage39,Sub Handysize,2 days 17:46:17,
-9406673.0,SPM,1,2022-04-12 22:37:11,2022-04-15 07:19:36,157583.0,Crude Oil Tanker,SPM1,Suezmax,2 days 08:42:25,6.0
+9406673.0,SPM,1,2022-04-12 22:37:11,2022-04-15 07:19:36,157583.0,Crude Oil Tanker,SPM1,Suezmax,2 days 08:42:25,5.0
 9435428.0,anchorage,1,2022-04-13 04:32:37,2022-04-14 05:05:09,13440.0,Products Tanker,anchorage19,Sub Handysize,1 days 00:32:32,
 9445459.0,anchorage,1,2022-04-13 11:41:07,2022-04-14 02:57:18,319540.0,Crude Oil Tanker,anchorage2,VLCC,0 days 15:16:11,1.0
 9411965.0,SPM,3,2022-04-13 14:06:49,2022-04-15 20:33:30,317441.0,Crude Oil Tanker,SPM3,VLCC,2 days 06:26:41,1.0
@@ -7446,7 +7421,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9822994.0,berth,4,2022-04-20 05:47:50,2022-04-23 23:12:44,317975.0,Crude Oil Tanker,berth4,VLCC,3 days 17:24:54,2.0
 9604079.0,anchorage,1,2022-04-20 07:21:04,2022-04-20 22:18:43,296887.0,Crude Oil Tanker,anchorage30,VLCC,0 days 14:57:39,
 9633446.0,anchorage,1,2022-04-20 07:40:01,2022-04-20 20:39:31,149999.0,Crude Oil Tanker,anchorage16,Suezmax,0 days 12:59:30,4.0
-9190078.0,anchorage,1,2022-04-20 08:43:45,2022-04-21 05:53:05,13754.0,Chemical/Products Tanker,anchorage14,Sub Handysize,0 days 21:09:20,1.0
+9190078.0,anchorage,1,2022-04-20 08:43:45,2022-04-21 05:53:05,13754.0,Chemical/Products Tanker,anchorage14,Sub Handysize,0 days 21:09:20,
 9527295.0,anchorage,1,2022-04-20 09:39:04,2022-04-20 14:36:05,321225.0,Crude Oil Tanker,anchorage52,ULCC,0 days 04:57:01,
 9690834.0,anchorage,1,2022-04-20 14:38:02,2022-04-22 09:17:48,109999.0,Crude/Oil Products Tanker,anchorage11,Aframax,1 days 18:39:46,
 9779161.0,anchorage,1,2022-04-20 14:39:23,2022-04-25 08:08:29,2500.0,Products Tanker,anchorage5,Sub Handysize,4 days 17:29:06,
@@ -7568,7 +7543,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9603192.0,anchorage,1,2022-04-30 21:22:07,2022-05-01 03:54:18,320805.0,Crude Oil Tanker,anchorage30,ULCC,0 days 06:32:11,
 9294329.0,SPM,4,2022-04-30 22:57:48,2022-05-03 18:03:54,311389.0,Crude Oil Tanker,SPM4,VLCC,2 days 19:06:06,6.0
 9398060.0,berth,1,2022-04-30 23:57:57,2022-05-07 01:15:49,297863.0,Crude Oil Tanker,berth1,VLCC,6 days 01:17:52,2.0
-9209300.0,berth,4,2022-05-01 01:45:06,2022-05-01 01:45:06,69999.0,Crude Oil Tanker,berth4,Panamax,0 days 00:00:00,2.0
 9371593.0,SPM,1,2022-05-01 03:21:50,2022-05-01 15:15:47,320412.0,Crude Oil Tanker,SPM1,ULCC,0 days 11:53:57,28.0
 9435428.0,anchorage,1,2022-05-01 04:14:46,2022-05-02 07:05:46,13440.0,Products Tanker,anchorage24,Sub Handysize,1 days 02:51:00,
 9272395.0,anchorage,1,2022-05-01 07:32:43,2022-06-05 21:47:35,45975.0,Products Tanker,anchorage39,Handysize,35 days 14:14:52,
@@ -7579,7 +7553,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9297486.0,anchorage,1,2022-05-01 14:05:46,2022-05-03 04:07:27,316217.0,Crude Oil Tanker,anchorage59,VLCC,1 days 14:01:41,25.0
 9371593.0,SPM,1,2022-05-01 15:27:45,2022-05-01 19:42:50,320412.0,Crude Oil Tanker,SPM1,ULCC,0 days 04:15:05,29.0
 9013426.0,anchorage,1,2022-05-01 17:49:24,2022-05-02 07:59:12,16755.0,Chemical/Products Tanker,anchorage11,Sub Handysize,0 days 14:09:48,
-9293129.0,anchorage,1,2022-05-01 18:37:12,2022-05-03 04:03:37,159155.0,Crude Oil Tanker,anchorage44,Suezmax,1 days 09:26:25,10.0
+9293129.0,anchorage,1,2022-05-01 18:37:12,2022-05-03 04:03:37,159155.0,Crude Oil Tanker,anchorage44,Suezmax,1 days 09:26:25,9.0
 9371593.0,anchorage,1,2022-05-01 21:35:35,2022-05-02 08:49:55,320412.0,Crude Oil Tanker,anchorage48,ULCC,0 days 11:14:20,
 9733806.0,anchorage,1,2022-05-02 03:59:13,2022-05-03 06:32:07,299999.0,Crude Oil Tanker,anchorage23,VLCC,1 days 02:32:54,
 9424285.0,anchorage,1,2022-05-02 17:17:25,2022-05-04 09:54:49,13451.0,Products Tanker,anchorage39,Sub Handysize,1 days 16:37:24,
@@ -7588,9 +7562,9 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9779161.0,anchorage,1,2022-05-03 04:05:56,2022-05-03 07:20:34,2500.0,Products Tanker,anchorage39,Sub Handysize,0 days 03:14:38,
 9259733.0,anchorage,1,2022-05-03 04:43:34,2022-05-04 20:18:25,159149.0,Crude Oil Tanker,anchorage24,Suezmax,1 days 15:34:51,
 9297486.0,SPM,3,2022-05-03 04:48:40,2022-05-04 17:21:43,316217.0,Crude Oil Tanker,SPM3,VLCC,1 days 12:33:03,25.0
-9293129.0,berth,4,2022-05-03 05:21:58,2022-05-05 18:42:36,159155.0,Crude Oil Tanker,berth4,Suezmax,2 days 13:20:38,10.0
+9293129.0,berth,4,2022-05-03 05:21:58,2022-05-05 18:42:36,159155.0,Crude Oil Tanker,berth4,Suezmax,2 days 13:20:38,9.0
 9596947.0,anchorage,1,2022-05-03 06:23:00,2022-05-04 00:48:50,299999.0,Crude Oil Tanker,anchorage22,VLCC,0 days 18:25:50,6.0
-9745237.0,anchorage,1,2022-05-03 14:35:52,2022-05-05 02:06:03,158932.0,Crude Oil Tanker,anchorage57,Suezmax,1 days 11:30:11,4.0
+9745237.0,anchorage,1,2022-05-03 14:35:52,2022-05-05 02:06:03,158932.0,Crude Oil Tanker,anchorage57,Suezmax,1 days 11:30:11,2.0
 9286657.0,anchorage,1,2022-05-03 17:28:48,2022-05-06 02:56:15,149993.0,Crude Oil Tanker,anchorage19,Suezmax,2 days 09:27:27,
 9294329.0,anchorage,1,2022-05-03 19:40:46,2022-05-04 04:48:49,311389.0,Crude Oil Tanker,anchorage48,VLCC,0 days 09:08:03,
 9232917.0,berth,3,2022-05-03 19:54:45,2022-05-05 07:10:13,113976.0,Crude Oil Tanker,berth3,Aframax,1 days 11:15:28,4.0
@@ -7607,7 +7581,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9324100.0,SPM,3,2022-05-04 23:32:47,2022-05-07 22:25:18,302478.0,Crude Oil Tanker,SPM3,VLCC,2 days 22:52:31,9.0
 9458614.0,anchorage,1,2022-05-04 23:43:04,2022-05-06 09:19:18,297252.0,Crude Oil Tanker,anchorage30,VLCC,1 days 09:36:14,
 9706384.0,anchorage,1,2022-05-05 01:16:52,2022-05-17 02:55:02,318705.0,Crude Oil Tanker,anchorage49,VLCC,12 days 01:38:10,4.0
-9745237.0,berth,2,2022-05-05 02:36:14,2022-05-06 12:17:57,158932.0,Crude Oil Tanker,berth2,Suezmax,1 days 09:41:43,4.0
+9745237.0,berth,2,2022-05-05 02:36:14,2022-05-06 12:17:57,158932.0,Crude Oil Tanker,berth2,Suezmax,1 days 09:41:43,2.0
 9125724.0,anchorage,1,2022-05-05 03:45:02,2022-05-05 05:00:02,12083.0,Products Tanker,anchorage63,Sub Handysize,0 days 01:15:00,
 9254850.0,anchorage,1,2022-05-05 04:51:45,2022-05-06 07:47:59,70142.0,Products Tanker,anchorage39,Panamax,1 days 02:56:14,
 9876440.0,anchorage,1,2022-05-05 05:44:35,2022-05-06 07:28:23,313164.0,Crude Oil Tanker,anchorage2,VLCC,1 days 01:43:48,1.0
@@ -7616,7 +7590,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9310850.0,anchorage,1,2022-05-05 08:36:08,2022-05-06 21:18:58,74994.0,Products Tanker,anchorage5,Panamax,1 days 12:42:50,
 9408475.0,berth,3,2022-05-05 08:44:46,2022-05-07 19:27:34,157444.0,Crude Oil Tanker,berth3,Suezmax,2 days 10:42:48,4.0
 9779161.0,anchorage,1,2022-05-05 08:59:31,2022-05-15 03:05:31,2500.0,Products Tanker,anchorage39,Sub Handysize,9 days 18:06:00,
-9171357.0,berth,1,2022-05-05 13:49:35,2022-05-05 13:49:35,44990.0,Chemical/Products Tanker,berth1,Handysize,0 days 00:00:00,2.0
 9596947.0,anchorage,1,2022-05-05 14:34:49,2022-05-05 21:45:49,299999.0,Crude Oil Tanker,anchorage49,VLCC,0 days 07:11:00,
 9013426.0,anchorage,1,2022-05-05 17:56:17,2022-05-11 15:27:46,16755.0,Chemical/Products Tanker,anchorage43,Sub Handysize,5 days 21:31:29,
 9837626.0,anchorage,1,2022-05-05 20:36:19,2022-05-06 06:24:31,299981.0,Crude Oil Tanker,anchorage9,VLCC,0 days 09:48:12,6.0
@@ -7721,7 +7694,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9240914.0,anchorage,1,2022-05-16 07:48:34,2022-06-30 08:13:43,10280.0,Chemical/Products Tanker,anchorage37,Sub Handysize,45 days 00:25:09,
 9269075.0,anchorage,1,2022-05-16 08:50:44,2022-05-19 07:43:34,159199.0,Crude Oil Tanker,anchorage28,Suezmax,2 days 22:52:50,
 9829631.0,anchorage,1,2022-05-16 09:01:20,2022-05-20 06:58:34,320596.0,Crude Oil Tanker,anchorage54,ULCC,3 days 21:57:14,1.0
-9190078.0,berth,3,2022-05-16 14:37:46,2022-05-16 14:37:46,13754.0,Chemical/Products Tanker,berth3,Sub Handysize,0 days 00:00:00,1.0
 9800245.0,anchorage,1,2022-05-16 14:47:33,2022-05-17 10:43:01,156917.0,Crude Oil Tanker,anchorage57,Suezmax,0 days 19:55:28,5.0
 9294331.0,SPM,3,2022-05-16 15:13:17,2022-05-18 07:13:28,311110.0,Crude Oil Tanker,SPM3,VLCC,1 days 16:00:11,30.0
 9411953.0,SPM,2,2022-05-16 16:25:08,2022-05-18 15:31:07,317441.0,Crude Oil Tanker,SPM2,VLCC,1 days 23:05:59,1.0
@@ -7758,7 +7730,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9837626.0,anchorage,1,2022-05-19 15:21:46,2022-05-21 10:04:07,299981.0,Crude Oil Tanker,anchorage30,VLCC,1 days 18:42:21,
 9298674.0,anchorage,1,2022-05-19 16:18:51,2022-05-19 19:48:11,74999.0,Products Tanker,anchorage61,Panamax,0 days 03:29:20,
 9312145.0,anchorage,1,2022-05-19 18:15:26,2022-05-21 02:11:11,163759.0,Crude Oil Tanker,anchorage3,Suezmax,1 days 07:55:45,7.0
-9771743.0,anchorage,1,2022-05-20 02:20:59,2022-05-24 22:42:09,307664.0,Crude Oil Tanker,anchorage49,VLCC,4 days 20:21:10,2.0
+9771743.0,anchorage,1,2022-05-20 02:20:59,2022-05-24 22:42:09,307664.0,Crude Oil Tanker,anchorage49,VLCC,4 days 20:21:10,1.0
 9290919.0,anchorage,1,2022-05-20 02:48:52,2022-05-20 02:53:41,47120.0,Chemical/Products Tanker,anchorage5,Handysize,0 days 00:04:49,
 9602710.0,anchorage,1,2022-05-20 04:31:20,2022-05-20 11:49:25,73811.0,Chemical/Products Tanker,anchorage53,Panamax,0 days 07:18:05,
 9225330.0,anchorage,1,2022-05-20 05:27:04,2022-05-24 09:59:34,36032.0,Products Tanker,anchorage5,Handysize,4 days 04:32:30,
@@ -7786,7 +7758,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9419955.0,berth,4,2022-05-21 21:44:08,2022-05-23 20:57:09,297258.0,Crude Oil Tanker,berth4,VLCC,1 days 23:13:01,4.0
 9435428.0,anchorage,1,2022-05-22 03:04:29,2022-05-22 10:53:09,13440.0,Products Tanker,anchorage24,Sub Handysize,0 days 07:48:40,
 9424285.0,anchorage,1,2022-05-22 12:09:22,2022-05-23 06:20:48,13451.0,Products Tanker,anchorage14,Sub Handysize,0 days 18:11:26,
-9827695.0,berth,1,2022-05-22 16:00:47,2022-05-22 16:00:47,318608.0,Crude Oil Tanker,berth1,VLCC,0 days 00:00:00,2.0
 9163283.0,anchorage,1,2022-05-22 17:04:27,2022-05-25 07:04:45,36234.0,Chemical Tanker,anchorage23,Handysize,2 days 14:00:18,
 9467770.0,anchorage,1,2022-05-22 20:58:32,2022-05-22 23:46:46,114683.0,Crude Oil Tanker,anchorage2,Aframax,0 days 02:48:14,
 9468671.0,berth,3,2022-05-22 21:38:18,2022-05-26 05:03:50,157380.0,Crude Oil Tanker,berth3,Suezmax,3 days 07:25:32,4.0
@@ -7812,8 +7783,8 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9164500.0,anchorage,1,2022-05-24 19:15:18,2022-05-26 06:50:29,13864.0,Products Tanker,anchorage63,Sub Handysize,1 days 11:35:11,
 9410222.0,anchorage,1,2022-05-24 19:51:33,2022-05-25 16:52:21,149991.0,Crude Oil Tanker,anchorage2,Suezmax,0 days 21:00:48,2.0
 9251896.0,anchorage,1,2022-05-24 23:28:29,2022-05-26 20:25:55,46764.0,Chemical/Products Tanker,anchorage1,Handysize,1 days 20:57:26,
-9771743.0,berth,4,2022-05-24 23:55:52,2022-05-28 07:19:52,307664.0,Crude Oil Tanker,berth4,VLCC,3 days 07:24:00,2.0
-9827695.0,berth,1,2022-05-25 00:49:23,2022-05-26 04:50:13,318608.0,Crude Oil Tanker,berth1,VLCC,1 days 04:00:50,3.0
+9771743.0,berth,4,2022-05-24 23:55:52,2022-05-28 07:19:52,307664.0,Crude Oil Tanker,berth4,VLCC,3 days 07:24:00,1.0
+9827695.0,berth,1,2022-05-25 00:49:23,2022-05-26 04:50:13,318608.0,Crude Oil Tanker,berth1,VLCC,1 days 04:00:50,2.0
 9728693.0,anchorage,1,2022-05-25 01:32:05,2022-05-26 04:12:26,298991.0,Crude Oil Tanker,anchorage66,VLCC,1 days 02:40:21,
 9610298.0,SPM,2,2022-05-25 01:40:46,2022-05-26 03:47:05,316635.0,Crude Oil Tanker,SPM2,VLCC,1 days 02:06:19,6.0
 9221267.0,anchorage,1,2022-05-25 03:45:00,2022-05-25 16:09:56,14796.0,Chemical/Products Tanker,anchorage63,Sub Handysize,0 days 12:24:56,
@@ -7855,18 +7826,17 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9416733.0,anchorage,1,2022-05-27 19:27:33,2022-05-29 10:50:19,157714.0,Crude Oil Tanker,anchorage24,Suezmax,1 days 15:22:46,
 9360233.0,SPM,1,2022-05-27 19:50:06,2022-05-30 05:32:06,302403.0,Crude Oil Tanker,SPM1,VLCC,2 days 09:42:00,22.0
 9326067.0,anchorage,1,2022-05-28 05:12:45,2022-05-28 09:11:18,298495.0,Crude Oil Tanker,anchorage54,VLCC,0 days 03:58:33,
-9233208.0,berth,3,2022-05-28 11:41:47,2022-05-28 11:41:47,112664.0,Crude Oil Tanker,berth3,Aframax,0 days 00:00:00,1
 9286437.0,anchorage,1,2022-05-28 12:12:56,2022-05-30 08:13:36,5765.0,Asphalt/Bitumen Tanker,anchorage12,Sub Handysize,1 days 20:00:40,
 9534054.0,anchorage,1,2022-05-28 14:22:16,2022-05-28 17:06:46,318510.0,Crude Oil Tanker,anchorage2,VLCC,0 days 02:44:30,7.0
 9225330.0,anchorage,1,2022-05-28 14:55:36,2022-05-30 09:06:40,36032.0,Products Tanker,anchorage14,Handysize,1 days 18:11:04,
-9293129.0,anchorage,1,2022-05-28 14:55:50,2022-05-28 15:56:30,159155.0,Crude Oil Tanker,anchorage2,Suezmax,0 days 01:00:40,11.0
+9293129.0,anchorage,1,2022-05-28 14:55:50,2022-05-28 15:56:30,159155.0,Crude Oil Tanker,anchorage2,Suezmax,0 days 01:00:40,10.0
 9771743.0,anchorage,1,2022-05-28 15:55:28,2022-05-29 05:25:50,307664.0,Crude Oil Tanker,anchorage59,VLCC,0 days 13:30:22,
 9273002.0,anchorage,1,2022-05-28 16:26:49,2022-06-02 10:33:02,7717.0,Chemical/Products Tanker,anchorage63,Sub Handysize,4 days 18:06:13,
 9700706.0,anchorage,1,2022-05-28 17:26:21,2022-05-28 21:44:14,149990.0,Crude Oil Tanker,anchorage49,Suezmax,0 days 04:17:53,6.0
 9387578.0,anchorage,1,2022-05-28 18:44:05,2022-05-30 20:48:44,299999.0,Crude Oil Tanker,anchorage61,VLCC,2 days 02:04:39,
 9534054.0,SPM,3,2022-05-28 19:40:35,2022-05-29 22:18:54,318510.0,Crude Oil Tanker,SPM3,VLCC,1 days 02:38:19,7.0
 9886782.0,anchorage,1,2022-05-28 20:19:40,2022-05-29 07:34:37,157447.0,Crude Oil Tanker,anchorage48,Suezmax,0 days 11:14:57,1.0
-9293129.0,berth,4,2022-05-28 20:36:54,2022-05-31 14:06:26,159155.0,Crude Oil Tanker,berth4,Suezmax,2 days 17:29:32,11.0
+9293129.0,berth,4,2022-05-28 20:36:54,2022-05-31 14:06:26,159155.0,Crude Oil Tanker,berth4,Suezmax,2 days 17:29:32,10.0
 9835850.0,anchorage,1,2022-05-28 20:51:12,2022-05-29 19:30:56,156620.0,Crude Oil Tanker,anchorage49,Suezmax,0 days 22:39:44,
 9440227.0,anchorage,1,2022-05-28 20:54:22,2022-05-28 21:45:52,4999.0,Asphalt/Bitumen Tanker,anchorage1,Sub Handysize,0 days 00:51:30,
 9700706.0,berth,2,2022-05-28 22:59:30,2022-06-01 12:34:46,149990.0,Crude Oil Tanker,berth2,Suezmax,3 days 13:35:16,6.0
@@ -7927,7 +7897,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9723588.0,SPM,3,2022-06-04 08:55:24,2022-06-07 06:16:00,308663.0,Crude Oil Tanker,SPM3,VLCC,2 days 21:20:36,1.0
 9595618.0,anchorage,1,2022-06-04 09:33:45,2022-06-04 22:04:16,313999.0,Crude Oil Tanker,anchorage49,VLCC,0 days 12:30:31,4.0
 9786188.0,anchorage,1,2022-06-04 16:21:50,2022-06-04 19:16:00,49919.0,Chemical/Products Tanker,anchorage5,Handysize,0 days 02:54:10,
-9516105.0,anchorage,1,2022-06-04 16:35:08,2022-06-05 00:05:01,157672.0,Crude Oil Tanker,anchorage26,Suezmax,0 days 07:29:53,6.0
+9516105.0,anchorage,1,2022-06-04 16:35:08,2022-06-05 00:05:01,157672.0,Crude Oil Tanker,anchorage26,Suezmax,0 days 07:29:53,5.0
 9800269.0,anchorage,1,2022-06-04 18:13:38,2022-06-05 02:12:53,157007.0,Crude Oil Tanker,anchorage49,Suezmax,0 days 07:59:15,3.0
 9640102.0,anchorage,1,2022-06-04 19:59:27,2022-06-04 20:03:27,19802.0,Chemical/Products Tanker,anchorage14,Sub Handysize,0 days 00:04:00,
 9853591.0,anchorage,1,2022-06-04 21:07:48,2022-06-05 19:18:42,299696.0,Crude Oil Tanker,anchorage23,VLCC,0 days 22:10:54,6.0
@@ -7936,7 +7906,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9783332.0,anchorage,1,2022-06-04 23:28:30,2022-06-05 08:16:28,307953.0,Crude Oil Tanker,anchorage54,VLCC,0 days 08:47:58,
 9265873.0,anchorage,1,2022-06-05 00:06:55,2022-06-14 09:59:31,46248.0,Products Tanker,anchorage63,Handysize,9 days 09:52:36,
 9310161.0,anchorage,1,2022-06-05 01:04:51,2022-06-05 01:14:52,45744.0,Chemical/Products Tanker,anchorage8,Handysize,0 days 00:10:01,
-9516105.0,berth,1,2022-06-05 01:05:41,2022-06-10 03:05:57,157672.0,Crude Oil Tanker,berth1,Suezmax,5 days 02:00:16,6.0
+9516105.0,berth,1,2022-06-05 01:05:41,2022-06-10 03:05:57,157672.0,Crude Oil Tanker,berth1,Suezmax,5 days 02:00:16,5.0
 9440227.0,anchorage,1,2022-06-05 01:39:15,2022-06-07 04:23:58,4999.0,Asphalt/Bitumen Tanker,anchorage1,Sub Handysize,2 days 02:44:43,
 9800269.0,berth,2,2022-06-05 03:14:54,2022-06-07 03:15:10,157007.0,Crude Oil Tanker,berth2,Suezmax,2 days 00:00:16,3.0
 9322140.0,anchorage,1,2022-06-05 10:02:44,2022-06-05 22:14:09,13050.0,Products Tanker,anchorage63,Sub Handysize,0 days 12:11:25,
@@ -7973,9 +7943,9 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9853591.0,anchorage,1,2022-06-08 10:54:54,2022-06-08 23:36:59,299696.0,Crude Oil Tanker,anchorage64,VLCC,0 days 12:42:05,
 9379727.0,berth,4,2022-06-08 12:20:44,2022-06-11 12:46:00,296349.0,Crude Oil Tanker,berth4,VLCC,3 days 00:25:16,4.0
 9434620.0,SPM,2,2022-06-08 13:05:46,2022-06-11 14:00:27,297101.0,Crude Oil Tanker,SPM2,VLCC,3 days 00:54:41,3.0
-9779379.0,anchorage,1,2022-06-08 18:35:15,2022-06-08 21:20:45,156458.0,Crude Oil Tanker,anchorage16,Suezmax,0 days 02:45:30,3.0
+9779379.0,anchorage,1,2022-06-08 18:35:15,2022-06-08 21:20:45,156458.0,Crude Oil Tanker,anchorage16,Suezmax,0 days 02:45:30,2.0
 9297905.0,anchorage,1,2022-06-08 20:10:49,2022-06-09 07:44:05,158344.0,Crude Oil Tanker,anchorage57,Suezmax,0 days 11:33:16,4.0
-9779379.0,berth,3,2022-06-08 23:10:24,2022-06-12 03:13:34,156458.0,Crude Oil Tanker,berth3,Suezmax,3 days 04:03:10,3.0
+9779379.0,berth,3,2022-06-08 23:10:24,2022-06-12 03:13:34,156458.0,Crude Oil Tanker,berth3,Suezmax,3 days 04:03:10,2.0
 9825477.0,anchorage,1,2022-06-09 02:54:55,2022-06-10 08:20:02,114578.0,Crude/Oil Products Tanker,anchorage37,Aframax,1 days 05:25:07,
 9330599.0,anchorage,1,2022-06-09 08:14:53,2022-06-13 14:46:13,104866.0,Crude Oil Tanker,anchorage35,Aframax,4 days 06:31:20,
 9324100.0,anchorage,1,2022-06-09 11:19:59,2022-06-10 01:59:03,302478.0,Crude Oil Tanker,anchorage48,VLCC,0 days 14:39:04,10.0
@@ -8018,7 +7988,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9709087.0,berth,1,2022-06-12 23:16:07,2022-06-15 07:09:14,299320.0,Crude Oil Tanker,berth1,VLCC,2 days 07:53:07,2.0
 9292498.0,SPM,3,2022-06-13 02:14:38,2022-06-14 11:30:07,309164.0,Crude Oil Tanker,SPM3,VLCC,1 days 09:15:29,1.0
 9876414.0,SPM,1,2022-06-13 05:11:32,2022-06-13 19:48:46,313433.0,Crude Oil Tanker,SPM1,VLCC,0 days 14:37:14,5.0
-9293129.0,anchorage,1,2022-06-13 07:53:21,2022-06-14 03:46:08,159155.0,Crude Oil Tanker,anchorage3,Suezmax,0 days 19:52:47,12.0
+9293129.0,anchorage,1,2022-06-13 07:53:21,2022-06-14 03:46:08,159155.0,Crude Oil Tanker,anchorage3,Suezmax,0 days 19:52:47,11.0
 9508861.0,anchorage,1,2022-06-13 08:22:22,2022-06-15 11:13:28,296919.0,Crude Oil Tanker,anchorage32,VLCC,2 days 02:51:06,11.0
 9232955.0,anchorage,1,2022-06-13 14:01:10,2022-06-18 14:31:13,14796.0,Chemical/Products Tanker,anchorage24,Sub Handysize,5 days 00:30:03,
 9799214.0,anchorage,1,2022-06-13 14:41:55,2022-06-13 20:18:51,307105.0,Crude Oil Tanker,anchorage44,VLCC,0 days 05:36:56,3.0
@@ -8032,7 +8002,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9876414.0,SPM,1,2022-06-14 02:24:47,2022-06-14 03:15:47,313433.0,Crude Oil Tanker,SPM1,VLCC,0 days 00:51:00,7.0
 9322140.0,anchorage,1,2022-06-14 03:18:36,2022-06-16 06:33:23,13050.0,Products Tanker,anchorage63,Sub Handysize,2 days 03:14:47,
 9876414.0,SPM,1,2022-06-14 04:09:46,2022-06-14 07:21:47,313433.0,Crude Oil Tanker,SPM1,VLCC,0 days 03:12:01,8.0
-9293129.0,SPM,4,2022-06-14 04:26:47,2022-06-15 07:21:27,159155.0,Crude Oil Tanker,SPM4,Suezmax,1 days 02:54:40,12.0
+9293129.0,SPM,4,2022-06-14 04:26:47,2022-06-15 07:21:27,159155.0,Crude Oil Tanker,SPM4,Suezmax,1 days 02:54:40,11.0
 9596947.0,anchorage,1,2022-06-14 07:25:40,2022-06-14 22:56:45,299999.0,Crude Oil Tanker,anchorage2,VLCC,0 days 15:31:05,7.0
 9292498.0,anchorage,1,2022-06-14 13:33:35,2022-06-15 05:11:07,309164.0,Crude Oil Tanker,anchorage48,VLCC,0 days 15:37:32,
 9440227.0,anchorage,1,2022-06-14 15:56:55,2022-06-14 19:11:55,4999.0,Asphalt/Bitumen Tanker,anchorage1,Sub Handysize,0 days 03:15:00,
@@ -8081,7 +8051,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9788332.0,anchorage,1,2022-06-18 13:50:24,2022-06-19 13:12:47,303120.0,Crude Oil Tanker,anchorage49,VLCC,0 days 23:22:23,4.0
 9232620.0,anchorage,1,2022-06-18 15:27:10,2022-06-22 11:38:27,69629.0,Crude Oil Tanker,anchorage34,Panamax,3 days 20:11:17,
 9330599.0,anchorage,1,2022-06-18 16:01:20,2022-06-21 22:51:08,104866.0,Crude Oil Tanker,anchorage61,Aframax,3 days 06:49:48,
-9250737.0,anchorage,1,2022-06-18 17:37:59,2022-06-20 02:49:50,151736.0,Crude Oil Tanker,anchorage44,Suezmax,1 days 09:11:51,3.0
+9250737.0,anchorage,1,2022-06-18 17:37:59,2022-06-20 02:49:50,151736.0,Crude Oil Tanker,anchorage44,Suezmax,1 days 09:11:51,2.0
 9424285.0,anchorage,1,2022-06-18 18:41:49,2022-06-20 21:10:12,13451.0,Products Tanker,anchorage63,Sub Handysize,2 days 02:28:23,
 9779161.0,anchorage,1,2022-06-18 18:46:10,2022-06-20 08:11:14,2500.0,Products Tanker,anchorage60,Sub Handysize,1 days 13:25:04,
 9837638.0,SPM,1,2022-06-18 19:54:47,2022-06-20 19:53:41,299981.0,Crude Oil Tanker,SPM1,VLCC,1 days 23:58:54,6.0
@@ -8089,7 +8059,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9734642.0,anchorage,1,2022-06-18 22:39:34,2022-06-19 06:46:18,300960.0,Crude Oil Tanker,anchorage54,VLCC,0 days 08:06:44,
 9265873.0,anchorage,1,2022-06-19 00:59:09,2022-06-20 11:58:12,46248.0,Products Tanker,anchorage12,Handysize,1 days 10:59:03,
 9401154.0,anchorage,1,2022-06-19 05:08:54,2022-06-20 00:25:42,105726.0,Crude/Oil Products Tanker,anchorage63,Aframax,0 days 19:16:48,
-9209300.0,berth,1,2022-06-19 06:31:52,2022-06-19 06:31:52,69999.0,Crude Oil Tanker,berth1,Panamax,0 days 00:00:00,3.0
 9888508.0,anchorage,1,2022-06-19 12:19:35,2022-06-19 12:20:13,301781.0,Crude Oil Tanker,anchorage23,VLCC,0 days 00:00:38,
 9772333.0,anchorage,1,2022-06-19 13:28:47,2022-06-20 00:50:17,149999.0,Crude Oil Tanker,anchorage42,Suezmax,0 days 11:21:30,24.0
 9788332.0,SPM,2,2022-06-19 15:19:09,2022-06-19 18:52:05,303120.0,Crude Oil Tanker,SPM2,VLCC,0 days 03:32:56,4.0
@@ -8097,7 +8066,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9788332.0,SPM,2,2022-06-19 19:10:43,2022-06-20 19:25:11,303120.0,Crude Oil Tanker,SPM2,VLCC,1 days 00:14:28,5.0
 9387566.0,anchorage,1,2022-06-19 23:44:41,2022-06-20 09:10:32,318325.0,Crude Oil Tanker,anchorage49,VLCC,0 days 09:25:51,
 9772333.0,SPM,4,2022-06-20 01:34:32,2022-06-22 00:33:18,149999.0,Crude Oil Tanker,SPM4,Suezmax,1 days 22:58:46,24.0
-9250737.0,berth,1,2022-06-20 03:30:39,2022-06-23 05:21:27,151736.0,Crude Oil Tanker,berth1,Suezmax,3 days 01:50:48,3.0
+9250737.0,berth,1,2022-06-20 03:30:39,2022-06-23 05:21:27,151736.0,Crude Oil Tanker,berth1,Suezmax,3 days 01:50:48,2.0
 9271406.0,anchorage,1,2022-06-20 03:54:44,2022-06-20 07:48:51,105817.0,Crude Oil Tanker,anchorage59,Aframax,0 days 03:54:07,
 9406166.0,anchorage,1,2022-06-20 13:42:40,2022-06-21 09:40:53,299999.0,Crude Oil Tanker,anchorage54,VLCC,0 days 19:58:13,6.0
 9750050.0,anchorage,1,2022-06-20 14:49:04,2022-06-20 21:12:56,149992.0,Crude Oil Tanker,anchorage32,Suezmax,0 days 06:23:52,2.0
@@ -8193,7 +8162,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9745251.0,anchorage,1,2022-06-29 05:38:11,2022-06-29 14:25:17,158871.0,Crude Oil Tanker,anchorage48,Suezmax,0 days 08:47:06,
 9371593.0,SPM,1,2022-06-29 06:03:32,2022-06-30 07:42:31,320412.0,Crude Oil Tanker,SPM1,ULCC,1 days 01:38:59,31.0
 9284960.0,anchorage,1,2022-06-29 09:59:51,2022-06-29 18:31:01,299170.0,Crude Oil Tanker,anchorage52,VLCC,0 days 08:31:10,
-9233208.0,berth,3,2022-06-29 12:57:53,2022-06-29 13:00:03,112664.0,Crude Oil Tanker,berth3,Aframax,0 days 00:02:10,2
+9233208.0,berth,3,2022-06-29 12:57:53,2022-06-29 13:00:03,112664.0,Crude Oil Tanker,berth3,Aframax,0 days 00:02:10,1
 9629378.0,berth,2,2022-06-29 14:23:13,2022-07-01 01:12:36,318448.0,Crude Oil Tanker,berth2,VLCC,1 days 10:49:23,4.0
 9830824.0,anchorage,1,2022-06-29 17:27:15,2022-06-30 07:16:12,298998.0,Crude Oil Tanker,anchorage2,VLCC,0 days 13:48:57,1.0
 9537745.0,anchorage,1,2022-06-29 17:27:56,2022-06-30 03:45:54,323183.0,Crude Oil Tanker,anchorage49,ULCC,0 days 10:17:58,2.0
@@ -8215,7 +8184,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9272395.0,anchorage,1,2022-07-01 10:49:50,2022-07-04 08:08:55,45975.0,Products Tanker,anchorage63,Handysize,2 days 21:19:05,
 9779161.0,anchorage,1,2022-07-01 11:06:52,2022-07-10 02:59:28,2500.0,Products Tanker,anchorage11,Sub Handysize,8 days 15:52:36,
 9521485.0,anchorage,1,2022-07-01 12:33:26,2022-07-06 08:59:19,7058.0,Products Tanker,anchorage20,Sub Handysize,4 days 20:25:53,
-9233208.0,berth,3,2022-07-01 13:25:19,2022-07-01 13:25:19,112664.0,Crude Oil Tanker,berth3,Aframax,0 days 00:00:00,3
 9596947.0,SPM,3,2022-07-01 13:52:18,2022-07-03 03:13:13,299999.0,Crude Oil Tanker,SPM3,VLCC,1 days 13:20:55,8.0
 9290347.0,anchorage,1,2022-07-01 14:44:38,2022-07-02 16:12:36,318658.0,Crude Oil Tanker,anchorage57,VLCC,1 days 01:27:58,3.0
 9243021.0,anchorage,1,2022-07-01 17:16:35,2022-07-02 05:54:06,113918.0,Crude Oil Tanker,anchorage16,Aframax,0 days 12:37:31,4.0
@@ -8256,13 +8224,13 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9604079.0,berth,2,2022-07-05 01:27:26,2022-07-08 19:48:05,296887.0,Crude Oil Tanker,berth2,VLCC,3 days 18:20:39,5.0
 9401154.0,anchorage,1,2022-07-05 02:24:03,2022-07-06 18:35:46,105726.0,Crude/Oil Products Tanker,anchorage38,Aframax,1 days 16:11:43,
 9828778.0,anchorage,1,2022-07-05 07:21:19,2022-07-05 22:23:31,307852.0,Crude Oil Tanker,anchorage52,VLCC,0 days 15:02:12,
-9745237.0,anchorage,1,2022-07-05 07:32:47,2022-07-05 19:23:27,158932.0,Crude Oil Tanker,anchorage23,Suezmax,0 days 11:50:40,5.0
+9745237.0,anchorage,1,2022-07-05 07:32:47,2022-07-05 19:23:27,158932.0,Crude Oil Tanker,anchorage23,Suezmax,0 days 11:50:40,3.0
 9275763.0,anchorage,1,2022-07-05 11:10:54,2022-07-12 17:37:22,70313.0,Products Tanker,anchorage8,Panamax,7 days 06:26:28,
 9254862.0,anchorage,1,2022-07-05 11:15:53,2022-07-06 16:34:58,70146.0,Products Tanker,anchorage38,Panamax,1 days 05:19:05,
 9534042.0,anchorage,1,2022-07-05 11:35:51,2022-07-06 18:10:59,318445.0,Crude Oil Tanker,anchorage2,VLCC,1 days 06:35:08,1.0
 9343390.0,anchorage,1,2022-07-05 11:51:51,2022-07-08 08:18:17,302107.0,Crude Oil Tanker,anchorage48,VLCC,2 days 20:26:26,7.0
 9389033.0,anchorage,1,2022-07-05 15:17:07,2022-07-06 11:56:19,299999.0,Crude Oil Tanker,anchorage32,VLCC,0 days 20:39:12,2.0
-9745237.0,berth,4,2022-07-05 20:14:56,2022-07-09 01:29:56,158932.0,Crude Oil Tanker,berth4,Suezmax,3 days 05:15:00,5.0
+9745237.0,berth,4,2022-07-05 20:14:56,2022-07-09 01:29:56,158932.0,Crude Oil Tanker,berth4,Suezmax,3 days 05:15:00,3.0
 9190078.0,anchorage,1,2022-07-05 20:24:15,2022-07-06 20:43:00,13754.0,Chemical/Products Tanker,anchorage57,Sub Handysize,1 days 00:18:45,
 9476654.0,SPM,1,2022-07-05 20:41:58,2022-07-07 05:06:02,149999.0,Crude Oil Tanker,SPM1,Suezmax,1 days 08:24:04,5.0
 9440382.0,anchorage,1,2022-07-06 04:25:36,2022-07-06 11:04:06,158007.0,Crude Oil Tanker,anchorage48,Suezmax,0 days 06:38:30,
@@ -8307,7 +8275,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9390173.0,anchorage,1,2022-07-10 06:14:52,2022-07-14 21:26:17,109999.0,Products Tanker,anchorage39,Aframax,4 days 15:11:25,
 9345221.0,anchorage,1,2022-07-10 07:22:33,2022-07-11 02:38:22,13060.0,Products Tanker,anchorage24,Sub Handysize,0 days 19:15:49,
 9753557.0,anchorage,1,2022-07-10 09:56:26,2022-07-12 19:15:51,149992.0,Crude Oil Tanker,anchorage50,Suezmax,2 days 09:19:25,
-9166417.0,berth,3,2022-07-10 15:09:32,2022-07-10 15:09:32,106474.0,Crude Oil Tanker,berth3,Aframax,0 days 00:00:00,1.0
 9389033.0,anchorage,1,2022-07-10 17:28:00,2022-07-12 04:45:37,299999.0,Crude Oil Tanker,anchorage23,VLCC,1 days 11:17:37,
 9360233.0,anchorage,1,2022-07-10 17:55:52,2022-07-11 10:52:33,302403.0,Crude Oil Tanker,anchorage57,VLCC,0 days 16:56:41,23.0
 9501150.0,anchorage,1,2022-07-10 18:11:26,2022-07-11 20:57:25,316373.0,Crude Oil Tanker,anchorage49,VLCC,1 days 02:45:59,2.0
@@ -8350,11 +8317,11 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9258466.0,anchorage,1,2022-07-14 21:01:23,2022-07-16 15:29:42,68524.0,Products Tanker,anchorage24,Panamax,1 days 18:28:19,
 9572111.0,anchorage,1,2022-07-15 03:33:23,2022-07-15 14:22:52,9915.0,Products Tanker,anchorage61,Sub Handysize,0 days 10:49:29,
 9727223.0,SPM,2,2022-07-15 08:27:12,2022-07-18 09:41:47,308285.0,Crude Oil Tanker,SPM2,VLCC,3 days 01:14:35,3.0
-9293129.0,anchorage,1,2022-07-15 11:32:32,2022-07-15 17:42:36,159155.0,Crude Oil Tanker,anchorage57,Suezmax,0 days 06:10:04,13.0
+9293129.0,anchorage,1,2022-07-15 11:32:32,2022-07-15 17:42:36,159155.0,Crude Oil Tanker,anchorage57,Suezmax,0 days 06:10:04,12.0
 9595620.0,anchorage,1,2022-07-15 16:43:19,2022-07-15 21:44:47,313918.0,Crude Oil Tanker,anchorage2,VLCC,0 days 05:01:28,1.0
 9375238.0,anchorage,1,2022-07-15 17:17:59,2022-07-17 11:30:31,299991.0,Crude Oil Tanker,anchorage48,VLCC,1 days 18:12:32,7.0
 9318137.0,anchorage,1,2022-07-15 18:11:00,2022-07-16 06:27:56,167294.0,Crude Oil Tanker,anchorage46,Suezmax,0 days 12:16:56,4.0
-9293129.0,berth,3,2022-07-15 19:05:23,2022-07-18 06:22:05,159155.0,Crude Oil Tanker,berth3,Suezmax,2 days 11:16:42,13.0
+9293129.0,berth,3,2022-07-15 19:05:23,2022-07-18 06:22:05,159155.0,Crude Oil Tanker,berth3,Suezmax,2 days 11:16:42,12.0
 9322140.0,anchorage,1,2022-07-15 19:37:46,2022-07-16 14:32:50,13050.0,Products Tanker,anchorage24,Sub Handysize,0 days 18:55:04,
 9595620.0,berth,1,2022-07-15 22:55:37,2022-07-18 17:26:27,313918.0,Crude Oil Tanker,berth1,VLCC,2 days 18:30:50,1.0
 9360233.0,anchorage,1,2022-07-15 23:57:16,2022-07-16 22:12:41,302403.0,Crude Oil Tanker,anchorage53,VLCC,0 days 22:15:25,
@@ -8483,7 +8450,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9013426.0,anchorage,1,2022-07-27 23:18:19,2022-07-30 12:46:15,16755.0,Chemical/Products Tanker,anchorage4,Sub Handysize,2 days 13:27:56,
 9874246.0,anchorage,1,2022-07-28 00:23:18,2022-07-29 15:15:35,158060.0,Crude Oil Tanker,anchorage49,Suezmax,1 days 14:52:17,
 9563237.0,berth,4,2022-07-28 05:31:45,2022-08-03 07:05:28,296999.0,Crude Oil Tanker,berth4,VLCC,6 days 01:33:43,2.0
-9166417.0,berth,3,2022-07-28 08:52:24,2022-07-28 08:52:24,106474.0,Crude Oil Tanker,berth3,Aframax,0 days 00:00:00,2.0
 9348479.0,anchorage,1,2022-07-28 09:14:05,2022-07-29 13:15:34,115838.0,Crude Oil Tanker,anchorage58,Aframax,1 days 04:01:29,1
 9395290.0,anchorage,1,2022-07-28 11:35:31,2022-07-29 20:00:47,297221.0,Crude Oil Tanker,anchorage48,VLCC,1 days 08:25:16,
 9800257.0,anchorage,1,2022-07-28 16:42:40,2022-07-31 16:45:23,156989.0,Crude Oil Tanker,anchorage16,Suezmax,3 days 00:02:43,9.0
@@ -8589,7 +8555,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9294329.0,anchorage,1,2022-08-07 08:08:11,2022-08-07 08:20:05,311389.0,Crude Oil Tanker,anchorage46,VLCC,0 days 00:11:54,15.0
 9585895.0,anchorage,1,2022-08-07 09:23:58,2022-08-08 08:43:40,159031.0,Crude Oil Tanker,anchorage52,Suezmax,0 days 23:19:42,
 9294329.0,SPM,1,2022-08-07 09:29:05,2022-08-07 12:02:11,311389.0,Crude Oil Tanker,SPM1,VLCC,0 days 02:33:06,15.0
-9209300.0,berth,1,2022-08-07 10:33:02,2022-08-07 10:33:02,69999.0,Crude Oil Tanker,berth1,Panamax,0 days 00:00:00,4.0
 9432050.0,SPM,2,2022-08-07 13:17:04,2022-08-09 18:09:18,149999.0,Crude Oil Tanker,SPM2,Suezmax,2 days 04:52:14,9.0
 9294329.0,anchorage,1,2022-08-07 14:02:07,2022-08-08 12:13:10,311389.0,Crude Oil Tanker,anchorage52,VLCC,0 days 22:11:03,
 9625968.0,anchorage,1,2022-08-07 16:41:58,2022-08-08 18:15:50,320701.0,Crude Oil Tanker,anchorage48,ULCC,1 days 01:33:52,5.0
@@ -8734,7 +8699,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9389899.0,SPM,1,2022-08-19 19:52:16,2022-08-20 01:31:20,321300.0,Crude Oil Tanker,SPM1,ULCC,0 days 05:39:04,12.0
 9435428.0,anchorage,1,2022-08-20 01:36:29,2022-08-22 09:15:22,13440.0,Products Tanker,anchorage24,Sub Handysize,2 days 07:38:53,
 9389899.0,anchorage,1,2022-08-20 01:46:18,2022-08-20 01:58:16,321300.0,Crude Oil Tanker,anchorage46,ULCC,0 days 00:11:58,13.0
-9257503.0,berth,3,2022-08-20 02:20:29,2022-08-20 02:20:29,73004.0,Crude Oil Tanker,berth3,Panamax,0 days 00:00:00,1
 9389899.0,SPM,1,2022-08-20 02:46:19,2022-08-20 06:22:32,321300.0,Crude Oil Tanker,SPM1,ULCC,0 days 03:36:13,13.0
 9322140.0,anchorage,1,2022-08-20 03:00:29,2022-08-20 20:36:31,13050.0,Products Tanker,anchorage19,Sub Handysize,0 days 17:36:02,
 9837638.0,anchorage,1,2022-08-20 03:17:10,2022-08-20 17:03:47,299981.0,Crude Oil Tanker,anchorage44,VLCC,0 days 13:46:37,
@@ -8954,19 +8918,19 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9779161.0,anchorage,1,2022-09-11 15:37:59,2022-09-12 08:19:09,2500.0,Products Tanker,anchorage11,Sub Handysize,0 days 16:41:10,
 9529968.0,anchorage,1,2022-09-11 17:43:07,2022-09-12 15:03:38,318478.0,Crude Oil Tanker,anchorage9,VLCC,0 days 21:20:31,3.0
 9245782.0,anchorage,1,2022-09-11 18:19:31,2022-09-11 23:15:01,299145.0,Crude Oil Tanker,anchorage52,VLCC,0 days 04:55:30,6.0
-9406673.0,anchorage,1,2022-09-11 18:56:03,2022-09-11 22:34:04,157583.0,Crude Oil Tanker,anchorage49,Suezmax,0 days 03:38:01,7.0
+9406673.0,anchorage,1,2022-09-11 18:56:03,2022-09-11 22:34:04,157583.0,Crude Oil Tanker,anchorage49,Suezmax,0 days 03:38:01,6.0
 9245782.0,berth,2,2022-09-12 00:15:52,2022-09-15 02:46:34,299145.0,Crude Oil Tanker,berth2,VLCC,3 days 02:30:42,6.0
-9406673.0,SPM,2,2022-09-12 00:35:15,2022-09-14 00:47:13,157583.0,Crude Oil Tanker,SPM2,Suezmax,2 days 00:11:58,7.0
+9406673.0,SPM,2,2022-09-12 00:35:15,2022-09-14 00:47:13,157583.0,Crude Oil Tanker,SPM2,Suezmax,2 days 00:11:58,6.0
 9845714.0,anchorage,1,2022-09-12 00:43:46,2022-09-12 07:25:36,318744.0,Crude Oil Tanker,anchorage52,VLCC,0 days 06:41:50,
 9241114.0,berth,2,2022-09-12 01:18:07,2022-09-13 00:57:17,319175.0,Crude Oil Tanker,berth2,VLCC,0 days 23:39:10,2.0
 9272395.0,anchorage,1,2022-09-12 05:45:13,2022-09-16 16:37:47,45975.0,Products Tanker,anchorage63,Handysize,4 days 10:52:34,
-9293129.0,anchorage,1,2022-09-12 06:28:20,2022-09-12 15:11:56,159155.0,Crude Oil Tanker,anchorage31,Suezmax,0 days 08:43:36,14.0
+9293129.0,anchorage,1,2022-09-12 06:28:20,2022-09-12 15:11:56,159155.0,Crude Oil Tanker,anchorage31,Suezmax,0 days 08:43:36,13.0
 9924326.0,anchorage,1,2022-09-12 07:45:03,2022-09-13 00:35:21,149987.0,Crude Oil Tanker,anchorage49,Suezmax,0 days 16:50:18,1.0
 9340465.0,anchorage,1,2022-09-12 12:06:35,2022-10-06 09:19:37,19966.0,Chemical/Products Tanker,anchorage12,Sub Handysize,23 days 21:13:02,
 9427146.0,anchorage,1,2022-09-12 13:07:37,2022-09-13 03:13:37,12000.0,Products Tanker,anchorage49,Sub Handysize,0 days 14:06:00,
 9529968.0,SPM,3,2022-09-12 15:24:28,2022-09-15 10:57:22,318478.0,Crude Oil Tanker,SPM3,VLCC,2 days 19:32:54,3.0
 9327035.0,anchorage,1,2022-09-12 18:31:51,2022-09-12 18:45:31,73711.0,Crude/Oil Products Tanker,anchorage5,Panamax,0 days 00:13:40,
-9293129.0,berth,4,2022-09-12 19:22:07,2022-09-15 17:34:10,159155.0,Crude Oil Tanker,berth4,Suezmax,2 days 22:12:03,14.0
+9293129.0,berth,4,2022-09-12 19:22:07,2022-09-15 17:34:10,159155.0,Crude Oil Tanker,berth4,Suezmax,2 days 22:12:03,13.0
 9289740.0,anchorage,1,2022-09-12 21:49:47,2022-09-15 20:34:46,46992.0,Chemical/Products Tanker,anchorage9,Handysize,2 days 22:44:59,
 9792187.0,anchorage,1,2022-09-12 23:47:21,2022-09-13 07:27:46,149999.0,Crude Oil Tanker,anchorage52,Suezmax,0 days 07:40:25,
 9309227.0,anchorage,1,2022-09-13 00:59:44,2022-09-14 05:29:59,24853.0,Chemical/Products Tanker,anchorage24,Handysize,1 days 04:30:15,
@@ -9115,7 +9079,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9405631.0,anchorage,1,2022-09-27 03:18:15,2022-09-28 08:47:15,5741.0,Chemical/Products Tanker,anchorage13,Sub Handysize,1 days 05:29:00,
 9360233.0,berth,4,2022-09-27 05:14:11,2022-09-30 17:35:05,302403.0,Crude Oil Tanker,berth4,VLCC,3 days 12:20:54,25.0
 9272395.0,anchorage,1,2022-09-27 05:52:11,2022-09-28 11:31:00,45975.0,Products Tanker,anchorage63,Handysize,1 days 05:38:49,
-9209300.0,berth,2,2022-09-27 15:50:26,2022-09-27 15:50:26,69999.0,Crude Oil Tanker,berth2,Panamax,0 days 00:00:00,5.0
 9828780.0,anchorage,1,2022-09-27 19:01:16,2022-09-28 12:49:27,307894.0,Crude Oil Tanker,anchorage2,VLCC,0 days 17:48:11,2.0
 9689988.0,anchorage,1,2022-09-28 05:01:04,2022-09-28 18:26:39,318607.0,Crude Oil Tanker,anchorage52,VLCC,0 days 13:25:35,
 9254850.0,anchorage,1,2022-09-28 10:21:29,2022-10-02 22:30:07,70142.0,Products Tanker,anchorage15,Panamax,4 days 12:08:38,
@@ -9202,7 +9165,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9295593.0,anchorage,1,2022-10-06 12:26:50,2022-10-08 09:43:43,306206.0,Crude Oil Tanker,anchorage2,VLCC,1 days 21:16:53,6.0
 9849851.0,anchorage,1,2022-10-06 13:00:07,2022-10-06 20:02:19,299682.0,Crude Oil Tanker,anchorage2,VLCC,0 days 07:02:12,4.0
 9424285.0,anchorage,1,2022-10-06 14:44:53,2022-10-07 07:09:02,13451.0,Products Tanker,anchorage15,Sub Handysize,0 days 16:24:09,
-9257010.0,berth,1,2022-10-06 14:45:59,2022-10-06 14:45:59,105672.0,Crude Oil Tanker,berth1,Aframax,0 days 00:00:00,1
 9849851.0,berth,2,2022-10-06 21:23:15,2022-10-09 21:26:14,299682.0,Crude Oil Tanker,berth2,VLCC,3 days 00:02:59,4.0
 9243021.0,anchorage,1,2022-10-06 21:32:41,2022-10-07 16:03:02,113918.0,Crude Oil Tanker,anchorage26,Aframax,0 days 18:30:21,5.0
 9427146.0,anchorage,1,2022-10-06 21:48:13,2022-10-21 07:31:53,12000.0,Products Tanker,anchorage2,Sub Handysize,14 days 09:43:40,
@@ -9254,7 +9216,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9272395.0,anchorage,1,2022-10-11 13:05:02,2022-10-12 12:16:55,45975.0,Products Tanker,anchorage19,Handysize,0 days 23:11:53,
 9295593.0,anchorage,1,2022-10-11 15:52:04,2022-10-11 21:45:29,306206.0,Crude Oil Tanker,anchorage2,VLCC,0 days 05:53:25,
 9785225.0,anchorage,1,2022-10-11 16:53:21,2022-10-13 11:06:17,159055.0,Crude Oil Tanker,anchorage46,Suezmax,1 days 18:12:56,5.0
-8915110.0,anchorage,1,2022-10-11 17:16:38,2022-12-07 12:04:36,1255.0,Asphalt/Bitumen Tanker,anchorage19,Sub Handysize,56 days 18:47:58,1.0
+8915110.0,anchorage,1,2022-10-11 17:16:38,2022-12-07 12:04:36,1255.0,Asphalt/Bitumen Tanker,anchorage19,Sub Handysize,56 days 18:47:58,
 9164500.0,anchorage,1,2022-10-11 17:19:12,2022-10-12 17:15:52,13864.0,Products Tanker,anchorage24,Sub Handysize,0 days 23:56:40,
 9723083.0,SPM,1,2022-10-11 18:09:43,2022-10-14 11:30:16,299999.0,Crude Oil Tanker,SPM1,VLCC,2 days 17:20:33,2.0
 9727015.0,anchorage,1,2022-10-11 18:35:39,2022-10-12 03:22:11,299983.0,Crude Oil Tanker,anchorage49,VLCC,0 days 08:46:32,1.0
@@ -9269,12 +9231,11 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9254862.0,anchorage,1,2022-10-12 20:49:18,2022-10-15 15:18:50,70146.0,Products Tanker,anchorage12,Panamax,2 days 18:29:32,
 9379727.0,anchorage,1,2022-10-12 23:36:54,2022-10-13 10:16:19,296349.0,Crude Oil Tanker,anchorage60,VLCC,0 days 10:39:25,
 9458614.0,berth,1,2022-10-13 00:56:46,2022-10-17 06:22:51,297252.0,Crude Oil Tanker,berth1,VLCC,4 days 05:26:05,3.0
-9166417.0,berth,2,2022-10-13 05:17:35,2022-10-16 21:29:05,106474.0,Crude Oil Tanker,berth2,Aframax,3 days 16:11:30,3.0
+9166417.0,berth,2,2022-10-13 05:17:35,2022-10-16 21:29:05,106474.0,Crude Oil Tanker,berth2,Aframax,3 days 16:11:30,1.0
 9345221.0,anchorage,1,2022-10-13 06:28:06,2022-10-18 09:58:23,13060.0,Products Tanker,anchorage63,Sub Handysize,5 days 03:30:17,
 9411965.0,anchorage,1,2022-10-13 10:32:45,2022-10-13 22:38:59,317441.0,Crude Oil Tanker,anchorage49,VLCC,0 days 12:06:14,2.0
 9424285.0,anchorage,1,2022-10-13 11:54:47,2022-10-14 19:51:16,13451.0,Products Tanker,anchorage24,Sub Handysize,1 days 07:56:29,
 9785225.0,SPM,4,2022-10-13 11:55:37,2022-10-15 11:34:28,159055.0,Crude Oil Tanker,SPM4,Suezmax,1 days 23:38:51,5.0
-9257010.0,berth,2,2022-10-13 13:13:05,2022-10-13 13:13:05,105672.0,Crude Oil Tanker,berth2,Aframax,0 days 00:00:00,2
 9339648.0,anchorage,1,2022-10-13 18:16:45,2022-10-16 13:16:34,34671.0,Chemical/Products Tanker,anchorage14,Handysize,2 days 18:59:49,
 9759771.0,anchorage,1,2022-10-13 18:57:43,2022-10-15 12:47:54,157351.0,Crude Oil Tanker,anchorage57,Suezmax,1 days 17:50:11,2.0
 9258466.0,anchorage,1,2022-10-13 23:22:17,2022-10-15 13:40:31,68524.0,Products Tanker,anchorage55,Panamax,1 days 14:18:14,
@@ -9305,7 +9266,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9266762.0,anchorage,1,2022-10-16 12:14:19,2022-10-17 10:57:41,70426.0,Crude/Oil Products Tanker,anchorage5,Panamax,0 days 22:43:22,
 9360233.0,SPM,1,2022-10-16 13:42:59,2022-10-18 16:16:19,302403.0,Crude Oil Tanker,SPM1,VLCC,2 days 02:33:20,26.0
 9853591.0,anchorage,1,2022-10-16 15:07:00,2022-10-20 01:45:09,299696.0,Crude Oil Tanker,anchorage2,VLCC,3 days 10:38:09,7.0
-9509023.0,anchorage,1,2022-10-16 17:49:26,2022-10-17 15:57:29,149998.0,Crude Oil Tanker,anchorage23,Suezmax,0 days 22:08:03,7.0
+9509023.0,anchorage,1,2022-10-16 17:49:26,2022-10-17 15:57:29,149998.0,Crude Oil Tanker,anchorage23,Suezmax,0 days 22:08:03,6.0
 9727015.0,berth,4,2022-10-16 19:52:12,2022-10-20 10:48:50,299983.0,Crude Oil Tanker,berth4,VLCC,3 days 14:56:38,2.0
 9610298.0,anchorage,1,2022-10-16 21:07:15,2022-10-19 19:04:23,316635.0,Crude Oil Tanker,anchorage52,VLCC,2 days 21:57:08,7.0
 9858486.0,anchorage,1,2022-10-16 22:23:36,2022-10-17 12:50:28,299999.0,Crude Oil Tanker,anchorage54,VLCC,0 days 14:26:52,
@@ -9317,16 +9278,16 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9424285.0,anchorage,1,2022-10-17 07:40:52,2022-10-19 06:23:38,13451.0,Products Tanker,anchorage14,Sub Handysize,1 days 22:42:46,
 9463009.0,anchorage,1,2022-10-17 07:41:15,2022-10-18 04:29:51,4999.0,Asphalt/Bitumen Tanker,anchorage49,Sub Handysize,0 days 20:48:36,
 9590876.0,anchorage,1,2022-10-17 12:13:29,2022-10-18 00:16:09,318123.0,Crude Oil Tanker,anchorage2,VLCC,0 days 12:02:40,1.0
-9509023.0,SPM,3,2022-10-17 16:27:19,2022-10-19 16:01:43,149998.0,Crude Oil Tanker,SPM3,Suezmax,1 days 23:34:24,7.0
+9509023.0,SPM,3,2022-10-17 16:27:19,2022-10-19 16:01:43,149998.0,Crude Oil Tanker,SPM3,Suezmax,1 days 23:34:24,6.0
 9440136.0,anchorage,1,2022-10-17 19:12:57,2022-10-23 02:25:42,46838.0,Chemical/Products Tanker,anchorage8,Handysize,5 days 07:12:45,
 9214745.0,anchorage,1,2022-10-17 20:32:02,2022-10-19 14:33:14,34810.0,Products Tanker,anchorage38,Handysize,1 days 18:01:12,
 9318137.0,anchorage,1,2022-10-17 20:48:57,2022-10-21 09:15:37,167294.0,Crude Oil Tanker,anchorage37,Suezmax,3 days 12:26:40,
 9590876.0,berth,1,2022-10-18 02:06:40,2022-10-20 21:42:43,318123.0,Crude Oil Tanker,berth1,VLCC,2 days 19:36:03,1.0
 9360233.0,SPM,1,2022-10-18 16:52:18,2022-10-18 19:49:18,302403.0,Crude Oil Tanker,SPM1,VLCC,0 days 02:57:00,27.0
 9360233.0,SPM,1,2022-10-18 20:31:18,2022-10-19 10:05:35,302403.0,Crude Oil Tanker,SPM1,VLCC,0 days 13:34:17,28.0
-9293129.0,anchorage,1,2022-10-18 22:04:48,2022-10-19 01:05:45,159155.0,Crude Oil Tanker,anchorage16,Suezmax,0 days 03:00:57,15.0
+9293129.0,anchorage,1,2022-10-18 22:04:48,2022-10-19 01:05:45,159155.0,Crude Oil Tanker,anchorage16,Suezmax,0 days 03:00:57,14.0
 9603192.0,anchorage,1,2022-10-18 22:53:54,2022-10-19 11:49:57,320805.0,Crude Oil Tanker,anchorage54,ULCC,0 days 12:56:03,
-9293129.0,berth,2,2022-10-19 02:07:05,2022-10-21 19:46:46,159155.0,Crude Oil Tanker,berth2,Suezmax,2 days 17:39:41,15.0
+9293129.0,berth,2,2022-10-19 02:07:05,2022-10-21 19:46:46,159155.0,Crude Oil Tanker,berth2,Suezmax,2 days 17:39:41,14.0
 9254862.0,anchorage,1,2022-10-19 05:10:50,2022-10-22 10:25:57,70146.0,Products Tanker,anchorage62,Panamax,3 days 05:15:07,
 9534030.0,SPM,2,2022-10-19 06:01:58,2022-10-20 03:13:14,318348.0,Crude Oil Tanker,SPM2,VLCC,0 days 21:11:16,1.0
 9290397.0,anchorage,1,2022-10-19 10:17:52,2022-10-21 23:58:18,159156.0,Crude Oil Tanker,anchorage11,Suezmax,2 days 13:40:26,8.0
@@ -9379,7 +9340,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9753363.0,anchorage,1,2022-10-22 18:53:06,2022-10-23 00:28:00,157392.0,Crude Oil Tanker,anchorage52,Suezmax,0 days 05:34:54,
 9258466.0,anchorage,1,2022-10-22 19:46:37,2022-10-24 13:21:49,68524.0,Products Tanker,anchorage62,Panamax,1 days 17:35:12,
 9761360.0,berth,2,2022-10-22 21:48:48,2022-10-25 20:46:19,156458.0,Crude Oil Tanker,berth2,Suezmax,2 days 22:57:31,4.0
-9209300.0,SPM,1,2022-10-23 00:29:40,2022-10-28 15:39:38,69999.0,Crude Oil Tanker,SPM1,Panamax,5 days 15:09:58,6.0
+9209300.0,SPM,1,2022-10-23 00:29:40,2022-10-28 15:39:38,69999.0,Crude Oil Tanker,SPM1,Panamax,5 days 15:09:58,2.0
 9610298.0,anchorage,1,2022-10-23 03:50:15,2022-10-24 06:42:38,316635.0,Crude Oil Tanker,anchorage64,VLCC,1 days 02:52:23,
 9294587.0,anchorage,1,2022-10-23 03:53:35,2022-10-24 01:59:34,299118.0,Crude Oil Tanker,anchorage32,VLCC,0 days 22:05:59,2.0
 9215115.0,anchorage,1,2022-10-23 05:54:55,2022-10-25 13:47:33,35970.0,Products Tanker,anchorage61,Handysize,2 days 07:52:38,
@@ -9432,7 +9393,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9456927.0,anchorage,1,2022-10-27 12:26:27,2022-11-03 03:58:46,74606.0,Crude/Oil Products Tanker,anchorage29,Panamax,6 days 15:32:19,
 9432062.0,anchorage,1,2022-10-27 12:38:09,2022-10-30 05:03:08,149999.0,Crude Oil Tanker,anchorage16,Suezmax,2 days 16:24:59,4.0
 9432048.0,anchorage,1,2022-10-27 13:35:42,2022-10-27 21:44:14,149999.0,Crude Oil Tanker,anchorage23,Suezmax,0 days 08:08:32,
-9406685.0,anchorage,1,2022-10-27 16:27:10,2022-10-28 16:33:47,157484.0,Crude Oil Tanker,anchorage3,Suezmax,1 days 00:06:37,6.0
+9406685.0,anchorage,1,2022-10-27 16:27:10,2022-10-28 16:33:47,157484.0,Crude Oil Tanker,anchorage3,Suezmax,1 days 00:06:37,5.0
 9799185.0,anchorage,1,2022-10-27 17:24:13,2022-10-27 22:54:46,307431.0,Crude Oil Tanker,anchorage49,VLCC,0 days 05:30:33,
 9843302.0,anchorage,1,2022-10-27 18:26:32,2022-10-28 05:17:23,319702.0,Crude Oil Tanker,anchorage31,VLCC,0 days 10:50:51,1
 9256975.0,SPM,4,2022-10-27 18:30:57,2022-10-30 21:09:10,314000.0,Crude Oil Tanker,SPM4,VLCC,3 days 02:38:13,7.0
@@ -9446,7 +9407,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9267948.0,anchorage,1,2022-10-28 14:41:53,2022-10-28 23:20:53,46101.0,Products Tanker,anchorage53,Handysize,0 days 08:39:00,
 9779161.0,anchorage,1,2022-10-28 15:13:38,2022-10-31 12:41:31,2500.0,Products Tanker,anchorage8,Sub Handysize,2 days 21:27:53,
 9328716.0,anchorage,1,2022-10-28 16:06:35,2022-10-29 07:58:40,302481.0,Crude Oil Tanker,anchorage48,VLCC,0 days 15:52:05,
-9406685.0,SPM,1,2022-10-28 16:54:06,2022-10-30 04:31:37,157484.0,Crude Oil Tanker,SPM1,Suezmax,1 days 11:37:31,6.0
+9406685.0,SPM,1,2022-10-28 16:54:06,2022-10-30 04:31:37,157484.0,Crude Oil Tanker,SPM1,Suezmax,1 days 11:37:31,5.0
 9686340.0,anchorage,1,2022-10-28 17:17:43,2022-10-31 17:52:25,313982.0,Crude Oil Tanker,anchorage54,VLCC,3 days 00:34:42,4.0
 9750062.0,anchorage,1,2022-10-28 17:25:36,2022-10-29 13:42:47,149992.0,Crude Oil Tanker,anchorage3,Suezmax,0 days 20:17:11,11.0
 9295024.0,anchorage,1,2022-10-28 17:29:56,2022-10-30 18:33:42,297439.0,Crude Oil Tanker,anchorage2,VLCC,2 days 01:03:46,5.0
@@ -9505,7 +9466,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9593438.0,anchorage,1,2022-11-03 04:53:55,2022-11-07 22:55:00,159056.0,Crude Oil Tanker,anchorage35,Suezmax,4 days 18:01:05,
 9263382.0,anchorage,1,2022-11-03 04:59:35,2022-11-10 06:05:10,18736.0,Chemical/Products Tanker,anchorage32,Sub Handysize,7 days 01:05:35,
 9424285.0,anchorage,1,2022-11-03 16:52:51,2022-11-06 06:56:14,13451.0,Products Tanker,anchorage12,Sub Handysize,2 days 14:03:23,
-9509023.0,anchorage,1,2022-11-03 16:53:56,2022-11-05 04:17:54,149998.0,Crude Oil Tanker,anchorage57,Suezmax,1 days 11:23:58,8.0
+9509023.0,anchorage,1,2022-11-03 16:53:56,2022-11-05 04:17:54,149998.0,Crude Oil Tanker,anchorage57,Suezmax,1 days 11:23:58,7.0
 9749489.0,anchorage,1,2022-11-03 20:07:04,2022-11-03 22:31:51,158594.0,Crude Oil Tanker,anchorage26,Suezmax,0 days 02:24:47,1
 9746619.0,anchorage,1,2022-11-03 21:03:10,2022-11-04 03:27:08,157525.0,Crude Oil Tanker,anchorage49,Suezmax,0 days 06:23:58,5.0
 9297890.0,anchorage,1,2022-11-03 21:50:53,2022-11-04 08:45:15,163292.0,Crude Oil Tanker,anchorage48,Suezmax,0 days 10:54:22,
@@ -9517,7 +9478,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9931329.0,anchorage,1,2022-11-04 19:10:26,2022-11-05 18:14:16,299945.0,Crude Oil Tanker,anchorage32,VLCC,0 days 23:03:50,2.0
 9753363.0,anchorage,1,2022-11-04 20:17:15,2022-11-05 05:51:32,157392.0,Crude Oil Tanker,anchorage3,Suezmax,0 days 09:34:17,10.0
 9405631.0,anchorage,1,2022-11-04 23:50:38,2022-11-05 00:00:57,5741.0,Chemical/Products Tanker,anchorage62,Sub Handysize,0 days 00:10:19,
-9509023.0,SPM,1,2022-11-05 04:55:24,2022-11-05 05:33:26,149998.0,Crude Oil Tanker,SPM1,Suezmax,0 days 00:38:02,8.0
+9509023.0,SPM,1,2022-11-05 04:55:24,2022-11-05 05:33:26,149998.0,Crude Oil Tanker,SPM1,Suezmax,0 days 00:38:02,7.0
 9753363.0,berth,2,2022-11-05 06:39:32,2022-11-07 07:28:32,157392.0,Crude Oil Tanker,berth2,Suezmax,2 days 00:49:00,10.0
 9785225.0,anchorage,1,2022-11-05 06:55:44,2022-11-07 20:51:40,159055.0,Crude Oil Tanker,anchorage57,Suezmax,2 days 13:55:56,6.0
 9322140.0,anchorage,1,2022-11-05 10:12:50,2022-11-06 04:09:51,13050.0,Products Tanker,anchorage14,Sub Handysize,0 days 17:57:01,
@@ -9557,7 +9518,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9445459.0,SPM,4,2022-11-09 03:58:00,2022-11-10 20:55:58,319540.0,Crude Oil Tanker,SPM4,VLCC,1 days 16:57:58,2.0
 9272395.0,anchorage,1,2022-11-09 04:24:27,2022-11-14 10:36:54,45975.0,Products Tanker,anchorage14,Handysize,5 days 06:12:27,
 9799159.0,anchorage,1,2022-11-09 04:27:10,2022-11-09 15:42:08,311080.0,Crude Oil Tanker,anchorage49,VLCC,0 days 11:14:58,
-9209300.0,berth,2,2022-11-09 06:05:42,2022-11-13 21:11:31,69999.0,Crude Oil Tanker,berth2,Panamax,4 days 15:05:49,7.0
+9209300.0,berth,2,2022-11-09 06:05:42,2022-11-13 21:11:31,69999.0,Crude Oil Tanker,berth2,Panamax,4 days 15:05:49,3.0
 9486518.0,anchorage,1,2022-11-09 06:32:47,2022-11-09 16:02:49,318506.0,Crude Oil Tanker,anchorage54,VLCC,0 days 09:30:02,
 9169770.0,anchorage,1,2022-11-09 07:16:50,2022-11-13 11:46:49,15441.0,Chemical/Products Tanker,anchorage59,Sub Handysize,4 days 04:29:59,
 9646986.0,anchorage,1,2022-11-09 13:09:58,2022-11-09 21:58:31,297336.0,Crude Oil Tanker,anchorage9,VLCC,0 days 08:48:33,3.0
@@ -9596,32 +9557,32 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9646986.0,anchorage,1,2022-11-13 05:44:02,2022-11-13 10:48:03,297336.0,Crude Oil Tanker,anchorage64,VLCC,0 days 05:04:01,
 9791145.0,anchorage,1,2022-11-13 11:20:22,2022-11-28 21:32:37,159159.0,Crude Oil Tanker,anchorage41,Suezmax,15 days 10:12:15,
 9326067.0,berth,1,2022-11-13 14:06:35,2022-11-15 16:37:04,298495.0,Crude Oil Tanker,berth1,VLCC,2 days 02:30:29,4.0
-9250737.0,anchorage,1,2022-11-13 17:04:57,2022-11-14 07:28:22,151736.0,Crude Oil Tanker,anchorage49,Suezmax,0 days 14:23:25,4.0
+9250737.0,anchorage,1,2022-11-13 17:04:57,2022-11-14 07:28:22,151736.0,Crude Oil Tanker,anchorage49,Suezmax,0 days 14:23:25,3.0
 9389758.0,anchorage,1,2022-11-13 17:50:53,2022-11-14 17:57:20,297183.0,Crude Oil Tanker,anchorage2,VLCC,1 days 00:06:27,1.0
 9602916.0,anchorage,1,2022-11-13 23:30:23,2022-11-14 20:53:11,299991.0,Crude Oil Tanker,anchorage30,VLCC,0 days 21:22:48,
 9360233.0,SPM,1,2022-11-14 01:25:22,2022-11-15 17:04:24,302403.0,Crude Oil Tanker,SPM1,VLCC,1 days 15:39:02,31.0
 9845154.0,anchorage,1,2022-11-14 05:42:29,2022-11-14 16:54:30,299420.0,Crude Oil Tanker,anchorage52,VLCC,0 days 11:12:01,
 9322140.0,anchorage,1,2022-11-14 08:17:33,2022-11-15 10:38:32,13050.0,Products Tanker,anchorage63,Sub Handysize,1 days 02:20:59,
-9250737.0,berth,3,2022-11-14 09:08:43,2022-11-16 02:39:46,151736.0,Crude Oil Tanker,berth3,Suezmax,1 days 17:31:03,4.0
+9250737.0,berth,3,2022-11-14 09:08:43,2022-11-16 02:39:46,151736.0,Crude Oil Tanker,berth3,Suezmax,1 days 17:31:03,3.0
 9686352.0,SPM,3,2022-11-14 10:49:10,2022-11-16 16:22:54,313992.0,Crude Oil Tanker,SPM3,VLCC,2 days 05:33:44,4.0
 9480837.0,anchorage,1,2022-11-14 11:35:17,2022-11-14 23:35:23,320105.0,Crude Oil Tanker,anchorage32,ULCC,0 days 12:00:06,7.0
 9345221.0,anchorage,1,2022-11-14 14:02:36,2022-11-16 16:19:18,13060.0,Products Tanker,anchorage63,Sub Handysize,2 days 02:16:42,
 9858462.0,anchorage,1,2022-11-14 17:27:52,2022-11-15 12:21:30,299999.0,Crude Oil Tanker,anchorage52,VLCC,0 days 18:53:38,
-9294252.0,anchorage,1,2022-11-14 19:10:32,2022-11-15 11:34:22,302477.0,Crude Oil Tanker,anchorage9,VLCC,0 days 16:23:50,4.0
+9294252.0,anchorage,1,2022-11-14 19:10:32,2022-11-15 11:34:22,302477.0,Crude Oil Tanker,anchorage9,VLCC,0 days 16:23:50,3.0
 9397145.0,anchorage,1,2022-11-14 19:22:39,2022-11-15 12:26:22,302303.0,Crude Oil Tanker,anchorage52,VLCC,0 days 17:03:43,
 9480837.0,berth,2,2022-11-15 00:56:04,2022-11-18 18:30:23,320105.0,Crude Oil Tanker,berth2,ULCC,3 days 17:34:19,7.0
 9215115.0,anchorage,1,2022-11-15 06:16:21,2022-11-19 22:30:12,35970.0,Products Tanker,anchorage38,Handysize,4 days 16:13:51,
-9294252.0,SPM,2,2022-11-15 12:46:12,2022-11-15 17:20:17,302477.0,Crude Oil Tanker,SPM2,VLCC,0 days 04:34:05,4.0
+9294252.0,SPM,2,2022-11-15 12:46:12,2022-11-15 17:20:17,302477.0,Crude Oil Tanker,SPM2,VLCC,0 days 04:34:05,3.0
 9607423.0,anchorage,1,2022-11-15 13:48:08,2022-11-15 14:00:09,164732.0,Crude Oil Tanker,anchorage52,Suezmax,0 days 00:12:01,7.0
 9326067.0,anchorage,1,2022-11-15 16:57:25,2022-11-15 17:06:24,298495.0,Crude Oil Tanker,anchorage23,VLCC,0 days 00:08:59,
 9800271.0,anchorage,1,2022-11-15 17:24:38,2022-11-17 09:17:53,149999.0,Crude Oil Tanker,anchorage2,Suezmax,1 days 15:53:15,10.0
 9360233.0,SPM,1,2022-11-15 17:58:24,2022-11-16 20:00:57,302403.0,Crude Oil Tanker,SPM1,VLCC,1 days 02:02:33,32.0
-9294252.0,SPM,2,2022-11-15 18:32:21,2022-11-17 03:22:40,302477.0,Crude Oil Tanker,SPM2,VLCC,1 days 08:50:19,5.0
+9294252.0,SPM,2,2022-11-15 18:32:21,2022-11-17 03:22:40,302477.0,Crude Oil Tanker,SPM2,VLCC,1 days 08:50:19,4.0
 9389758.0,SPM,4,2022-11-15 19:43:02,2022-11-15 20:22:00,297183.0,Crude Oil Tanker,SPM4,VLCC,0 days 00:38:58,1.0
 9607423.0,berth,4,2022-11-15 21:09:56,2022-11-16 20:01:31,164732.0,Crude Oil Tanker,berth4,Suezmax,0 days 22:51:35,7.0
 9324100.0,anchorage,1,2022-11-16 05:53:41,2022-11-18 13:16:51,302478.0,Crude Oil Tanker,anchorage52,VLCC,2 days 07:23:10,13.0
 9254850.0,anchorage,1,2022-11-16 14:51:03,2022-11-23 15:15:06,70142.0,Products Tanker,anchorage14,Panamax,7 days 00:24:03,
-9293129.0,anchorage,1,2022-11-16 15:24:05,2022-11-17 13:24:07,159155.0,Crude Oil Tanker,anchorage57,Suezmax,0 days 22:00:02,16.0
+9293129.0,anchorage,1,2022-11-16 15:24:05,2022-11-17 13:24:07,159155.0,Crude Oil Tanker,anchorage57,Suezmax,0 days 22:00:02,15.0
 9855343.0,anchorage,1,2022-11-16 18:50:29,2022-11-18 23:58:22,300000.0,Crude Oil Tanker,anchorage49,VLCC,2 days 05:07:53,1.0
 9232955.0,anchorage,1,2022-11-16 19:06:34,2022-11-17 12:38:14,14796.0,Chemical/Products Tanker,anchorage52,Sub Handysize,0 days 17:31:40,
 9686352.0,anchorage,1,2022-11-16 19:17:34,2022-11-18 02:40:07,313992.0,Crude Oil Tanker,anchorage53,VLCC,1 days 07:22:33,
@@ -9631,8 +9592,8 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9013426.0,anchorage,1,2022-11-17 05:35:48,2022-11-19 10:00:23,16755.0,Chemical/Products Tanker,anchorage53,Sub Handysize,2 days 04:24:35,
 9800271.0,SPM,3,2022-11-17 09:41:47,2022-11-17 09:58:01,149999.0,Crude Oil Tanker,SPM3,Suezmax,0 days 00:16:14,10.0
 9430715.0,anchorage,1,2022-11-17 11:27:36,2022-11-23 15:19:00,13937.0,Chemical/Products Tanker,anchorage1,Sub Handysize,6 days 03:51:24,
-9709087.0,anchorage,1,2022-11-17 16:17:02,2022-11-17 20:32:20,299320.0,Crude Oil Tanker,anchorage48,VLCC,0 days 04:15:18,3.0
-9293129.0,berth,1,2022-11-17 21:57:37,2022-11-19 13:09:40,159155.0,Crude Oil Tanker,berth1,Suezmax,1 days 15:12:03,16.0
+9709087.0,anchorage,1,2022-11-17 16:17:02,2022-11-17 20:32:20,299320.0,Crude Oil Tanker,anchorage48,VLCC,0 days 04:15:18,
+9293129.0,berth,1,2022-11-17 21:57:37,2022-11-19 13:09:40,159155.0,Crude Oil Tanker,berth1,Suezmax,1 days 15:12:03,15.0
 9349655.0,anchorage,1,2022-11-18 08:17:50,2022-11-19 23:38:51,20896.0,Chemical/Products Tanker,anchorage5,Handysize,1 days 15:21:01,
 9582738.0,anchorage,1,2022-11-18 08:26:59,2022-11-21 14:04:22,14445.0,Chemical/Products Tanker,anchorage38,Sub Handysize,3 days 05:37:23,
 9294252.0,anchorage,1,2022-11-18 12:16:46,2022-11-18 23:07:13,302477.0,Crude Oil Tanker,anchorage49,VLCC,0 days 10:50:27,
@@ -9646,7 +9607,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9855343.0,SPM,1,2022-11-19 05:18:25,2022-11-19 13:03:31,300000.0,Crude Oil Tanker,SPM1,VLCC,0 days 07:45:06,1.0
 9607423.0,berth,4,2022-11-19 05:19:50,2022-11-19 07:16:51,164732.0,Crude Oil Tanker,berth4,Suezmax,0 days 01:57:01,8.0
 9920708.0,berth,2,2022-11-19 05:58:45,2022-11-19 08:08:58,157105.0,Crude Oil Tanker,berth2,Suezmax,0 days 02:10:13,1
-9709087.0,berth,3,2022-11-19 06:15:49,2022-11-19 06:15:49,299320.0,Crude Oil Tanker,berth3,VLCC,0 days 00:00:00,3.0
 9297498.0,SPM,4,2022-11-19 08:25:58,2022-11-20 16:37:39,316409.0,Crude Oil Tanker,SPM4,VLCC,1 days 08:11:41,22.0
 9800271.0,anchorage,1,2022-11-19 12:13:05,2022-11-19 17:38:54,149999.0,Crude Oil Tanker,anchorage23,Suezmax,0 days 05:25:49,
 9424285.0,anchorage,1,2022-11-19 13:27:31,2022-11-22 07:58:12,13451.0,Products Tanker,anchorage62,Sub Handysize,2 days 18:30:41,
@@ -9701,7 +9661,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9829655.0,berth,3,2022-11-24 06:21:21,2022-11-27 05:31:55,320596.0,Crude Oil Tanker,berth3,ULCC,2 days 23:10:34,1.0
 9113094.0,anchorage,1,2022-11-24 06:39:59,2022-11-25 00:28:06,12913.0,Crude/Oil Products Tanker,anchorage12,Sub Handysize,0 days 17:48:07,
 9363182.0,anchorage,1,2022-11-24 07:50:35,2022-11-24 16:06:16,9971.0,Chemical/Products Tanker,anchorage24,Sub Handysize,0 days 08:15:41,
-9516105.0,anchorage,1,2022-11-24 11:14:06,2022-11-26 04:47:38,157672.0,Crude Oil Tanker,anchorage34,Suezmax,1 days 17:33:32,7.0
+9516105.0,anchorage,1,2022-11-24 11:14:06,2022-11-26 04:47:38,157672.0,Crude Oil Tanker,anchorage34,Suezmax,1 days 17:33:32,6.0
 9905318.0,anchorage,1,2022-11-24 11:33:15,2022-11-24 14:36:15,163111.0,Crude Oil Tanker,anchorage48,Suezmax,0 days 03:03:00,
 9884045.0,berth,1,2022-11-24 11:49:33,2022-11-25 20:18:33,157447.0,Crude Oil Tanker,berth1,Suezmax,1 days 08:29:00,3.0
 9610298.0,anchorage,1,2022-11-24 14:16:22,2022-11-26 22:25:44,316635.0,Crude Oil Tanker,anchorage2,VLCC,2 days 08:09:22,8.0
@@ -9719,7 +9679,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9874246.0,SPM,1,2022-11-26 05:38:35,2022-11-28 05:32:29,158060.0,Crude Oil Tanker,SPM1,Suezmax,1 days 23:53:54,4.0
 9194139.0,anchorage,1,2022-11-26 06:01:02,2022-11-29 16:30:33,99123.0,Crude Oil Tanker,anchorage15,Aframax,3 days 10:29:31,
 9416642.0,anchorage,1,2022-11-26 06:14:00,2022-11-26 07:13:40,309266.0,Crude Oil Tanker,anchorage49,VLCC,0 days 00:59:40,
-9516105.0,berth,4,2022-11-26 06:18:58,2022-11-28 17:40:18,157672.0,Crude Oil Tanker,berth4,Suezmax,2 days 11:21:20,7.0
+9516105.0,berth,4,2022-11-26 06:18:58,2022-11-28 17:40:18,157672.0,Crude Oil Tanker,berth4,Suezmax,2 days 11:21:20,6.0
 9294329.0,anchorage,1,2022-11-26 06:21:54,2022-11-26 16:48:16,311389.0,Crude Oil Tanker,anchorage49,VLCC,0 days 10:26:22,
 9291286.0,anchorage,1,2022-11-26 08:04:24,2022-11-26 11:08:57,318658.0,Crude Oil Tanker,anchorage32,VLCC,0 days 03:04:33,3.0
 9834454.0,anchorage,1,2022-11-26 09:31:45,2022-11-29 19:43:53,318608.0,Crude Oil Tanker,anchorage54,VLCC,3 days 10:12:08,3.0
@@ -9755,7 +9715,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9417189.0,anchorage,1,2022-11-29 15:19:52,2022-11-30 06:13:01,297136.0,Crude Oil Tanker,anchorage44,VLCC,0 days 14:53:09,4.0
 9610298.0,anchorage,1,2022-11-29 16:04:33,2022-11-30 22:17:36,316635.0,Crude Oil Tanker,anchorage43,VLCC,1 days 06:13:03,
 9734654.0,anchorage,1,2022-11-29 18:41:58,2022-11-30 11:51:59,300932.0,Crude Oil Tanker,anchorage65,VLCC,0 days 17:10:01,
-9298753.0,anchorage,1,2022-11-29 18:58:33,2022-12-01 15:43:05,163759.0,Crude Oil Tanker,anchorage57,Suezmax,1 days 20:44:32,5.0
+9298753.0,anchorage,1,2022-11-29 18:58:33,2022-12-01 15:43:05,163759.0,Crude Oil Tanker,anchorage57,Suezmax,1 days 20:44:32,
 9537757.0,SPM,2,2022-11-29 19:31:09,2022-12-01 07:09:54,314000.0,Crude Oil Tanker,SPM2,VLCC,1 days 11:38:45,1.0
 9329863.0,berth,4,2022-11-29 20:39:42,2022-12-01 09:18:25,306033.0,Crude Oil Tanker,berth4,VLCC,1 days 12:38:43,3.0
 9834454.0,SPM,4,2022-11-29 20:54:43,2022-11-30 23:14:44,318608.0,Crude Oil Tanker,SPM4,VLCC,1 days 02:20:01,3.0
@@ -9773,9 +9733,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9834454.0,anchorage,1,2022-12-01 06:40:02,2022-12-02 01:20:28,318608.0,Crude Oil Tanker,anchorage52,VLCC,0 days 18:40:26,
 9800245.0,anchorage,1,2022-12-01 07:59:04,2022-12-02 12:49:34,156917.0,Crude Oil Tanker,anchorage65,Suezmax,1 days 04:50:30,9.0
 9272395.0,anchorage,1,2022-12-01 16:10:13,2022-12-07 04:38:59,45975.0,Products Tanker,anchorage61,Handysize,5 days 12:28:46,
-9298753.0,berth,1,2022-12-01 17:06:35,2022-12-01 17:06:35,163759.0,Crude Oil Tanker,berth1,Suezmax,0 days 00:00:00,5.0
-9800269.0,anchorage,1,2022-12-01 18:04:46,2022-12-01 23:25:04,157007.0,Crude Oil Tanker,anchorage2,Suezmax,0 days 05:20:18,5.0
-9800269.0,berth,3,2022-12-02 00:52:02,2022-12-02 00:52:02,157007.0,Crude Oil Tanker,berth3,Suezmax,0 days 00:00:00,5.0
+9800269.0,anchorage,1,2022-12-01 18:04:46,2022-12-01 23:25:04,157007.0,Crude Oil Tanker,anchorage2,Suezmax,0 days 05:20:18,
 9120994.0,anchorage,1,2022-12-02 01:47:04,2022-12-03 18:43:49,46162.0,Chemical/Products Tanker,anchorage4,Handysize,1 days 16:56:45,
 9390599.0,anchorage,1,2022-12-02 07:00:56,2022-12-02 09:33:56,105599.0,Crude/Oil Products Tanker,anchorage29,Aframax,0 days 02:33:00,
 9633501.0,anchorage,1,2022-12-02 08:36:16,2022-12-04 19:01:29,51604.0,Chemical/Products Tanker,anchorage43,Handysize,2 days 10:25:13,
@@ -9805,7 +9763,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9800245.0,anchorage,1,2022-12-04 21:25:29,2022-12-05 11:03:31,156917.0,Crude Oil Tanker,anchorage49,Suezmax,0 days 13:38:02,
 9159816.0,anchorage,1,2022-12-05 03:33:45,2022-12-12 08:27:54,11047.0,Asphalt/Bitumen Tanker,anchorage19,Sub Handysize,7 days 04:54:09,
 9358280.0,anchorage,1,2022-12-05 05:10:13,2022-12-05 16:04:15,307284.0,Crude Oil Tanker,anchorage2,VLCC,0 days 10:54:02,
-9209300.0,berth,2,2022-12-05 06:44:29,2022-12-09 20:37:33,69999.0,Crude Oil Tanker,berth2,Panamax,4 days 13:53:04,8.0
+9209300.0,berth,2,2022-12-05 06:44:29,2022-12-09 20:37:33,69999.0,Crude Oil Tanker,berth2,Panamax,4 days 13:53:04,4.0
 9385037.0,anchorage,1,2022-12-05 12:50:38,2022-12-06 06:29:10,320142.0,Crude Oil Tanker,anchorage31,ULCC,0 days 17:38:32,
 9733818.0,anchorage,1,2022-12-05 16:11:43,2022-12-06 08:16:33,299999.0,Crude Oil Tanker,anchorage52,VLCC,0 days 16:04:50,1.0
 9800271.0,anchorage,1,2022-12-05 18:08:22,2022-12-05 21:36:49,149999.0,Crude Oil Tanker,anchorage46,Suezmax,0 days 03:28:27,
@@ -9819,7 +9777,6 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9567659.0,SPM,3,2022-12-07 04:26:55,2022-12-07 04:31:27,305206.0,Crude Oil Tanker,SPM3,VLCC,0 days 00:04:32,12.0
 9804136.0,anchorage,1,2022-12-07 04:32:59,2022-12-07 07:32:58,157453.0,Crude Oil Tanker,anchorage2,Suezmax,0 days 02:59:59,6.0
 9567659.0,anchorage,1,2022-12-07 04:37:46,2022-12-07 06:24:07,305206.0,Crude Oil Tanker,anchorage23,VLCC,0 days 01:46:21,
-8915110.0,berth,2,2022-12-07 12:15:34,2022-12-07 12:15:34,1255.0,Asphalt/Bitumen Tanker,berth2,Sub Handysize,0 days 00:00:00,1.0
 8915110.0,anchorage,1,2022-12-07 12:16:59,2022-12-31 23:52:05,1255.0,Asphalt/Bitumen Tanker,anchorage19,Sub Handysize,24 days 11:35:06,
 9765366.0,anchorage,1,2022-12-07 15:58:20,2022-12-07 16:40:26,159962.0,Crude Oil Tanker,anchorage52,Suezmax,0 days 00:42:06,
 9409247.0,anchorage,1,2022-12-07 18:12:29,2022-12-09 07:31:11,317441.0,Crude Oil Tanker,anchorage32,VLCC,1 days 13:18:42,5.0
@@ -9837,13 +9794,13 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9285861.0,anchorage,1,2022-12-08 08:59:12,2022-12-16 11:41:13,103124.0,Crude Oil Tanker,anchorage25,Aframax,8 days 02:42:01,
 9390599.0,anchorage,1,2022-12-08 13:47:38,2022-12-10 05:20:56,105599.0,Crude/Oil Products Tanker,anchorage29,Aframax,1 days 15:33:18,
 9594767.0,anchorage,1,2022-12-08 16:33:47,2022-12-11 04:41:07,158615.0,Crude Oil Tanker,anchorage57,Suezmax,2 days 12:07:20,
-9771743.0,anchorage,1,2022-12-08 18:06:01,2022-12-09 04:16:38,307664.0,Crude Oil Tanker,anchorage52,VLCC,0 days 10:10:37,3.0
+9771743.0,anchorage,1,2022-12-08 18:06:01,2022-12-09 04:16:38,307664.0,Crude Oil Tanker,anchorage52,VLCC,0 days 10:10:37,2.0
 9912256.0,anchorage,1,2022-12-08 20:08:04,2022-12-09 08:03:34,299937.0,Crude Oil Tanker,anchorage52,VLCC,0 days 11:55:30,
 9643271.0,SPM,2,2022-12-08 20:50:52,2022-12-11 04:33:18,313998.0,Crude Oil Tanker,SPM2,VLCC,2 days 07:42:26,9.0
 9708514.0,anchorage,1,2022-12-09 00:30:19,2022-12-11 11:46:10,318862.0,Crude Oil Tanker,anchorage26,VLCC,2 days 11:15:51,3.0
 9226011.0,berth,4,2022-12-09 02:03:17,2022-12-09 02:04:17,47084.0,Products Tanker,berth4,Handysize,0 days 00:01:00,1.0
 9679593.0,anchorage,1,2022-12-09 02:26:54,2022-12-09 16:45:04,318513.0,Crude Oil Tanker,anchorage49,VLCC,0 days 14:18:10,
-9771743.0,berth,3,2022-12-09 05:43:58,2022-12-11 04:03:04,307664.0,Crude Oil Tanker,berth3,VLCC,1 days 22:19:06,3.0
+9771743.0,berth,3,2022-12-09 05:43:58,2022-12-11 04:03:04,307664.0,Crude Oil Tanker,berth3,VLCC,1 days 22:19:06,2.0
 9753363.0,anchorage,1,2022-12-09 11:50:38,2022-12-09 18:08:38,157392.0,Crude Oil Tanker,anchorage2,Suezmax,0 days 06:18:00,
 9409247.0,SPM,3,2022-12-09 14:22:36,2022-12-12 03:52:35,317441.0,Crude Oil Tanker,SPM3,VLCC,2 days 13:29:59,5.0
 9770517.0,anchorage,1,2022-12-09 18:52:26,2022-12-09 23:26:37,319398.0,Crude Oil Tanker,anchorage48,VLCC,0 days 04:34:11,3.0
@@ -9899,7 +9856,7 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9794824.0,anchorage,1,2022-12-14 01:19:03,2022-12-14 10:08:50,301123.0,Crude Oil Tanker,anchorage60,VLCC,0 days 08:49:47,
 9284374.0,anchorage,1,2022-12-14 02:26:17,2022-12-14 02:28:58,74045.0,Crude/Oil Products Tanker,anchorage5,Panamax,0 days 00:02:41,
 9258466.0,anchorage,1,2022-12-14 10:52:14,2022-12-19 12:45:13,68524.0,Products Tanker,anchorage13,Panamax,5 days 01:52:59,
-9293129.0,SPM,2,2022-12-14 17:36:35,2022-12-16 09:54:35,159155.0,Crude Oil Tanker,SPM2,Suezmax,1 days 16:18:00,17.0
+9293129.0,SPM,2,2022-12-14 17:36:35,2022-12-16 09:54:35,159155.0,Crude Oil Tanker,SPM2,Suezmax,1 days 16:18:00,16.0
 9516117.0,berth,3,2022-12-14 19:15:10,2022-12-16 08:34:24,157642.0,Crude Oil Tanker,berth3,Suezmax,1 days 13:19:14,5.0
 9236731.0,anchorage,1,2022-12-14 20:05:37,2022-12-23 09:32:14,37345.0,Chemical/Products Tanker,anchorage29,Handysize,8 days 13:26:37,
 9263215.0,anchorage,1,2022-12-15 02:12:52,2022-12-15 22:15:03,298833.0,Crude Oil Tanker,anchorage23,VLCC,0 days 20:02:11,
@@ -9928,20 +9885,18 @@ imo,type,number,start,end,Deadweight,ShiptypeLevel5,typnum,vessel_class,time_in,
 9263382.0,anchorage,1,2022-12-17 20:37:18,2022-12-17 22:25:22,18736.0,Chemical/Products Tanker,anchorage5,Sub Handysize,0 days 01:48:04,
 9215115.0,anchorage,1,2022-12-17 21:08:14,2022-12-31 23:32:42,35970.0,Products Tanker,anchorage14,Handysize,14 days 02:24:28,
 9904089.0,anchorage,1,2022-12-18 00:42:52,2022-12-18 10:27:53,319202.0,Crude Oil Tanker,anchorage52,VLCC,0 days 09:45:01,
-9516105.0,anchorage,1,2022-12-18 02:15:44,2022-12-18 21:46:13,157672.0,Crude Oil Tanker,anchorage16,Suezmax,0 days 19:30:29,8.0
+9516105.0,anchorage,1,2022-12-18 02:15:44,2022-12-18 21:46:13,157672.0,Crude Oil Tanker,anchorage16,Suezmax,0 days 19:30:29,7.0
 9013426.0,anchorage,1,2022-12-18 04:01:15,2022-12-18 05:08:52,16755.0,Chemical/Products Tanker,anchorage24,Sub Handysize,0 days 01:07:37,
 9829382.0,anchorage,1,2022-12-18 04:34:30,2022-12-18 17:26:58,299546.0,Crude Oil Tanker,anchorage31,VLCC,0 days 12:52:28,2.0
 9500936.0,SPM,3,2022-12-18 09:06:51,2022-12-20 18:44:52,319439.0,Crude Oil Tanker,SPM3,VLCC,2 days 09:38:01,2.0
-9829382.0,berth,2,2022-12-18 18:41:01,2022-12-18 18:41:01,299546.0,Crude Oil Tanker,berth2,VLCC,0 days 00:00:00,2.0
-9829382.0,berth,1,2022-12-18 19:12:19,2022-12-21 07:32:34,299546.0,Crude Oil Tanker,berth1,VLCC,2 days 12:20:15,3.0
-9516105.0,SPM,4,2022-12-18 22:44:05,2022-12-20 07:12:00,157672.0,Crude Oil Tanker,SPM4,Suezmax,1 days 08:27:55,8.0
+9829382.0,berth,1,2022-12-18 19:12:19,2022-12-21 07:32:34,299546.0,Crude Oil Tanker,berth1,VLCC,2 days 12:20:15,2.0
+9516105.0,SPM,4,2022-12-18 22:44:05,2022-12-20 07:12:00,157672.0,Crude Oil Tanker,SPM4,Suezmax,1 days 08:27:55,7.0
 9424285.0,anchorage,1,2022-12-19 01:21:10,2022-12-20 17:52:50,13451.0,Products Tanker,anchorage24,Sub Handysize,1 days 16:31:40,
 9272395.0,anchorage,1,2022-12-19 05:32:05,2022-12-20 10:17:25,45975.0,Products Tanker,anchorage19,Handysize,1 days 04:45:20,
 9275402.0,anchorage,1,2022-12-19 10:44:35,2022-12-19 11:02:37,71830.0,Products Tanker,anchorage8,Panamax,0 days 00:18:02,
 9294305.0,anchorage,1,2022-12-19 12:06:29,2022-12-19 12:32:08,306352.0,Crude Oil Tanker,anchorage52,VLCC,0 days 00:25:39,
 9283629.0,anchorage,1,2022-12-19 16:11:42,2022-12-26 11:11:40,72854.0,Crude/Oil Products Tanker,anchorage61,Panamax,6 days 18:59:58,
 9408475.0,anchorage,1,2022-12-19 16:41:15,2022-12-19 19:02:20,157444.0,Crude Oil Tanker,anchorage16,Suezmax,0 days 02:21:05,7.0
-9166417.0,berth,2,2022-12-19 19:47:09,2022-12-19 19:47:09,106474.0,Crude Oil Tanker,berth2,Aframax,0 days 00:00:00,4.0
 9324100.0,SPM,2,2022-12-20 03:29:56,2022-12-21 00:32:58,302478.0,Crude Oil Tanker,SPM2,VLCC,0 days 21:03:02,14.0
 9159816.0,anchorage,1,2022-12-20 04:51:21,2022-12-27 08:39:01,11047.0,Asphalt/Bitumen Tanker,anchorage19,Sub Handysize,7 days 03:47:40,
 9516105.0,anchorage,1,2022-12-20 07:42:51,2022-12-20 13:09:47,157672.0,Crude Oil Tanker,anchorage54,Suezmax,0 days 05:26:56,
